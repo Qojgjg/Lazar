@@ -1,0 +1,162 @@
+"
+Caleb Ji
+I am a second year graduate student interested in arithmetic geometry.
+
+Email: caleb.ji@columbia.edu
+
+Mathematics:
+Currently organizing: Étale cohomology and the Weil conjectures, Geometric class field theory
+Past seminars organized: Faltings's theorem, intersection theory, FGA
+Expository papers:
+Atiyah-Hirzebruch
+Bott periodicity
+complex multiplication
+Cohen-Macaulay rings
+cohomological descent
+Dold-Kan
+J-homomorphism
+Mordell-Weil
+Riemann surfaces are algebraic
+Standard conjectures
+Weil for abelian varieties
+Weil for curves
+Presentations: anabelian geometry, motivic cohomology, Grothendieck
+Teaching/Mentoring: Twoples, DRP
+
+Papers [do not reflect current interests]
+Of other interest:
+seminars at Columbia
+memories of mathematicians:
+Michael Atiyah [part 2]
+Raoul Bott
+Henri Cartan
+Shiing-Shen Chern
+Jean-Marc Fontaine
+Alexander Grothendieck [part 2]
+Friedrich Hirzebruch
+Maryam Mirzakhani
+John Tate
+Daniel Quillen
+interviews with mathematicians
+math meetings
+math seminars
+study abroad in Moscow or Budapest
+The Green Center [formerly known as the New Alchemists]
+experience organic farming with WWOOF
+a tribute to the educator Félix Carrasquer written by Alexander Grothendieck
+Shafarevich's position by Miles Reid [flyer]
+"
+
+arXiv:1909.00019  [pdf, ps, other]  math.CO
+Enumeration and Extensions of Word-representants
+
+Authors: Marisa Gaetz, Caleb Ji
+
+Abstract: Given a finite word w over a finite alphabet V, consider the graph with vertex set V and with an edge between two elements of V if and only if the two elements alternate in the word w. Such a graph is said to be word-representable or 11-representable by the word w; this latter terminology arises from the phenomenon that the condition of two elements x and y alternating in a word… ▽ More
+Submitted 14 January, 2021; v1 submitted 30 August, 2019; originally announced September 2019.
+
+Comments: 14 pages
+
+Journal ref: Discrete Applied Mathematics, Volume 284, 2020, p. 423-433
+
+arXiv:1908.09821  [pdf, ps, other]  math.CO math.AG 
+doi
+10.1080/00927872.2021.1988629
+Hessenberg varieties associated to ad-nilpotent ideals
+
+Authors: Caleb Ji, Martha Precup
+
+Abstract: We consider Hessenberg varieties in the flag variety of GLn(C) with the property that the corresponding Hessenberg function defines an ad-nilpotent ideal. Each such Hessenberg variety is contained in a Springer fiber. We extend a theorem of Tymoczko to this setting, showing that these varieties have an affine paving obtained by intersecting with Schubert cells. Our method of proof cons… ▽ More
+Submitted 8 November, 2021; v1 submitted 26 August, 2019; originally announced August 2019.
+
+Comments: 21 pages
+
+Journal ref: Communications in Algebra, 2021
+
+arXiv:1907.12529  [pdf, ps, other]  math.NT
+Primes with Beatty and Chebotarev conditions
+
+Authors: Caleb Ji, Joshua Kazdan, Vaughan McDonald
+
+Abstract: We study the prime numbers that lie in Beatty sequences of the form ⌊αn+β⌋ and have prescribed algebraic splitting conditions. We prove that the density of primes in both a fixed Beatty sequence and a Chebotarev class of some Galois extension is precisely the product of the densities α−1⋅|C||G|. Moreover, we show that the primes in the intersection of these sets… ▽ More
+Submitted 3 September, 2019; v1 submitted 25 July, 2019; originally announced July 2019.
+
+Comments: 20 pages
+
+arXiv:1808.04261  [pdf, ps, other]  math.CO
+On the Distribution of Range for Tree-Indexed Random Walks
+
+Authors: Aaron Berger, Caleb Ji, Erik Metz
+
+Abstract: We study tree-indexed random walks as introduced by Benjamini, Häggström, and Mossel, i.e. labelings of a tree for which adjacent vertices have labels differing by 1. It is a conjecture of those authors that the distribution of the range for any such tree is dominated by that of a path on the same number of edges. The two main variants of this conjecture considered in the literature are the… ▽ More
+Submitted 27 January, 2019; v1 submitted 13 August, 2018; originally announced August 2018.
+
+Comments: 9 pages
+
+MSC Class: 05C78; 05A16; 05C81; 82B41
+
+arXiv:1808.01074  [pdf, ps, other]  math.CO
+Distinguishing Numbers and Generalizations
+
+Authors: Caleb Ji
+
+Abstract: The distinguishing number of a graph was introduced by Albertson and Collins as a measure of the amount of symmetry contained in the graph. Tymoczko extended this definition to faithful group actions on sets; taking the set to be the vertex set of a graph and the group to be the automorphism group of the graph allows one to recover the previous definition. Since then, several authors have studied… ▽ More
+Submitted 6 April, 2019; v1 submitted 2 August, 2018; originally announced August 2018.
+
+Comments: 19 pages
+
+MSC Class: 05C78; 20B35
+
+arXiv:1805.03608  [pdf, other]  math.CO
+Brussels Sprouts, Noncrossing Trees, and Parking Functions
+
+Authors: Caleb Ji, James Propp
+
+Abstract: We consider a variant of the game of Brussels Sprouts that, like Conway's original version, ends in a predetermined number of moves. We show that the endstates of the game are in natural bijection with noncrossing trees and that the game histories are in natural bijection with both parking functions and factorizations of a cycle of Sn.
+Submitted 19 May, 2020; v1 submitted 9 May, 2018; originally announced May 2018.
+
+Comments: 15 pages, 6 figures
+
+MSC Class: 05A15; 05A19
+
+arXiv:1803.11122  [pdf, ps, other]  math.CO
+The sieving phenomenon for finite groups
+
+Authors: Caleb Ji
+
+Abstract: The cyclic sieving phenomenon is a well-studied occurrence in combinatorics appearing when a cyclic group acts on a finite set. In this paper, we demonstrate a natural extension of this theory to finite abelian groups. We also present a similar result for dihedral groups and suggest approaches for natural generalizations to nonabelian groups.
+Submitted 29 March, 2018; originally announced March 2018.
+
+arXiv:1801.07363  [pdf, ps, other]  math.CO
+On an Algorithm for Comparing the Chromatic Symmetric Functions of Trees
+
+Authors: Sam Heil, Caleb Ji
+
+Abstract: It is a long-standing question of Stanley whether or not the chromatic symmetric function (CSF) distinguishes unrooted trees. Previously, the best computational result, due to Russell, proved that it distinguishes all trees with at most 25 vertices. In this paper, we present a novel probabilistic algorithm which may be used to check more efficiently that the CSF distinguishes a set of trees. App… ▽ More
+Submitted 1 February, 2018; v1 submitted 22 January, 2018; originally announced January 2018.
+
+Comments: 14 pages
+
+MSC Class: 05C05; 05C15; 05C31; 05C85; 05E05
+
+arXiv:1608.06025    math.CO
+Enumerative Properties of Posets Corresponding to a Certain Class of No Strategy Games
+
+Authors: Caleb Ji
+
+Abstract: In this paper, we consider a game beginning with a multiset of elements from a group. On a move, two elements are replaced by their sum. This is a no strategy game, and can be modeled as a graded poset with the rank of a node equal to the cardinality of its multiset. We study the enumerative properties of certain variations of this game, such as the number of ways to play them and their numbers of… ▽ More
+Submitted 28 June, 2018; v1 submitted 21 August, 2016; originally announced August 2016.
+
+Comments: The author of this paper wishes to withdraw it due to an unfortunate association with Doron Zeilberger in a relevant OEIS page
+
+arXiv:1509.06093  [pdf, other]  math.CO
+Chocolate Numbers
+
+Authors: Caleb Ji, Tanya Khovanova, Robin Park, Angela Song
+
+Abstract: In this paper, we consider a game played on a rectangular m×n gridded chocolate bar. Each move, a player breaks the bar along a grid line. Each move after that consists of taking any piece of chocolate and breaking it again along existing grid lines, until just mn individual squares remain. This paper enumerates the number of ways to break an m×n bar, which we call chocolate… ▽ More
+Submitted 20 September, 2015; originally announced September 2015.
+
+Comments: 16 pages, 1 figure
+
+MSC Class: 11B99

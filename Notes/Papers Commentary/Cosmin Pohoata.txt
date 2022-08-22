@@ -1,0 +1,73 @@
+Improved bounds for progression-free sets in C8n
+F Petrov, C Pohoata
+Israel Journal of Mathematics 236 (1), 345-363	12	2020
+Local properties via color energy graphs and forbidden configurations
+S Fish, C Pohoata, A Sheffer
+SIAM Journal on Discrete Mathematics 34 (1), 177-187	11	2020
+Local properties in colored graphs, distinct distances, and difference sets
+C Pohoata, A Sheffer
+Combinatorica 39 (3), 705-714	11	2019
+Four‐term progression free sets with three‐term progressions in all large subsets
+C Pohoata, O Roche‐Newton
+Random Structures & Algorithms 60 (4), 749-770	5	2022
+Higher distance energies and expanders with structure
+C Pohoata, A Sheffer
+arXiv preprint arXiv:1709.06696	5	2017
+Multiplicative functions that are close to their mean
+O Klurman, A Mangerel, C Pohoata, J Teräväinen
+Transactions of the American Mathematical Society 374 (11), 7967-7990	4	2021
+Sets without k‐term progressions can have many shorter progressions
+J Fox, C Pohoata
+Random Structures & Algorithms 58 (3), 383-389	4	2021
+On the trifference problem for linear codes
+C Pohoata, D Zakharov
+IEEE Transactions on Information Theory	3	2022
+A remark on sets with few distances in ℝ^{𝕕}
+F Petrov, C Pohoata
+Proceedings of the American Mathematical Society 149 (2), 569-571	3	2021
+On the Zarankiewicz problem for graphs with bounded VC-dimension
+O Janzer, C Pohoata
+arXiv preprint arXiv:2009.00130	3	2020
+On cartesian products which determine few distinct distances
+C Pohoata
+arXiv preprint arXiv:1612.06153	3	2016
+On subsets of the hypercube with prescribed Hamming distances
+H Huang, O Klurman, C Pohoata
+Journal of Combinatorial Theory, Series A 171, 105156	2	2020
+Norm hypergraphs
+C Pohoata, D Zakharov
+arXiv preprint arXiv:2101.00715	1	2021
+Random multilinear maps and the Erd\H {o} s box problem
+D Conlon, C Pohoata, D Zakharov
+arXiv preprint arXiv:2011.09024	1	2020
+Zero subsums in vector spaces over finite fields
+C Pohoata, D Zakharov
+arXiv preprint arXiv:2009.08846	1	2020
+Expanding polynomials on sets with few products
+C Pohoata
+Mathematika 66 (1), 71-78	1	2020
+On the number of high-dimensional partitions
+C Pohoata, D Zakharov
+arXiv preprint arXiv:2112.02436		2021
+The multinomial tiling model
+R Kenyon, C Pohoata
+arXiv preprint arXiv:2104.03205		2021
+A remark on sets with few distances in ℝ^ d
+F Petrov, C Pohoata
+arXiv		2019
+A Polynomial Method Approach to Zero-Sum Subsets in F^ 2_p
+C Pohoata
+arXiv		2017
+A Polynomial Method Approach to Zero-Sum Subsets in 
+C Pohoata
+arXiv preprint arXiv:1703.00414		2017
+A Sufficient Condition for Subgroups with Prime Indices to Be Normal
+C Pohoata, R Stong
+The College Mathematics Journal 46 (5), 348-351		2015
+Unavoidable Induced Subgraphs of Large Graphs
+AC Pohoata
+2014
+Max-Planck-Institut für Mathematik Bonn
+O Klurman, AP Mangerel, C Pohoata, J Teräväinen
+Articles 1–24
+HelpPrivacyTerms

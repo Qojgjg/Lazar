@@ -1,0 +1,297 @@
+Might see about publishing my commentary on Overcoming Bias or this academic bibliography at some point.
+
+Robin D. Hanson
+ 
+Associate Professor of Economics, George Mason University
+Fairfax, VA 22030 rhanson@gmu.edu 703-993-2326
+Research Associate, Future of Humanity Institute at Oxford University
+Education
+Seminars on Social Science & Health, American Medical Care System, 1997, U.C. Berkeley.
+PhD 1998, California Institute of Technology,
+    Advisors: J. Ledyard, R. McKelvey, T. Palfrey, S. Wilkie.
+    Dissertation: Four Puzzles in Information and Politics: Product Bans, Informed Voters, Social
+             Insurance, & Persistent Disagreement.
+
+MS, MA (physics, philosophy of science) 1984, University of Chicago.
+
+BS (physics) 1981, University of California at Irvine.
+
+Experience
+George Mason University, Associate Professor of Economics, 1999-present.
+    Taught undergraduate: Microecon, Health Econ, Law & Econ, Enviro Econ, Urban Econ, Policies & Problems
+    Taught graduate: Microecon, Industrial Organization, Law & Econ
+
+University of California - Berkeley, RWJF Scholar in Health Policy Research, 1997-1999.
+
+California Institute of Technology,
+    T.A. to C. Plott, I. Lee, economics principles, to R. Kiewiet, political science principles, 1995-1996.
+    R.A. to J. Ledyard & D. Porter, institution design and experiments for FCC & NASA, 1993-1995.
+
+NASA Ames Research Center, research in Bayesian statistics, 1989-1993.
+
+Xanadu Inc., consultant on hypertext publishing design, 1988-1991.
+
+Lockheed Artificial Intelligence Center, research in machine learning, 1984-1989.
+
+Honors
+Erdős number: 3
+
+Associate Editor, Journal for Special Jurisdictions, 2019+.
+
+Associate Editor, Journal of Economic Behavior and Organization, 2009-2010.
+
+Associate Editor, Journal of Prediction Market, 2007+.
+
+Alfred P. Sloan Dissertation Fellowship, 1996.
+
+Global IdeaBank Web Social Innovations Award, 1996.
+
+Prix Ars Electronica Golden Nica, World Wide Web, 1995.
+
+Institute for Humane Studies Fellowship, 1993.
+
+NASA Space Act Award, ARC-12799-1, 1992.
+
+Honorable Mention, NSF Fellowship, 1982.
+
+Publications
+[KEY: P = peer reviewed, E = edited, O = other. # is citations as of April 11, 2022 of 5244 total; empty is 0 citations]
+Prediction Markets
+[P-5] Graphical Model Market Maker for Combinatorial Prediction Markets, with Kathryn Blackmond Laskey, Wei Sun, Charles Twardy, Shou Matsumoto, Brandon Goldfedder, Journal of Artificial Intelligence Research, 63:421-460, 2018.
+
+[E] Decision markets for global governance, Global Challenges Foundation, December 1, 2017.
+
+[E-5] Combinatorial prediction markets for fusing information from distributed experts and models, with Kathryn Laskey, Charles Twardy, 18th International Conference on Information Fusion, pp.1892-1898, 2015
+
+[E] Decision Markets As Meta-Policy, In Reviving Economic Growth: Policy Proposals from 51 Leading Experts, pp. 109-112, ed. Brink Lindsey, Cato Institute, September 29, 2015.
+
+[E] SciCast Annual Report, Year 4. with Charles Twardy, Kathryn Laskey, Tod Levitt, Brandon Goldfedder, Adam Siegel, Bruce D'Ambrosio, Daniel Maxwell, Shou Matsumoto. Final report of U.S. Intelligence Advanced Research Projects Activity, Contract DIIPC20062, May 25, 2015.
+
+[P-9] SciCast: collective forecasting of innovation, with Charles Twardy, Kathryn Laskey, Tod Levitt, Brandon Goldfedder, Adam Siegel, Bruce D'Ambrosio, Daniel Maxwell. Collective Intelligence, 2014.
+
+[P-1] Trade-Based Asset Models for Combinatorial Prediction Markets, with Wei Sun, Kathryn Laskey, and Charles Twardy. Proceedings of the Eleventh UAI Bayesian Modeling Applications Workshop. Quebec, Canada, July 2014.
+
+[P-4] Combinatorial Prediction Markets: An Experimental Study, with Walter Powell, Kathryn Laskey, and Charles Twardy, Proceedings of the Seventh International Conference on Scalable Uncertainty Management, Washington DC, September 16-18, 2013.
+
+[P-1] Learning Parameters by Prediction Markets and Kelly Rule for Graphical Models, with Wei Sun, Kathryn Laskey, Charles Twardy, Proceedings of the First Big Data Meet Complex Models Applications Workshop, held at the Uncertainty in Artificial Intelligence Conference, Bellevue, WA, July 15, 2013.
+
+[P-161] Shall We Vote on Values, But Bet on Beliefs?, Journal of Political Philosophy, 21(2):151-178, June, 2013. Working paper discussed by Hal Varian in May 8, 2003, New York Times.
+
+[P-16] Probability and Asset Updating using Bayesian Networks for Combinatorial Prediction Markets, with Wei Sun, Kathryn Laskey, Charles Twardy, pp.815-824, ed. Nando de Freitas and Kevin Murphy, Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence, Catalina Island, California, August 15-17, 2012.
+
+[P-177] Gaming Prediction Markets: Equilibrium Strategies with a Market Maker, with Yiling Chen, Stan Dimitrov, Rahul Sami, Daniel Reeves, David Pennock, Lance Fortnow, Rica Gonen, Algorithmica, 58(4):930-969, 2010. Also in International Workshop on Web and Internet Economics, 70-81, 2007.
+
+[P-16] On Market Maker Functions, Journal of Prediction Markets 3(1):61-63, April 2009.
+
+[P-170] A Manipulator Can Aid Prediction Market Accuracy, with Ryan Oprea, Economica, 76(302):304-314, April, 2009.
+
+[P-72] An Experimental Test of Combinatorial Information Markets, with John Ledyard, Takashi Ishikida, Journal of Economic Behavior and Organization 69:182-189, 2009.
+
+[E-17] Insider Trading and Prediction Markets, Journal of Law, Economics, and Policy 4(2):449-463, Spring 2008.
+
+[E-525] The Promise of Prediction Markets, with Kenneth J. Arrow, Robert Forsythe, Michael Gorham, Robert Hahn, John O. Ledyard, Saul Levmore, Robert Litan, Paul Milgrom, Forrest D. Nelson,George R. Neumann, Marco Ottaviani, Thomas C. Schelling, Robert J. Shiller, Vernon L. Smith, Erik Snowberg, Cass R. Sunstein, Paul C. Tetlock, Philip E. Tetlock, Hal R. Varian, Justin Wolfers, and Eric Zitzewitz, Science 320(5878):877-8878, May 16, 2008.
+
+[O-35] Can Manipulators Mislead Prediction Market Observers?, with Ryan Oprea, David Porter, Chris Hibbert, and Dorina Tila, 2007.
+
+[E-52] The Policy Analysis Market: A Thwarted Experiment in the Use of Prediction Markest for Public Policy, Innovations 2(3):73-88, Summer 2007.
+
+[E-71] Designing Real Terrorism Futures, Public Choice 128(1-2):257-274, July 2006. Also in ed. Charles Rowley, The Political Economy of Terrorism, 2007, and ed. William Hancock, Business Continuity and Homeland Security, Edward Elgar, 2007.
+[P-402] Logarithmic Market Scoring Rules for Modular Combinatorial Information Aggregation, Journal of Prediction Markets 1(1):3-15, February, 2007.
+
+[E-55] Decision Markets for Policy Advice. Promoting the General Welfare: American Democracy and the Political Economy of Government Performance, 151-173, ed. Eric Patashnik, Alan Gerber, Brookings Institution Press, November 2006.
+
+[E-1] You're Fired, Forbes, p.38, October 30, 2006.
+
+[P-262] Information Aggregation and Manipulation in an Experimental Market. with Ryan Oprea, David Porter, Journal of Economic Behavior and Organization 60(4):449-459, August 2006.
+
+[E-58] Foul Play in Information Markets. Information Markets: A New Way of Making Decisions in the Public and Private Sectors 126-141, ed. Bob Hahn, Paul Tetlock, AEI Spring Press, May 2006.
+
+[O-13] The Informed Press Favored the Policy Analysis Market, 2005.
+
+[O-14] The policy analysis market (and FutureMAP) archive, 2005.
+
+[P-56] The policy analysis market: an electronic commerce application of a combinatorial information market. with Charles Polk, John Ledyard, Takashi Ishikida. Proceedings of the ACM Conference on Electronic Commerce 2003: 272-273. See also poster.
+
+[O-10] Book Orders for Market Scoring Rules, 2003.
+
+[E-557] Combinatorial Information Market Design. Information Systems Frontiers 5(1):105-119, January 2003.
+
+[E-189] Decision Markets. IEEE Intelligent Systems 14(3):16-19, May/June, 1999. Reprinted in Entrepreneurial Economics, ed. Alexander Tabarrok, Oxford University Press, 79-85, 2002.
+
+[E-136] Could Gambling Save Science? Encouraging an Honest Consensus. Social Epistemology 9(1):3-33, 1995. First appeared in Gambling and Commercial Gaming: Essays in Business, Economics, Philosophy, and Science 399-440, ed. W. Eadington, J. Cornelius, 1992. (Proceedings of August 1990 conference.)
+
+[E-10] Comparing Peer Review to Information Prizes. Social Epistemology 9(1):49-55, 1995. Also Reply to Comments. 9(1):45-48, 1995.
+
+[E] The Story of Idea Futures. with Mark James, Sean Morgan, Prix Ars Electronica 95, International Compendium of the Computer Arts, ed. H. Leopoldseder, C. Schopf, 54-59, 1995.
+
+[E] Idea Futures. Wired 3(9):125, 1995. Excerpt was Quotable Quote, Wall Street Journal A14, 30 August, 1995.
+
+[E-47] Idea Futures: Encouraging an Honest Consensus, Extropy 3(2):7-17, Winter 1992. Reprinted in The Transhumanist Reader, Wiley-Blackwell, ed. Max More and Natasha Vita-More, pp.243-257, 2013.
+
+[E-26] Market-Based Foresight. Foresight Update 10:1,3-4, October 30, 1990. See also Reply. 11:11, March 15, 1991.
+
+Futurism
+[P-3] Testing the automation revolution hypothesis, with Keller Scholl, Economics Letters 193:109287, August 2020.
+
+[P-55] Long-Term Trajectories of Human Civilization, with Seth Baum, Stuart Armstrong, Timoteus Ekenstedt, Olle Haggstrom, Karin Kuhlemann, Matthijs Maas, James Miller, Markus Salmela, Anders Sandberg, Kaj Sotala, Phil Torres, Alexey Turchin, and Roman Yampolskiy, Foresight, 21(1):53-83, 2019.
+
+[P-151] The Age of Em: Work, Love and Life When Robots Rule The Earth, Oxford University Press, June 1, 2016. Revised paperback June 5, 2018. Over 11,000 copies sold. Reviews at Wall Street Journal, Financial Times, Guardian, Scientific American, Science Friday, Popular Science. Coverage at Nature, New Yorker, Telegraph, Spectator,Technology Review, BBC Radio, CBC Radio, LA Review of Books, Weekly Standard, Vox, Foreign Policy, Chronicle Review. 1.4 million views of August 2017 TED video.
+
+[E] Human Legacies When Robots Rule the Earth, pp. 162-177, The Next Step: Exponential Life, ed. BBVA, Turner, December 2016. Reprinted in part at MIT Technology Review, October 3, 2017.
+
+[E] Employment In The Age of Em: Simulated Brains and the Economics of Labor, Surviving the Machine Age: Intelligent Technology and the Transformation of Human Work, pp.51-62, Ed. Kevin LaGrandeur, James Hughes, Palgrave, April, 2017.
+
+[E] A Tale Of Two Transitions, The End of the Beginning: Life, Society and Economy on the Brink of the Singularity, ed. Ben Goertzel, Ted Goertzel, pp. 70-80, Humanity+ Press, May 15, 2015.
+
+[E-3] What Will It Be Like To Be An Emulation? pp.298-309, ed. Russell Blackford, Damien Broderick, Intelligence Unbound: The Future of Uploaded and Machine Minds, Wiley, August 18, 2014.
+
+[E-3] When the Economy Transcends Humanity, The Futurist, January-February, 2014.
+
+[E] Comments on "Intelligence Explosion: Evidence and Import," pp.41-42, and Comments on "Some Economic Incentives Facing a Business that Might Bring About a Technological Singularity," p.159. Singularity Hypotheses: A Scientific and Philosophical Assessment, ed. Amnon H. Eden, James H. Moor, Johnny H. S¯raker, Eric Steinhart, Springer, 2013.
+
+[O-10] The Hanson-Yudkowsky AI-Foom Debate, with Eliezer Yudkowsky, Berkeley, CA: Machine Intelligence Research Institute. 2013.
+
+[E-8] Meet The New Conflict, Same As The Old Conflict, Journal of Consciousness Studies 19(1-2):119-125, 2012.
+
+[O-2] AI Progress Estimate. August 27, 2012.
+
+[O-10] Prefer law to values, October 10, 2009.
+
+[E-12] Enhancing Our Truth Orientation. Human Enhancement, ed. Julian Savulescu and Nick Bostrom, Oxford University Press, March 2009.
+
+[E-59] Catastrophe, Social Collapse, and Human Extinction, Global Catastrophic Risks, pp. 363-377, ed. Nick Bostrom, and Milan Cirkovic, Oxford University Press, July 17, 2008.
+
+[E-4] The Rapacious Hardscrapple Frontier, Year Million: Science at the Far Edge of Knowledge, pp. 168-192, ed. Damien Broderick, Atlas Books, May 19, 2008.
+
+[E-86] Economics of the Singularity, IEEE Spectrum, 37-42, June 2008. Reprinted as: A New World Order, Cosmos 26:47-54, April/May 2009.
+
+[E-13] Economics of Brain Emulations, Unnatrual Selection - The Challenges of Engineering Tomorrow's People, pp.150-158, ed. Peter Healey and Steve Rayner, EarthScan, London, December, 2008.
+
+[E-7] The Hanson-Hughes Debate on "The Crack of a Future Dawn", with James Hughes, Journal of Evolution and Technology 16(1):99-126, June 2007.
+
+[E] Accept Interdependence, Ci'num - The Digital Civilizations Forum 2006, p.36, Acquitaine Europe Communications. 2006.
+
+[E-5] Five Nanotech Social Scenarios. Nanotechnology: Societal Implications II, Individual Perspectives, ed. Mihail Roco, William Bainbridge, Springer, 109-113, November 2006.
+
+[E-2] The next really big enormous thing. Future Brief, 2004 >
+
+[P-67] How To Live In A Simulation. Journal of Evolution and Technology 7, September 2001.
+
+[E-39] A Critical Discussion of Vinge's Singularity Concept. Editor & Discussant, Extropy October 1998. Reprinted in The Transhumanist Reader, Wiley-Blackwell, ed. Max More and Natasha Vita-More, 2013, pp.395-418.
+
+[O-109] The Great Filter - Are We Almost Past It?, 1998.
+
+[O-69] Economic Growth Given Machine Intelligence, 1998.
+
+[O-93] Long-Term Growth As A Sequence of Exponential Modes, 1998.
+
+[O-45] Burning the Cosmic Commons: Evolutionary Strategies of Interstellar Colonization, 1998.
+
+[O-24] Must Early Life Be Easy? The Rhythm of Major Evolutionary Transitions, 1998.
+
+[E-12] Is A Singularity Just Around The Corner? Journal of Evolution and Technology 2, June 1998.
+
+[E-78] If Uploads Come First. Extropy 6(2):10-15 1994.
+
+Motives
+[P-113] The Elephant In The Brain: Hidden Motives in Everyday Life, with Kevin Simler, Oxford University Press, January 2, 2018. Over 21,000 copies sold. Reviews at Wall Street Journal, New Yorker, Boston Globe, Spectator, Welt Am Sonntag, New York Magazine, Spectator. Coverage at New York Times, Slate, National Review, BBC Radio, Boston Globe, Sam Harris.
+
+[O] Forager Facts, with David Youngberg, 2010.
+
+[E] The Myth of Creativity. Business Week p.134, July 3, 2006.
+
+[E-2] Fear of Death and Muddled Thinking -- It Is So Much Worse Than You Think. c, Volume 3: Fifty Years After Einstein, One Hundred Fifty Years After Kierkegaard, ed. Charles Tandy, Ria University Press, December 2005.
+
+[E-1] Was Cypher Right? (Part I): Why We Stay In Our Matrix. Taking the Red Pill: Science, Philosophy and Religion in the Matrix, pp.23-32, ed. Glenn Yeffeth, BenBella Books, 2003.
+
+[E] Dreams of Autarky, Doctor Tandy's Guide to Life Extension and Transhumanity, ed. Charles Tandy, Ria University Press , 2001.
+
+[E] Why Cryonics Isn't Popular. Longevity Report 12(72), July 1999.
+
+Health Economics
+[E-8] Making Sense of Medical Paternalism, Medical Hypotheses 70(5):910-913, 2008.
+[E-25] Showing That You Care; The Evolution of Health Altruism, Medical Hypotheses 70(4):724-742, 2008.
+[E] Cut Medicine In Half, CATO Unbound, September 10, 2007. Replies by David Cutler, Dana Goldman, Alan Garber.
+
+[O] Choosing Between Health and Wealth - A Survey, with Robert Graboyes and James Monks, 2006.
+
+[E-22] Why Health Is Not Special: Errors in Evolved Bioethics Intuitions. Social Philosophy & Policy 19(2):153-179, Summer 2002. Reprinted in Bioethics, ed. E.F. Paul, F.D. Miller, J. Paul, Cambridge University Press, 153-179, 2002.
+
+[E-5] Buy Health, Not Health Care. Cato Journal 14(1):135-141, Summer 1994.
+
+Disagreement
+[P-22] Uncommon Priors Require Origin Disputes. Theory and Decision 61(4):318-328, December 2006.
+
+[O-29] Are disagreements honest. With Tyler Cowen, 2004.
+
+[P-14] For Bayesian Wannabes, Are Disagreements Not About Information? Theory and Decision 54(2):105-123, March 2003. Version in Ph.D. thesis, 1997.
+
+[P-21] Disagreement Is Unpredictable. Economics Letters 77(3):365-369, November 2002.
+
+[P-23] Consensus By Identifying Extremists. Theory and Decision 44(3):293-301, 1998.
+
+[P-11] Correction to McKelvey and Page, "Public and Private Information: An Experimental Study of Information Pooling". Econometrica 64(5):1223-1224, 1996.
+
+[E-7] Even Adversarial Agents Should Appear to Agree, Proceedings IJCAI-91 Workshop On Reasoning In Adversarial Domains, 1991.
+
+Information Economics
+[O] When Do Extraordinary Claims Give Extraordinary Evidence?, 2007.
+
+[O] Causes of Confidence in Conflict, 2006.
+
+[P-7] Adverse Selection in Group Insurance: The Virtues of Failing to Represent Voters. Economics of Governance 6(2):139-157, July 2005. Version in Ph.D. thesis, 1997.
+
+[P-17] Warning Labels as Cheap Talk: Why Regulators Ban Drugs. Journal of Public Economics 87(9-10):2013-2029, September 2003. Version in Ph.D. thesis, 1997.
+
+[O-5] He Who Pays The Piper Must Know The Tune, 2003.
+
+[O-20] Patterns of Patronage -- Why Grants Won Over Prizes in Science, 1998.
+
+[O-8] Eliciting Objective Probabilities via Lottery Insurance Games, 2003.
+
+[O-5] On Voter Incentives To Become Informed. Version in Ph.D. thesis, 1997. Version as Caltech Social Science Working Paper 968, September 1996.
+
+[O] Rational Bar Bets, 1995.
+
+[O] Shared Secrets Come Cheap, 1995.
+
+[E-12] Can Wiretaps Remain Cost-Effective? Communications of the Association of Computing Machinery 37(12):13-15, December 1994. First appeared in The Third CPSR Cryptography and Privacy Conference Sourcebook 357-363, ed. David Banisar and Marc Rotenberg, June, 1993. Reprinted in The Electronic Privacy Papers: Documents on the Battle for Privacy in the Age of Surveillance 19-25, ed. B. Schneier, D. Banisar, John Wiley and Sons, 1997.
+
+[O] Composing Bayesians: A Short Review, 1991.
+
+Artificial Intelligence
+[P-334] Super-Resolved Surface Reconstruction From Multiple Images. with P. Cheeseman, B. Kanefsky, R. Kraft, J. Stutz, Maximum Entropy and Bayesian Methods 293-308, ed. G.R. Heidbreder, Kluwer, 1996. Version of NASA Ames Tech Report FIA-93-02, February, 1993.
+
+[E] Bayesian classification scheme. with John Stutz, Peter Cheeseman, Will Taylor, and Matthew Self, Applied Optics 31(27):5763 (in NASA Patter), September 20, 1992.
+
+[E] Research Patronage and Distributing A.I. Agents: Similar Problems with Similar Solutions? AAAI Fall Symposium on Knowledge and Action at Social and Organizational Levels 68-69, 1991.
+
+[P-350] Bayesian Classification with Correlation and Inheritance. with J. Stutz, P. Cheeseman, Proceedings of the 12th International Joint Conference on Artificial Intelligence 2:692-698. Morgan Kaufmann, 1991. Version of NASA Ames Tech Report, Bayesian classification theory, FIA-90-12-7-01, May, 1991.
+
+Physics
+[P-2] If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare, with Daniel Martin, Calvin McCarter, Jonathan Paulson, Astrophysical Journal, 922:2, November, 2021.
+
+[P-5] Comment on 'The aestivation hypothesis for resolving Fermi's paradox', with Charles H. Bennett, C. Jess Riedel, Foundations of Physics, 49(8):820-829, August, 2019.
+
+[P-13] Drift-Diffusion in Mangled Worlds Quantum Mechanics, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 462(2069):1619-1627, May 8, 2006.
+
+[P-24] When Worlds Collide: Quantum Probability From Observer Selection? Foundations of Physics 33(7):1129-1150, July 2003.
+
+[E-6] Reversible Agents: Need Robots Waste Bits to See, Talk, and Achieve? Proceedings of Workshop on Physics and Computation: PhysComp '92, 284-288. IEEE Computer Society Press, 1992.
+
+Miscellaneous
+[O-8] Two Types of Envy, April 26, 2018.
+
+[E-3] The Rise, Preservation, and Transformation of the Virginia School of Political Economy, with David Levy, Sandra Peart, 34th Annual Meeting of the History of Economics Society, Fairfax, VA, 2007.
+
+[E-2] Game Theory in Public Choice. The Encyclopedia of Public Choice II:258-261, eds. Charles Rowley and Friedrich Schneider, Kluwer Academic Publishers, 2004.
+
+[O-1] Location Discrimination in Circular City, Torus Town, and Beyond. 2002.
+
+[E-1] Market-Based Approaches to Managing Science Return from Planetary Missions, with RR Wessen, David Porter, SEE 19970016229; p. 524-531, 1996.
+
+[E] Comment on the scientific status of econometrics. Social Epistemology 7(3):255-256, 1993.
+
+[E-1] Has Penrose Disproved A.I.? Foresight Update 12:4-5, August 1, 1991.
+
+[E-10] Toward Hypertext Publishing, Issues and Choices in Database Design. ACM SIGIR Forum 22(1-2):9-26, Winter 1988.

@@ -1,0 +1,889 @@
+List of Papers
+Packed Compressed Sparse Row: A Dynamic Graph Representation
+by Brian Wheatman and Helen Xu
+High Performance Extreme Computing Conference
+September, 2018
+Download the paper: pdf format 
+BibTeX
+Cache-Adaptive Exploration: Experimental Results and Scan-Hiding for Adaptivity
+by Andrea Lincoln, Quanquan C. Liu, Jayson Lynch, and Helen Xu
+Symposium on Parallelism in Algorithms and Architectures
+July, 2018
+Download the paper: pdf format 
+BibTeX
+Fill Estimation for Blocked Sparse Matrices and Tensors
+by Helen Xu
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+June, 2018
+Download the paper: pdf format 
+BibTeX
+A Fill Estimation Algorithm for Sparse Matrices and Tensors in Blocked Formats
+by Peter Ahrens, Helen Xu, and Nicholas Schiefer
+International Parallel and Distributed Processing Symposium
+May, 2018
+Download the paper: pdf format 
+BibTeX
+The CSI Framework for Compiler-Inserted Program Instrumentation
+by Tao B. Schardl, Tyler Denniston, Damon Doucet, Bradley C. Kuszmaul, I-Ting Angelina Lee, and Charles E. Leiserson
+Proceedings of the ACM on Measurement and Analysis of Computing Systems — SIGMETRICS, 43:1–43:25, December, 2017
+Download the paper: pdf format 
+BibTeX
+Write-Optimized Skip Lists
+by Michael A. Bender, Martin Farach-Colton, Rob Johnson, Simon Mauras, Tyler Mayer, Cynthia A. Phillips, and Helen Xu
+Symposium on Principles of Database Systems
+Pages: 69–78
+May, 2017
+Download the paper: pdf format 
+BibTeX
+Tapir: Embedding Fork-Join Parallelism into LLVM's Intermediate Representation
+by Tao B. Schardl, William S. Moses, and Charles E. Leiserson
+Symposium on Principles and Practice of Parallel Programming
+Pages: 249–265
+February, 2017
+Download the paper: pdf format 
+BibTeX
+Performance Engineering of Multicore Software: Developing a Science of Fast Code for the Post-Moore Era
+by Tao B. Schardl
+Ph.D. Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+September, 2016
+Download the paper: pdf format 
+BibTeX
+B-trees and Cache-Oblivious B-trees with Different-Sized Atomic Keys
+by Michael Bender, Roozbeh Ebrahimi, Haodong Hu, and Bradley C. Kuszmaul
+Transactions on Database Systems, 19-1–19-33, July, 2016
+Download the paper: pdf format 
+BibTeX
+Lazy Analytics: Let Other Queries Do the Work For You
+by William Jannen, Michael A. Bender, Martin Farach-Colton, Rob Johnson, Bradley C. Kuszmaul, and Donald E. Porter
+8th USENIX Workshop on Hot Topics in Storage and File Systems
+June 20–21, 2016
+Download the paper: pdf format 
+BibTeX
+PageRank Pipeline Benchmark: Proposal for a Holistic System Benchmark for Big-Data Platforms
+by Patrick Dreher, Chansup Byun, Chris Hill, Vijay Gadepally, Bradley C. Kuszmaul, and Jeremy Kepner
+Graph Algorithms Building Blocks
+May 23, 2016
+Download the paper: pdf format 
+BibTeX
+A Simple Deterministic Algorithm for Guaranteeing the Forward Progress of Transactions
+by Charles E. Leiserson
+Information Systems, 69–74, April, 2016
+Download the paper: pdf format 
+BibTeX
+AutoGen: Automatic Discovery of Cache-Oblivious Parallel Recursive Algorithms for Solving Dynamic Programs
+by Rezaul A. Chowdhury, Pramod Ganapathi, Jesmin Jahan Tithi, Charles Bachmeier, Bradley C. Kuszmaul, Charles E. Leiserson, Armando Solar-Lezama, and Yuan Tang
+Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP '16)
+March 12–16, 2016
+Download the paper: pdf format 
+BibTeX
+Lease/Release: Architectural Support for Scaling Contended Data Structures
+by Syed Kamran Haider, William Hasenplaugh, and Dan Alistarh
+PPoPP '16: Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+March, 2016
+Download the paper: pdf format 
+BibTeX
+Compact Navigation Oracles for Graphs with Bounded Clique-Width
+by Shahin Kamali
+Data Compression Conference
+March, 2016
+BibTeX
+Parallel Algorithms for Scheduling Data-Graph Computations
+by William Hasenplaugh
+Ph.D. Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+February, 2016
+Download the paper: pdf format 
+BibTeX
+Optimizing Every Operation in a Write-optimized File System
+by Jun Yuan, Yang Zhan, William Jannen, Prashant Pandey, Amogh Akshintala, Kanchan Chandnani, Pooja Deo, Zardosht Kasheff, Leif Walsh, Michael Bender, Martin Farach-Colton, Rob Johnson, Bradley C. Kuszmaul, and Donald E. Porter
+The 14th USENIX Conference on File and Storage Technologies (FAST '16)
+February 22–25, 2016
+Best paper award. Also invited to USENIX ATC 2016 "Best-of-the-Rest" session..
+Download the paper: pdf format 
+BibTeX
+Upper Bounds on Number of Steals in Rooted Trees
+by Charles E. Leiserson, Tao B. Schardl, and Warut Suksompong
+Theory of Computing Systems, 223–240, February, 2016
+Download the paper: pdf format 
+BibTeX
+On the Efficiency of Localized Work Stealing
+by Warut Suksompong, Charles E. Leiserson, and Tao B. Schardl
+Information Processing Letters, 100–106, February, 2016
+Download the paper: pdf format 
+BibTeX
+All-Around Near-Optimal Solutions for the Online Bin Packing Problem
+by Shahin Kamali and Alejandro López-Ortiz
+Proceedings of the 26th International Symposium on Algorithms and Computation, ISAAC 2015
+Pages: 727–739
+December, 2015
+Download the paper: pdf format 
+BibTeX
+BetrFS: A Right-Optimized Write-Optimized File System
+by William Jannen, Jun Yuan, Yang Zhan, Amogh Akshintala, John Esmet, Yizheng Jiao, Ankur Mittaland Prashant Pandey, Phaneendra Reddy, Leif Waslh, Michael Bender, Martin Farach-Colton, Rob Johnson, Bradley C. Kuszmaul, and Donald E. Porter
+ACM Transactions on Storage (TOS), November, 2015
+Download the paper: pdf format 
+BibTeX
+An Introduction to $B^\epsilon$-trees and Write-Optimization
+by Michael A. Bender, Martin Farach-Colton, William Jannen, Rob Johnson, Bradley C. Kuszmaul, Donald E. Porter, Jun Yuan, and Yang Zhan
+;login: The USENIX Magazine, 22–28, October, 2015
+Download the paper: pdf format 
+BibTeX
+Cache-Oblivious Iterated Predecessor Queries via Range Coalescing
+by Erik D. Demaine, Vineet Gopal, and William Hasenplaugh
+14th International Symposium on Algorithms and Data Structures
+August, 2015
+Download the paper: pdf format 
+BibTeX
+Efficient Bin Packing Algorithms for Resource Provisioning in the Cloud
+by Shahin Kamali
+Proceedings of the International Workshop on Algorithmic Aspects of Cloud Computing
+August, 2015
+Download the paper: pdf format 
+BibTeX
+Extreme Multi-Resolution Visualization: A Challenge on Many Levels
+by Joanna Balme, Eric Brown-Dymkoski, Victor Guerrero, Stephen Jones, Andre Kessler, Adam Lichtl, Kevin Lung, William Moses, Ken Museth, Nathan Roberson, Danny Taller, and Tom Fogal
+SuperComputing 2015 Visualization and Data Analytics Showcase
+August, 2015
+Download the paper: pdf format 
+BibTeX
+Polylogarithmic Fully Retroactive Priority Queues via Hierarchical Checkpointing
+by Erik D. Demaine, Tim Kaler, Quanquan Liu, Aaron Sidford, and Adam Yedidia
+Algorithms and Data Structures: 14th International Symposium, WADS 2015
+Pages: 263–275
+August, 2015
+Download the paper: pdf format 
+BibTeX
+Quantifying the Capactiy Limitations of Hardware Transactional Memory
+by William Hasenplaugh, Andrew T. Nguyen, and Nir Shavit
+7th Workshop on the Theory of Transactional Memory
+July, 2015
+Download the paper: pdf format 
+BibTeX
+Anatomy of a Meltdown: Non-Block Performance under High Contention
+by Dan Alistarh and William Hasenplaugh
+10th ACM SIGPLAN Workshop on Transactional Computing
+June, 2015
+BibTeX
+SuperMalloc: A Super Fast Multithreaded malloc for 64-bit Machines
+by Bradley C. Kuszmaul
+Proceedings of the 2015 International Symposium on Memory Management
+Pages: 41–55
+June, 2015
+Download the paper: pdf format 
+BibTeX
+Efficiently Detecting Races in Cilk Programs That Use Reducer Hyperobjects
+by I-Ting Angelina Lee and Tao B. Schardl
+Proceedings of the 27th ACM on Symposium on Parallelism in Algorithms and Architectures
+Pages: 111–122
+June, 2015
+Download the paper: pdf format 
+BibTeX
+The Cilkprof Scalability Profiler
+by Tao B. Schardl, Bradley C. Kuszmaul, I-Ting Angelina Lee, William M. Leiserson, and Charles E. Leiserson
+Proceedings of the 27th ACM on Symposium on Parallelism in Algorithms and Architectures
+Pages: 89–100
+June, 2015
+Download the paper: pdf format 
+BibTeX
+BetrFS: A Right-Optimized Write-Optimized File System
+by William Jannen, Jun Yuan, Yang Zhan, Amogh Akshintala, John Esmet, Yizheng Jiao, Ankur Mittaland Prashant Pandey, Phaneendra Reddy, Leif Waslh, Michael Bender, Martin Farach-Colton, Rob Johnson, Bradley C. Kuszmaul, and Donald E. Porter
+Proceedings of the 13th USENIX Conference on File and Storage Technologies (FAST '15)
+February 16–19, 2015
+Runner up, best paper, one of three papers selected for fast-tracking to a special issue of Transactions on Storage.
+Download the paper: pdf format 
+BibTeX
+Avoiding Tree Saturation in the Face of Many Hotspots with Few Buffers
+by Bradley C. Kuszmaul and William H. Kuszmaul
+The 16th IEEE International Conference on High Performance and Communications (HPCC)
+August 20–22, 2014
+Download the paper: pdf format 
+BibTeX
+Ordering Heuristics for Parallel Graph Coloring
+by William Hasenplaugh, Tim Kaler, Tao B. Schardl, and Charles E. Leierson
+Proceedings of the 26th ACM Symposium on Parallelism in Algorithms and Architectures
+June, 2014
+Download the paper: pdf format 
+BibTeX
+Executing Dynamic Data-Graph Computations Deterministically Using Chromatic Scheduling
+by Tim Kaler, William Hasenplaugh, Tao B. Schardl, and Charles E. Leierson
+Proceedings of the 26th ACM Symposium on Parallelism in Algorithms and Architectures
+June, 2014
+Download the paper: pdf format 
+BibTeX
+Brief Announcement: Few Buffers, Many Hot Spots, and No Tree Saturation (with High probability)
+by Bradley C. Kuszmaul and William H. Kuszmaul
+Proceedings of the 26th ACM Symposium on Parallelism in Algorithms and Architectures
+Pages: 67–69
+June, 2014
+Download the paper: pdf format 
+BibTeX
+Bounds on Multithreaded Computations by Work Stealing
+by Warut Suksompong
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+June, 2014
+Download the paper: pdf format 
+BibTeX
+Improving HTM Scaling with Consistency-Oblivious Programming
+by Hillel Avni and Bradley C. Kuszmaul
+The Ninth ACM SIGPLAN Workshop on Transacstional Computing (TRANSACT 2014)
+March 2, 2014
+Download the paper: pdf format 
+BibTeX
+On-the-Fly Pipeline Parallelism
+by I-Ting Angelina Lee, Charles E. Leiserson, Tao B. Schardl, Jim Sukha, and Zhunping Zhang
+Proceedings of the Twenty-fifth Annual ACM Symposium on Parallelism in Algorithms and Architectures
+Pages: 140–151
+July, 2013
+Download the paper: pdf format 
+BibTeX
+Memory-Mapping Support for Reducer Hyperobjects
+by I-Ting Angelina Lee, Aamir Shafi, and Charles E. Leiserson
+SPAA '12: Proceedings of the 24th ACM Symposium on Parallel Algorithms and Architectures
+Pages: 287–297
+June, 2012
+Download the paper: pdf format 
+BibTeX
+Memory Abstractions for Parallel Programming
+by I-Ting Angelina Lee
+Ph.D. Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+March, 2012
+Download the paper: pdf format 
+BibTeX
+Deterministic Parallel Random-Number Generation for Dynamic-Multithreading Platforms
+by Charles E. Leiserson, Tao B. Schardl, and Jim Sukha
+PPoPP '12: Proceedings of the 17th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+February, 2012
+Download the paper: pdf format 
+BibTeX
+Cache-Oblivious Algorithms
+by Matteo Frigo, Charles E. Leiserson, Harald Prokop, and Sridhar Ramachandran
+ACM Transactions on Algorithms, 4:1–4:22, January, 2012
+Download the paper: pdf format 
+BibTeX
+Don't Thrash: How to Cache Your Hash on Flash
+by Michael A. Bender, Martin Farach-Colton, Rob Johnson, Russell Kraner, Bradley C. Kuszmaul, Dzejla Medjedovic, Pablo Montes, Pradeep Shetty, Richard P. Spillane, and Erez Zadoc.
+Proceedings of the VLDB Endowment, 1627–1637, 2012
+An earlier version appeared in HotStorage, Portland, OR, June 2011..
+Download the paper: pdf format 
+BibTeX
+Location-Based Memory Fences
+by Edya Ladan-Mozes, I-Ting Angelina Lee, and Dmitry Vyukov
+SPAA '11: Proceedings of the 23rd ACM Symposium on Parallel Algorithms and Architectures
+Pages: 75–84
+June, 2011
+Download the paper: pdf format 
+BibTeX
+The Pochoir stencil compiler
+by Yuan Tang, Rezaul Alam Chowdhury, Bradley C. Kuszmaul, Chi-Keung Luk, and Charles E. Leiserson
+SPAA '11: The 23rd ACM Symposium on Parallelism in Algorithms and Architectures
+June, 2011
+Download the paper: pdf format 
+BibTeX
+Coding Stencil Computation using the Pochoir stencil-specification language
+by Yuan Tang, Rezaul Alam Chowdhury, Chi-Keung Luk, and Charles E. Leiserson
+HotPar '11: 3rd USENIX Workshop on Hot Topics in Parallelism
+May, 2011
+Download the paper: pdf format 
+BibTeX
+Optimal Cache-Oblivious Mesh Layouts
+by Michael A. Bender, Bradley C. Kuszmaul, Shang-Hua Teng, and Kebin Wang
+Theory of Computing Systems, 269–296, 2011
+Download the paper: pdf format 
+BibTeX
+Using Memory Mapping to Support Cactus Stacks in Work-Stealing Runtime Systems
+by I-Ting Angelina Lee, Silas Boyd-Wickizer, Zhiyi Huang, and Charles E. Leiserson
+PACT '10: Proceedings of the 19th International Conference on Parallel Architectures and Compilation Techniques
+Pages: 411–420
+September, 2010
+Download the paper: pdf format 
+BibTeX
+Brief Announcement: Serial-Parallel Reciprocity in Dynamic Multithreaded Languages
+by Kunal Agrawal, I-Ting Angelina Lee, and Jim Sukha
+SPAA '10: Proceedings of the 22nd ACM Symposium on Parallelism in Algorithms and Architectures
+Pages: 186–188
+June, 2010
+Download the paper: pdf format 
+BibTeX
+A Work-Efficient Parallel Breadth-First Search Algorithm (or How to Cope with the Nondeterminism of Reducers)
+by Charles E. Leiserson and Tao B. Schardl
+SPAA '10: Proceedings of the 22nd ACM Symposium on Parallelism in Algorithms and Architectures
+Pages: 303-314
+June, 2010
+Download the paper: pdf format 
+BibTeX
+Executing Task Graphs Using Work-Stealing
+by Kunal Agrawal, Charles E. Leiserson, and Jim Sukha
+Proceedings of the 24th IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+April, 2010
+Download the paper: pdf format 
+BibTeX
+Helper Locks for Fork-Join Parallel Programming
+by Kunal Agrawal, Charles E. Leiserson, and Jim Sukha
+Proceedings of the 15th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)
+January, 2010
+Download the paper: pdf format 
+BibTeX
+Performance Gurantees for B-trees with Different-Sized Atomic Keys
+by Michael A. Bender, Haodong Hu, and Bradley C. Kuszmaul
+PODS
+Pages: 305–316
+2010
+Download the paper: pdf format 
+BibTeX
+The Cilk++ Concurrency Platform
+by Charles E. Leiserson
+The Journal of Supercomputing, 244–257, 2010
+Download the paper: pdf format 
+BibTeX
+Brief Announcement: A Lower Bound for Depth-Restricted Work Stealing
+by Jim Sukha
+Proceedings of the 21st ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
+August, 2009
+Download the paper: pdf format 
+BibTeX
+Parallel sparse matrix-vector and matrix-transpose-vector multiplication using compressed sparse blocks
+by Ayd\in Buluç, Jeremy T. Fineman, Matteo Frigo, John R. Gilbert, and Charles E. Leiserson
+August, 2009
+Download the paper: pdf format 
+BibTeX
+Safe Open-Nested Transactions Through Ownership
+by Kunal Agrawal, I-Ting Angelina Lee, and Jim Sukha
+Proceedings of the 14th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)
+February, 2009
+Download the paper: pdf format 
+BibTeX
+Adaptive Work-stealing with Parallelism Feedback
+by Kunal Agrawal, Charles E. Leiserson, Yuxiong He, and Wen Jing Hsu
+ACM Transactions on Computing Systems, 7:1–7:32, September, 2008
+BibTeX
+Safe Open-Nested Transactions Through Ownership
+by Kunal Agrawal, I-Ting Angelina Lee, and Jim Sukha
+Technical Report MIT-CSAIL-TR-2008-038, Massachusetts Institute of Technology Computer Science and Artificial Intelligence Laboratory
+June, 2008
+Download the paper: pdf format 
+BibTeX
+A Consistency Architecture for Hierarchical Shared Caches
+by Edya Ladan-Mozes and Charles E. Leiserson
+SPAA '08: Proceedings of the 20th ACM Symposium on Parallel Algorithms and Architectures
+Pages: 11-22
+June, 2008
+Download the paper: pdf format 
+BibTeX
+Nested Parallelism in Transactional Memory
+by Kunal Agrawal, Jeremy T. Fineman, and Jim Sukha
+Proceedings of the 13th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)
+February, 2008
+Download the paper: pdf format 
+BibTeX
+The Worst Page-Replacement Policy
+by Kunal Agrawal, Michael A. Bender, and Jeremy T. Fineman
+Proceedings of the Fourth International Conference on Fun With Algorithms
+June 3–5, 2007
+Download the paper: pdf format 
+BibTeX
+Cache-Oblivious Streaming B-trees
+by Michael A. Bender, Martin Farach-Colton, Jeremy T. Fineman, Yonatan Fogel, Bradley Kuszmaul, and Jelani Nelson
+Proceedings of the Nineteenth ACM Symposium on Parallelism in Algorithms and Architectures
+Pages: 81–92
+June 9–11, 2007
+Download the paper: pdf format 
+BibTeX
+Adaptive work stealing with parallelism feedback
+by Kunal Agrawal, Yuxiong He, and Charles E. Leiserson
+Proceedings of the 12th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+Pages: 112–120
+March 14–17, 2007
+Download the paper: pdf format 
+BibTeX
+Programming with Exceptions in JCilk
+by John S. Danaher, I-Ting Angelina Lee, and Charles E. Leiserson
+Science of Computer Programming (SCP), 147–171, December, 2006
+Download the paper: pdf format 
+BibTeX
+Memory Models for Open-Nested Transactions
+by Kunal Agrawal, Charles E. Leiserson, and Jim Sukha
+Proceedings of the ACM SIGPLAN Workshop on Memory Systems Performance and Correctness (MSPC)
+October, 2006
+Download the paper: pdf format 
+BibTeX
+Contention Resolution with Heterogeneous Job Sizes
+by Michael A. Bender, Jeremy T. Fineman, and Seth Gilbert
+Proceedings of the 14th Annual European Symposium on Algorithms (ESA)
+Pages: 112–123
+September, 2006
+Download the paper: pdf format 
+BibTeX
+An Empirical Evaluation of Work Stealing with Parallelism Feedback
+by Kunal Agrawal, Yuxiong He, and Charles E. Leiserson
+Proceedings of the International Conference on Distributed Computing Systems (ICDCS)
+July, 2006
+Download the paper: pdf format 
+BibTeX
+Cache-Oblivious String B-Trees
+by Michael A. Bender, Martin Farach-Colton, and Bradley C. Kuszmaul
+Proceedings of the Twenty-Fifth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems
+Pages: 223–242
+June, 2006
+Download the paper: pdf format 
+BibTeX
+Provably Efficient Two-level Adaptive Scheduling
+by Yuxiong He, Wen-Jing Hsu, and Charles E. Leiserson
+In the Proceedings of the 12th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)
+June, 2006
+Download the paper: pdf format 
+BibTeX
+Concurrent Cache-Oblivious B-Trees Using Transactional Memory
+by Bradley C. Kuszmaul and Jim Sukha
+Workshop on Transactional Memory Workloads
+June, 2006
+Download the paper: pdf format 
+BibTeX
+External-Memory Search Trees with Fast Insertions
+by Jelani Nelson
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+June, 2006
+Download the paper: pdf format 
+BibTeX
+Adaptive Task Scheduling with Parallelism Feedback
+by Kunal Agrawal, Yuxiong He, Wen Jing Hsu, and Charles E. Leiserson
+Proceedings of the Annual ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)
+March 29–31, 2006
+Download the paper: pdf format 
+BibTeX
+The JCilk Language for Multithreaded Computing
+by John S. Danaher, I-Ting Angelina Lee, and Charles E. Leiserson
+Synchronization and Concurrency in Object-Oriented Languages (SCOOL)
+October, 2005
+Download the paper: pdf format 
+BibTeX
+Nondeterminator-3: A Provably Good Data-Race Detector That Runs in Parallel
+by Tushara C. Karunaratna
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+September, 2005
+Download the paper: pdf format 
+BibTeX
+Provably Good Race Detection That Runs in Parallel
+by Jeremy T. Fineman
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+August, 2005
+Download the paper: pdf format 
+BibTeX
+The JCilk Multithreaded Language
+by I-Ting Angelina Lee
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+August, 2005
+Download the paper: pdf format 
+BibTeX
+Concurrent Cache-Oblivious B-Trees
+by Michael A. Bender, Jeremy T. Fineman, Seth Gilbert, and Bradley C. Kuszmaul
+Proceedings of the Seventeenth ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
+Pages: 228–237
+July 17–20, 2005
+Download the paper: pdf format 
+BibTeX
+The JCilk-1 Runtime System
+by John S. Danaher
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+June, 2005
+Download the paper: pdf format 
+BibTeX
+LecTix: A Lecture-Multimedia Player
+by Timothy D. Olsen
+Master's Thesis, Massachusetts Institute of Technology
+June, 2005
+Download the paper: pdf format 
+BibTeX
+Memory-Mapped Transactions
+by Jim Sukha
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+May, 2005
+Download the paper: pdf format 
+BibTeX
+Unbounded Transactional Memory
+by C. Scott Ananian, Krste Asanovi'c, Bradley C. Kuszmaul, Charles E. Leiserson, and Sean Lie
+Proceedings of the 11th International Symposium on High-Performance Computer Architecture (HPCA'05)
+Pages: 316–327
+February, 2005
+Download the paper: pdf format 
+BibTeX
+Dynamic Processor Allocation for Adaptively Parallel Work-Stealing Jobs
+by Siddhartha Sen
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+August, 2004
+Download the paper: pdf format 
+BibTeX
+On-the-Fly Maintenance of Series-Parallel Relationships in Fork-Join Multithreaded Programs
+by Michael A. Bender, Jeremy T. Fineman, Seth Gilbert, and Charles E. Leiserson
+Proceedings of the Sixteenth ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
+Pages: 133–144
+June 27–30, 2004
+Download the paper: pdf format 
+BibTeX
+Cache-Oblivious Dynamic Search Trees
+by Zardosht Kasheff
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+June, 2004
+Download the paper: pdf format 
+BibTeX
+Hardware Support for Unbounded Transactional Memory
+by Sean Lie
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+May, 2004
+Download the paper: pdf format 
+BibTeX
+Data-Race Detection in Transactions-Everywhere Parallel Programming
+by Kai Huang
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+June, 2003
+Download the paper: pdf format 
+BibTeX
+Online Scheduling of Parallel Programs on Heterogeneous Systems with Applications to Cilk
+by M. A. Bender and M. O. Rabin
+Theory of Computing Systems Special Issue on SPAA00, 289–304, 2002
+Download the paper: pdf format 
+BibTeX
+Using Cilk to Write Multiprocessor Chess Programs
+by Don Dailey and Charles E. Leiserson
+The Journal of the International Computer Chess Association, 2002
+Download the paper: pdf format 
+BibTeX
+Cilk 5.4.6 Reference Manual
+November, 2001
+Download the paper: pdf format
+BibTeX
+Scheduling Cilk Multithreaded Parallel Programs on Processors of Different Speeds
+by M. A. Bender and M. O. Rabin
+Proceedings of the twelfth annual ACM symposium on Parallel algorithms and architectures
+Pages: 13–21
+July, 2000
+Download the paper: pdf format 
+BibTeX
+A Parallel File I/O API for Cilk
+by Matthew S. DeBergalis
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+May, 2000
+Download the paper: pdf format 
+BibTeX
+Cache-Oblivious Algorithms
+by Matteo Frigo, Charles E. Leiserson, Harald Prokop, and Sridhar Ramachandran
+40th Annual Symposium on Foundations of Computer Science
+Pages: 285–297
+October 17–19, 1999
+Download the paper: pdf format 
+BibTeX
+Scheduling Multithreaded Computations by Work Stealing
+by Robert D. Blumofe and Charles E. Leiserson
+Journal of the ACM, 720–748, September, 1999
+Download the paper: pdf format 
+BibTeX
+Portable High-Performance Programs
+by Matteo Frigo
+Ph.D. Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+June, 1999
+Download the paper: pdf format 
+BibTeX
+A Comparison of Scalable Superscalar Processors
+by Bradley C. Kuszmaul, Dana S. Henry, and Gabriel H. Loh
+Proceedings of the 11th Annual ACM Symposium on Parallel Algorithms and Architectures
+Pages: 126–137
+June 27–30, 1999
+Download the paper: pdf format 
+BibTeX
+Cache-Oblivious Algorithms
+by Harald Prokop
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+June, 1999
+Download the paper: pdf format 
+BibTeX
+A Fast Fourier Transform Compiler
+by Matteo Frigo
+Proceedings of the ACM SIGPLAN'99 Conference on Programming Language Design and Implementation (PLDI)
+May, 1999
+Download the paper: pdf format 
+BibTeX
+A Fast Fourier Transform Compiler
+by Matteo Frigo
+ACM SIGPLAN Notices, 169–180, May, 1999
+BibTeX
+Efficient Detection of Determinacy Races in Cilk Programs
+by Mingdong Feng and Charles E. Leiserson
+Theory of Computing Systems, 301–326, 1999
+A preliminary version appeared as \citeFengLe97..
+BibTeX
+Algorithms for Data-Race Detection in Multithreaded Programs
+by Guang-Ien Cheng
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+June, 1998
+Download the paper: pdf format 
+BibTeX
+Detecting Data Races in Cilk Programs That Use Locks
+by Guang-Ien Cheng, Mingdong Feng, Charles E. Leiserson, Keith H. Randall, and Andrew F. Stark
+Proceedings of the Tenth Annual ACM Symposium on Parallel Algorithms and Architectures (SPAA '98)
+Pages: 298–309
+June 28–July 2, 1998
+Download the paper: pdf format 
+BibTeX
+The Implementation of the Cilk-5 Multithreaded Language
+by Matteo Frigo, Charles E. Leiserson, and Keith H. Randall
+Proceedings of the ACM SIGPLAN '98 Conference on Programming Language Design and Implementation (PLDI)
+Pages: 212–223
+June, 1998
+Proceedings published ACM SIGPLAN Notices, Vol. 33, No. 5, May, 1998..
+Download the paper: pdf format 
+BibTeX
+Computation-Centric Memory Models
+by Matteo Frigo and Victor Luchangco
+Proceedings of the Tenth Annual ACM Symposium on Parallel Algorithms and Architectures (SPAA '98)
+Pages: 240–249
+June 28–July 2, 1998
+Download the paper: pdf format 
+BibTeX
+Performance Nonmonotonicities: A Case Study of the UltraSPARC Processor
+by Nathaniel A. Kushman
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+June, 1998
+Download the paper: pdf format 
+BibTeX
+Using de Bruijn Sequences to Index a 1 in a Computer Word
+by Charles E. Leiserson and Harald Prokop
+June, 1998
+Unpublished manuscript.
+Download the paper: pdf format 
+BibTeX
+Portable Fault-Tolerant File I/O
+by Igor B. Lyubashevskiy
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+June, 1998
+Download the paper: pdf format 
+BibTeX
+Programming Parallel Applications in Cilk
+by Charles E. Leiserson and Aske Plaat
+SIAM News, 6–7, May, 1998
+BibTeX
+Cilk: Efficient Multithreaded Computing
+by Keith H. Randall
+Ph.D. Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+May, 1998
+Download the paper: pdf format 
+BibTeX
+Debugging Multithreaded Programs that Incorporate User-Level Locking
+by Andrew F. Stark
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+May, 1998
+Download the paper: pdf format 
+BibTeX
+Space-Efficient Scheduling of Multithreaded Computations
+by Robert D. Blumofe and Charles E. Leiserson
+SIAM Journal on Computing, 202–229, February, 1998
+BibTeX
+The Weakest Reasonable Memory Model
+by Matteo Frigo
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+January, 1998
+Download the paper: pdf format 
+BibTeX
+Scheduling Adaptively Parallel Jobs
+by Bin Song
+Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science
+January, 1998
+Download the paper: pdf format 
+BibTeX
+FFTW: An Adaptive Software Architecture for the FFT
+by Matteo Frigo and Steven G. Johnson
+Proceedings of the International Conference on Acoustics, Speech, and Signal Processing
+Pages: 1381–1384
+1998
+BibTeX
+A Minicourse on Multithreaded Programming
+by Charles E. Leiserson and Harald Prokop
+1998
+Available on the Internet from \urlhttp://theory.lcs.mit.edu/ cilk.
+Download the paper: pdf format 
+BibTeX
+Compiler Technology for Portable Checkpoints
+by V. Strumpen
+1998
+Download the paper: pdf format 
+BibTeX
+Cilk Pousse
+by Dan Adkins, Reid Barton, Don Dailey, Matteo Frigo, Chris Joerg, Charles Leiserson, Harald Prokop, and Martin Rinard
+1998
+Winner of the 1998 ICFP Programming Contest.
+Download the paper: URL
+BibTeX
+Efficient Detection of Determinacy Races in Cilk Programs
+by Mingdong Feng and Charles E. Leiserson
+Proceedings of the Ninth Annual ACM Symposium on Parallel Algorithms and Architectures (SPAA)
+Pages: 1–11
+June 22–25, 1997
+Download the paper: pdf format 
+BibTeX
+Programming Irregular Parallel Applications In Cilk
+by Charles E. Leiserson
+Solving Irregularly Structured Problems in Parallel: 4th International Symposium (IRREGULAR'97)
+Pages: 61–71
+June, 1997
+BibTeX
+Adaptive and Reliable Parallel Computing on Networks of Workstations
+by Robert D. Blumofe and Philip A. Lisiecki
+Proceedings of the USENIX 1997 Annual Technical Conference on UNIX and Advanced Computing Systems
+Pages: 133–147
+January, 1997
+Download the paper: pdf format 
+BibTeX
+The Fastest Fourier Transform in the West
+by Matteo Frigo and Steven G. Johnson
+Technical Report MIT/LCS/TR-728, Massachusetts Institute of Technology Laboratory for Computer Science
+1997
+Download the paper: pdf format 
+BibTeX
+Parallel algorithms for the circuit value update problem
+by Charles E. Leiserson and Keith H. Randall
+Theory of Computing Systems, 583–597, 1997
+BibTeX
+Portable Checkpointing for Heterogeneous Architectures
+by Balkrishna Ramkumar and Volker Strumpen
+Symposium on Fault-Tolerant Computing
+Pages: 58–67
+1997
+Download the paper: pdf format 
+BibTeX
+Cilk: An Efficient Multithreaded Runtime System
+by Robert D. Blumofe, Christopher F. Joerg, Bradley C. Kuszmaul, Charles E. Leiserson, Keith H. Randall, and Yuli Zhou
+Journal of Parallel and Distributed Computing, 55–69, August 25, 1996
+(An early version appeared in the \em Proceedings of the Fifth ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP '95), pages 207–216, Santa Barbara, California, July 1995.).
+Download the paper: pdf format 
+BibTeX
+An Analysis of Dag-Consistent Distributed Shared-Memory Algorithms
+by Robert D. Blumofe, Matteo Frigo, Chrisopher F. Joerg, Charles E. Leiserson, and Keith H. Randall
+Proceedings of the Eighth Annual ACM Symposium on Parallel Algorithms and Architectures
+Pages: 297–308
+June, 1996
+Download the paper: pdf format 
+BibTeX
+Macro-Level Scheduling in the Cilk Network of Workstations Environment
+by Philip Lisiecki
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+May, 1996
+Download the paper: pdf format 
+BibTeX
+Dag-Consistent Distributed Shared Memory
+by Robert D. Blumofe, Matteo Frigo, Christopher F. Joerg, Charles E. Leiserson, and Keith H. Randall
+Proceedings of the 10th International Parallel Processing Symposium
+Pages: 132–141
+April, 1996
+Download the paper: pdf format 
+BibTeX
+The Cilk System for Parallel Multithreaded Computing
+by Christopher F. Joerg
+Ph.D. Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+January, 1996
+Available as MIT Laboratory for Computer Science Technical Report MIT/LCS/TR-701..
+Download the paper: pdf format 
+BibTeX
+Executing Multithreaded Programs Efficiently
+by Robert D. Blumofe
+Ph.D. Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+September, 1995
+Available as MIT Laboratory for Computer Science Technical Report MIT/LCS/TR-677..
+Download the paper: pdf format 
+BibTeX
+Cilk: An Efficient Multithreaded Runtime System
+by Robert D. Blumofe, Christopher F. Joerg, Bradley C. Kuszmaul, Charles E. Leiserson, Keith H. Randall, and Yuli Zhou
+Proceedings of the Fifth ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)
+Pages: 207–216
+July, 1995
+Download the paper: pdf format 
+BibTeX
+Heterogeneous Multithreaded Computing
+by Howard J. Lu
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+May, 1995
+Download the paper: pdf format 
+BibTeX
+A Type-checking Preprocessor for Cilk 2, a Multithreaded C Language
+by Robert C. Miller
+Master's Thesis, Massachusetts Institute of Technology Electrical Engineering and Computer Science
+May, 1995
+Download the paper: pdf format 
+BibTeX
+The StarTech Massively Parallel Chess Program
+by Bradley C. Kuszmaul
+The Journal of the International Computer Chess Association, 3–20, March, 1995
+Download the paper: pdf format 
+BibTeX
+Massively Parallel Chess
+by Chris Joerg and Bradley C. Kuszmaul
+Proceedings of the Third DIMACS Parallel Implementation Challenge
+October 17–19, 1994
+Download the paper: pdf format 
+BibTeX
+MIMD-Style Parallel Programming with Continuation-Passing Threads
+by Michael Halbherr, Yuli Zhou, and Chris F. Joerg
+Proceedings of the 2nd International Workshop on Massive Parallelism: Hardware, Software, and Applications
+September, 1994
+BibTeX
+Scheduling Large-Scale Parallel Computations on Networks of Workstations
+by Robert D. Blumofe and David S. Park
+Proceedings of the Third International Symposium on High Performance Distributed Computing (HPDC)
+Pages: 96–105
+August, 1994
+Download the paper: pdf format 
+BibTeX
+Synchronized MIMD Computing
+by Bradley C. Kuszmaul
+Ph.D. Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+May, 1994
+Available as MIT Laboratory for Computer Science Technical Report MIT/LCS/TR-645..
+Download the paper: pdf format 
+BibTeX
+How to Get Good Performance from the CM-5 Data Network
+by Eric A. Brewer and Bradley C. Kuszmaul
+Proceedings of the 8th International Parallel Processing Symposium
+Pages: 858–867
+April, 1994
+BibTeX
+Strata: A Multi-Layer Communications Library
+by Eric A. Brewer and Robert Blumofe
+1994
+MIT Laboratory for Computer Science. Available as \ttfamily ftp://ftp.lcs.mit.edu/pub/supertech/strata/strata.tar.Z.
+Download the paper: pdf format 
+BibTeX
+Space-Efficient Scheduling of Multithreaded Computations
+by Robert D. Blumofe and Charles E. Leiserson
+Proceedings of the Twenty Fifth Annual ACM Symposium on Theory of Computing
+Pages: 362–371
+May, 1993
+BibTeX
+Managing Storage for Multithreaded Computations
+by Robert D. Blumofe
+Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+September, 1992
+Also available as MIT Laboratory for Computer Science Technical Report MIT/LCS/TR-552..
+Download the paper: pdf format 
+BibTeX
+The Network Architecture of the Connection Machine CM-5
+by Charles E. Leiserson, Zahi S. Abuhamdeh, David C. Douglas, Carl R. Feynman, Mahesh N. Ganmukhi, Jeffrey V. Hill, W. Daniel Hillis, Bradley C. Kuszmaul, Margaret A. St. Pierre, David S. Wells, Monica C. Wong, Shaw-Wen Yang, and Robert Zak
+Proceedings of the Fourth Annual ACM Symposium on Parallel Algorithms and Architectures
+Pages: 272–285
+June, 1992
+BibTeX
+NAP (No ALU Processor): The Great Communicator
+by Jeff Fried and Bradley C. Kuszmaul
+The Second Symposium on the Frontiers of Massively Parallel Computation (Frontiers '88)
+Pages: 383–389
+1988
+Download the paper: pdf format 
+BibTeX
+Solving Sparse Linear Systems via Parallel Nested Dissection on the Connection Machine
+by Charles E. Leiserson, Jill P. Mesirov, Lena Nekludova, Stephen M. Omohundro, and John Reif
+SIAM 1986 National Meeting
+July, 1986
+BibTeX
+
+
+ 
+
+(c) Copyright 2012 Massachusetts Institute of Technology
+Last updated: 14:15:23 Thu Mar 14, 2019
+by hjxu
+Valid XHTML 1.0!

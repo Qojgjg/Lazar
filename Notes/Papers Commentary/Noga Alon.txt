@@ -1,0 +1,2382 @@
+The Probabilistic Method
+N Alon, JH Spencer
+Wiley-Interscience, New York	8136*	1992
+The space complexity of approximating the frequency moments
+N Alon, Y Matias, M Szegedy
+Journal of Computer and system sciences 58 (1), 137-147	2263	1999
+Eigenvalues and expanders
+N Alon
+Combinatorica 6 (2), 83-96	1418	1986
+Color-coding
+N Alon, R Yuster, U Zwick
+Journal of the ACM (JACM) 42 (4), 844-856	1168	1995
+λ1, isoperimetric inequalities for graphs, and superconcentrators
+N Alon, VD Milman
+Journal of Combinatorial Theory, Series B 38 (1), 73-88	1101	1985
+A fast and simple randomized parallel algorithm for the maximal independent set problem
+N Alon, L Babai, A Itai
+Journal of algorithms 7 (4), 567-583	891	1986
+Combinatorial nullstellensatz
+N Alon
+Combinatorics, Probability and Computing 8 (1-2), 7-29	829	1999
+Simple constructions of almost k‐wise independent random variables
+N Alon, O Goldreich, J Håstad, R Peralta
+Random Structures & Algorithms 3 (3), 289-304	781	1992
+Colorings and orientations of graphs
+N Alon, M Tarsi
+Combinatorica 12 (2), 125-134	628	1992
+Finding and counting given length cycles
+N Alon, R Yuster, U Zwick
+Algorithmica 17 (3), 209-223	610	1997
+Scale-sensitive dimensions, uniform convergence, and learnability
+N Alon, S Ben-David, N Cesa-Bianchi, D Haussler
+Journal of the ACM (JACM) 44 (4), 615-631	538	1997
+Finding a large hidden clique in a random graph
+N Alon, M Krivelevich, B Sudakov
+Random Structures & Algorithms 13 (3‐4), 457-466	456	1998
+The monotone circuit complexity of Boolean functions
+N Alon, RB Boppana
+Combinatorica 7 (1), 1-22	424	1987
+Efficient testing of large graphs
+N Alon, E Fischer, M Krivelevich, M Szegedy
+Combinatorica 20 (4), 451-476	419	2000
+A lower bound for radio broadcast
+N Alon, A Bar-Noy, N Linial, D Peleg
+Journal of Computer and System Sciences 43 (2), 290-298	398	1991
+Explicit construction of linear sized tolerant networks
+N Alon, FRK Chung
+Discrete Mathematics 72 (1-3), 15-19	394	1988
+The algorithmic aspects of the regularity lemma
+N Alon, RA Duke, H Lefmann, V Rodl, R Yuster
+Journal of Algorithms 16 (1), 80-109	375	1994
+A graph-theoretic game and its application to the k-server problem
+N Alon, RM Karp, D Peleg, D West
+SIAM Journal on Computing 24 (1), 78-100	358	1995
+Approximating the cut-norm via Grothendieck's inequality
+N Alon, A Naor
+Proceedings of the thirty-sixth annual ACM symposium on Theory of computing …	348	2004
+Tracking join and self-join sizes in limited storage
+N Alon, PB Gibbons, Y Matias, M Szegedy
+Journal of Computer and System Sciences 64 (3), 719-747	342	2002
+Algorithmic construction of sets for k-restrictions
+N Alon, D Moshkovitz, S Safra
+ACM Transactions on Algorithms (TALG) 2 (2), 153-177	330	2006
+Acyclic coloring of graphs
+N Alon, C McDiarmid, B Reed
+Random Structures & Algorithms 2 (3), 277-288	315	1991
+Construction of asymptotically good low-rate error-correcting codes through pseudo-random graphs
+N Alon, J Bruck, J Naor, M Naor, RM Roth
+IEEE Transactions on information theory 38 (2), 509-516	306	1992
+Random Cayley graphs and expanders
+N Alon, Y Roichman
+Random Structures & Algorithms 5 (2), 271-284	292	1994
+A combinatorial characterization of the testable graph properties: it's all about regularity
+N Alon, E Fischer, I Newman, A Shapira
+SIAM Journal on Computing 39 (1), 143-167	280	2009
+Restricted colorings of graphs
+N Alon
+Surveys in combinatorics 187, 1-33	271	1993
+Ranking tournaments
+N Alon
+SIAM Journal on Discrete Mathematics 20 (1), 137-142	261	2006
+A separator theorem for graphs with an excluded minor and its applications
+N Alon, P Seymour, R Thomas
+Proceedings of the twenty-second annual ACM symposium on Theory of computing …	261	1990
+Problems and results in extremal combinatorics—I
+N Alon
+Discrete Mathematics 273 (1-3), 31-53	259	2003
+A separator theorem for nonplanar graphs
+N Alon, P Seymour, R Thomas
+Journal of the American Mathematical Society 3 (4), 801-808	250	1990
+A characterization of the (natural) graph properties testable with one-sided error
+N Alon, A Shapira
+SIAM Journal on Computing 37 (6), 1703-1727	249	2008
+A spectral technique for coloring random 3-colorable graphs
+N Alon, N Kahale
+SIAM Journal on Computing 26 (6), 1733-1748	249	1997
+Many random walks are faster than one
+N Alon, C Avin, M Koucký, G Kozma, Z Lotker, MR Tuttle
+Combinatorics, Probability and Computing 20 (4), 481-502	240	2011
+A parallel algorithmic version of the local lemma
+N Alon
+Random Structures & Algorithms 2 (4), 367-378	230	1991
+Approximation schemes for scheduling on parallel machines
+N Alon, Y Azar, GJ Woeginger, T Yadid
+Journal of Scheduling 1 (1), 55-66	226	1998
+Acyclic edge colorings of graphs
+N Alon, B Sudakov, A Zaks
+Journal of Graph Theory 37 (3), 157-167	217	2001
+The Moore bound for irregular graphs
+N Alon, S Hoory, N Linial
+Graphs and Combinatorics 18 (1), 53-57	212	2002
+Piercing convex sets and the Hadwiger-Debrunner (p, q)-problem
+N Alon, DJ Kleitman
+Advances in Mathematics 96 (1), 103-112	209*	1992
+A linear time erasure-resilient code with nearly optimal recovery
+N Alon, M Luby
+IEEE Transactions on Information Theory 42 (6), 1732-1736	206	1996
+Splitting necklaces
+N Alon
+Advances in Mathematics 63 (3), 247-253	206	1987
+Biomolecular network motif counting and discovery by color coding
+N Alon, P Dao, I Hajirasouliha, F Hormozdiari, SC Sahinalp
+Bioinformatics 24 (13), i241-i249	204	2008
+Norm-graphs: variations and applications
+N Alon, L Rónyai, T Szabó
+Journal of Combinatorial Theory, Series B 76 (2), 280-290	195	1999
+On the exponent of the all pairs shortest path problem
+N Alon, Z Galil, O Margalit
+Journal of Computer and System Sciences 54 (2), 255-262	193	1997
+Testing subgraphs in large graphs
+N Alon
+Random Structures & Algorithms 21 (3‐4), 359-370	191	2002
+The polynomial method and restricted sums of congruence classes
+N Alon, MB Nathanson, I Ruzsa
+Journal of Number Theory 56 (2), 404-417	187	1996
+Broadcasting with side information
+N Alon, E Lubetzky, U Stav, A Weinstein, A Hassidim
+2008 49th Annual IEEE Symposium on Foundations of Computer Science, 823-832	181	2008
+Regular languages are testable with a constant number of queries
+N Alon, M Krivelevich, I Newman, M Szegedy
+SIAM Journal on Computing 30 (6), 1842-1862	181	2001
+Nonrepetitive colorings of graphs
+N Alon, J Grytczuk, M Hałuszczak, O Riordan
+Random Structures & Algorithms 21 (3‐4), 336-346	180	2002
+The Shannon capacity of a union
+N Alon
+Combinatorica 18 (3), 301-310	180	1998
+Transversal numbers of uniform hypergraphs
+N Alon
+Graphs and Combinatorics 6 (1), 1-4	179	1990
+H-factors in dense graphs
+N Alon, R Yuster
+Journal of Combinatorial Theory, Series B 66 (2), 269-282	176	1996
+Derandomized graph products
+N Alon, U Feige, A Wigderson, D Zuckerman
+Computational Complexity 5 (1), 60-75	176	1995
+Non-backtracking random walks mix faster
+N Alon, I Benjamini, E Lubetzky, S Sodin
+Communications in Contemporary Mathematics 9 (04), 585-603	175	2007
+Eigenvalues, geometric expanders, sorting in rounds, and Ramsey theory
+N Alon
+Combinatorica 6 (3), 207-219	173	1986
+The online set cover problem
+N Alon, B Awerbuch, Y Azar
+Proceedings of the thirty-fifth annual ACM symposium on Theory of computing …	172	2003
+Approximating the independence number via theϑ-function
+N Alon, N Kahale
+Mathematical Programming 80 (3), 253-264	170	1998
+Many T copies in H-free graphs
+N Alon, C Shikhelman
+Journal of Combinatorial Theory, Series B 121, 146-172	167	2016
+Testing subgraphs in directed graphs
+N Alon, A Shapira
+Journal of Computer and System Sciences 69 (3), 354-382	165	2004
+Every monotone graph property is testable
+N Alon, A Shapira
+SIAM Journal on Computing 38 (2), 505-522	160	2008
+On the concentration of eigenvalues of random symmetric matrices
+N Alon, M Krivelevich, VH Vu
+Israel Journal of Mathematics 131 (1), 259-267	160	2002
+Derandomization, witnesses for Boolean matrix multiplication and construction of perfect hash functions
+N Alon, M Naor
+Algorithmica 16 (4), 434-449	158	1996
+A biological solution to a fundamental distributed computing problem
+Y Afek, N Alon, O Barad, E Hornstein, N Barkai, Z Bar-Joseph
+science 331 (6014), 183-185	157	2011
+Source coding and graph entropies
+N Alon, A Orlitsky
+IEEE Transactions on Information Theory 42 (5), 1329-1339	156	1996
+Optimal preprocessing for answering on-line product queries
+N Alon, B Schieber
+Tel-Aviv University. The Moise and Frida Eskenasy Institute of Computer Sciences	155	1987
+Testing reed-muller codes
+N Alon, T Kaufman, M Krivelevich, S Litsyn, D Ron
+IEEE Transactions on Information Theory 51 (11), 4032-4039	152	2005
+Percolation on finite graphs and isoperimetric inequalities
+N Alon, I Benjamini, A Stacey
+The Annals of Probability 32 (3), 1727-1745	149	2004
+Point selections and weak ε-nets for convex hulls
+N Alon, I Bárány, Z Füredi, DJ Kleitman
+Combinatorics, Probability and Computing 1 (3), 189-200	147	1992
+Dense graphs are antimagic
+N Alon, G Kaplan, A Lev, Y Roditty, R Yuster
+Journal of Graph Theory 47 (4), 297-309	146	2004
+Independent sets in regular graphs and sum-free subsets of finite groups
+N Alon
+Israel Journal of Mathematics 73 (2), 247-256	146	1991
+The linear arboricity of graphs
+N Alon
+Israel Journal of Mathematics 62 (3), 311-325	145	1988
+The chromatic number of Kneser hypergraphs
+N Alon, P Frankl, L Lovász
+Transactions of the American Mathematical Society 298 (1), 359-370	142	1986
+Efficient simulation of finite automata by neural nets
+N Alon, AK Dewdney, TJ Ott
+Journal of the ACM (JACM) 38 (2), 495-514	137	1991
+Quadratic forms on graphs
+N Alon, K Makarychev, Y Makarychev, A Naor
+Inventiones mathematicae 163 (3), 499-522	134	2006
+Testing Low-Degree Polynomials over GF(2)
+N Alon, T Kaufman, M Krivelevich, S Litsyn, D Ron
+Approximation, Randomization, and Combinatorial Optimization.. Algorithms …	133	2003
+Explicit Ramsey graphs and orthonormal labelings
+N Alon
+the electronic journal of combinatorics, R12-R12	133	1994
+Explicit construction of exponential sized families of k-independent sets
+N Alon
+Discrete Mathematics 58 (2), 191-193	132	1986
+Solving MAX-r-SAT above a tight lower bound
+N Alon, G Gutin, EJ Kim, S Szeider, A Yeo
+Algorithmica 61 (3), 638-655	130	2011
+Multilinear polynomials and Frankl-Ray-Chaudhuri-Wilson type intersection theorems
+N Alon, L Babai, H Suzuki
+Journal of Combinatorial Theory, Series A 58 (2), 165-180	130	1991
+Planar separators
+N Alon, P Seymour, R Thomas
+SIAM Journal on Discrete Mathematics 7 (2), 184-193	129	1994
+Testing k-wise and almost k-wise independence
+N Alon, A Andoni, T Kaufman, K Matulef, R Rubinfeld, N Xie
+Proceedings of the thirty-ninth annual ACM symposium on Theory of computing …	128	2007
+Generalization error bounds for collaborative prediction with low-rank matrices
+N Srebro, N Alon, T Jaakkola
+Advances In Neural Information Processing Systems 17	128	2004
+Approximation schemes for scheduling
+N Alon, Y Azar, GJ Woeginger, T Yadid
+SODA, 493-500	128	1997
+Tools from higher algebra
+N Alon
+Handbook of combinatorics 2, 1749-1783	128	1995
+Online learning with feedback graphs: Beyond bandits
+N Alon, N Cesa-Bianchi, O Dekel, T Koren
+Conference on Learning Theory, 23-35	127	2015
+Coloring graphs with sparse neighborhoods
+N Alon, M Krivelevich, B Sudakov
+Journal of Combinatorial Theory, Series B 77 (1), 73-82	127	1999
+Zero-sum sets of prescribed size
+N Alon, M Dubiner
+Combinatorics, Paul Erdos is Eighty 1, 33-50	127	1993
+Nearly perfect matchings in regular simple hypergraphs
+N Alon, JH Kim, J Spencer
+Israel Journal of Mathematics 100 (1), 171-187	126	1997
+A note on competitive diffusion through social networks
+N Alon, M Feldman, AD Procaccia, M Tennenholtz
+Information Processing Letters 110 (6), 221-225	125	2010
+The star arboricity of graphs
+I Algor, N Alon
+Annals of Discrete Mathematics 43, 11-22	125	1989
+Resolution enhancement in MRI
+E Carmi, S Liu, N Alon, A Fiat, D Fiat
+Magnetic resonance imaging 24 (2), 133-154	124	2006
+Geometrical realization of set systems and probabilistic communication complexity
+N Alon, P Frankl, V Rodl
+26th Annual Symposium on Foundations of Computer Science (sfcs 1985), 277-280	124	1985
+A general approach to online network optimization problems
+N Alon, B Awerbuch, Y Azar, N Buchbinder, J Naor
+ACM Transactions on Algorithms (TALG) 2 (4), 640-660	123	2006
+Testing of clustering
+N Alon, S Dar, M Parnas, D Ron
+SIAM Journal on Discrete Mathematics 16 (3), 393-417	123	2003
+The number of small semispaces of a finite set of points in the plane
+N Alon, E Györi
+Journal of Combinatorial Theory, Series A 41 (1), 154-157	122	1986
+The online set cover problem
+N Alon, B Awerbuch, Y Azar, N Buchbinder, J Naor
+SIAM Journal on Computing 39 (2), 361-370	120	2009
+XML with data values: typechecking revisited
+N Alon, T Milo, F Neven, D Suciu, V Vianu
+Journal of Computer and System Sciences 66 (4), 688-727	120	2003
+Testing k-colorability
+N Alon, M Krivelevich
+SIAM Journal on Discrete Mathematics 15 (2), 211-227	120	2002
+Regular subgraphs of almost regular graphs
+N Alon, S Friedland, G Kalai
+Journal of Combinatorial Theory, Series B 37 (1), 79-91	120	1984
+The concentration of the chromatic number of random graphs
+N Alon, M Krivelevich
+Combinatorica 17 (3), 303-313	119	1997
+On-line Steiner trees in the Euclidean plane
+N Alon, Y Azar
+Discrete & Computational Geometry 10 (2), 113-121	119	1993
+Turán numbers of bipartite graphs and related Ramsey-type questions
+N Alon, M Krivelevich, B Sudakov
+Combinatorics, Probability and Computing 12 (5-6), 477-494	118	2003
+Strategyproof approximation of the minimax on networks
+N Alon, M Feldman, AD Procaccia, M Tennenholtz
+Mathematics of Operations Research 35 (3), 513-526	117	2010
+Fast FAST
+N Alon, D Lokshtanov, S Saurabh
+International colloquium on automata, languages, and programming, 49-58	117	2009
+Adding distinct congruence classes modulo a prime
+N Alon, MB Nathanson, I Ruzsa
+The American mathematical monthly 102 (3), 250-255	116	1995
+Beeping a maximal independent set
+Y Afek, N Alon, Z Bar-Joseph, A Cornejo, B Haeupler, F Kuhn
+Distributed computing 26 (4), 195-208	115	2013
+Large matchings in uniform hypergraphs and the conjectures of Erdős and Samuels
+N Alon, P Frankl, H Huang, V Rödl, A Ruciński, B Sudakov
+Journal of Combinatorial Theory, Series A 119 (6), 1200-1215	112	2012
+Routing permutations on graphs via matchings
+N Alon, FRK Chung, RL Graham
+SIAM journal on discrete mathematics 7 (3), 513-530	112	1994
+Bipartite subgraphs
+N Alon
+Combinatorica 16 (3), 301-311	111	1996
+The Borsuk-Ulam theorem and bisection of necklaces
+N Alon, DB West
+Proceedings of the American Mathematical Society 98 (4), 623-628	110	1986
+Random sampling and approximation of MAX-CSPs
+N Alon, WF De La Vega, R Kannan, M Karpinski
+Journal of computer and system sciences 67 (2), 212-243	107	2003
+Sum of us: Strategyproof selection from the selectors
+N Alon, F Fischer, A Procaccia, M Tennenholtz
+Proceedings of the 13th Conference on Theoretical Aspects of Rationality and …	106	2011
+Degrees and choice numbers
+N Alon
+Random Structures & Algorithms 16 (4), 364-368	106	2000
+Crossing patterns of semi-algebraic sets
+N Alon, J Pach, R Pinchasi, R Radoičić, M Sharir
+Journal of Combinatorial Theory, Series A 111 (2), 310-326	105	2005
+Nonstochastic multi-armed bandits with graph-structured feedback
+N Alon, N Cesa-Bianchi, C Gentile, S Mannor, Y Mansour, O Shamir
+SIAM Journal on Computing 46 (6), 1785-1826	103	2017
+Semi-direct product in groups and zig-zag product in graphs: connections and applications
+N Alon, A Lubotzky, A Wigderson
+Proceedings 42nd IEEE Symposium on Foundations of Computer Science, 630-637	103	2001
+Linear time erasure codes with nearly optimal recovery
+N Alon, J Edmonds, M Luby
+Proceedings of IEEE 36th Annual Foundations of Computer Science, 512-519	103	1995
+The number of polytopes, configurations and real matroids
+N Alon
+Mathematika 33 (1), 62-71	103	1986
+On the number of subgraphs of prescribed type of graphs with a given number of edges
+N Alon
+Israel Journal of Mathematics 38 (1), 116-130	103	1981
+Perturbed identity matrices have high rank: Proof and applications
+N Alon
+Combinatorics, Probability and Computing 18 (1-2), 3-15	99	2009
+Transversal numbers for hypergraphs arising in geometry
+N Alon, G Kalai, J Matoušek, R Meshulam
+Advances in Applied Mathematics 29 (1), 79-101	99	2002
+Homomorphisms of edge-colored graphs and Coxeter groups
+N Alon, TH Marshall
+Journal of Algebraic Combinatorics 8 (1), 5-13	99	1998
+Eigenvalues, expanders and superconcentrators
+N Alon, VD Milman
+25th Annual Symposium onFoundations of Computer Science, 1984., 320-322	99	1984
+The Probabilistic Method (2000)
+N Alon, JH Spencer
+A Wiley–Interscience publication	99	
+Ramsey-type theorems with forbidden subgraphs
+N Alon, J Pach, J Solymosi
+Combinatorica 21 (2), 155-170	98	2001
+A lattice point problem and additive number theory
+N Alon, M Dubiner
+Combinatorica 15 (3), 301-309	98	1995
+Covering the cube by affine hyperplanes
+N Alon, Z Füredi
+European journal of combinatorics 14 (2), 79-83	98	1993
+Space-efficient local computation algorithms
+N Alon, R Rubinfeld, S Vardi, N Xie
+Proceedings of the twenty-third annual ACM-SIAM symposium on Discrete …	97	2012
+Color-coding: a new method for finding simple paths, cycles and other small subgraphs within large graphs
+N Alon, R Yuster, U Zwick
+Proceedings of the twenty-sixth annual ACM symposium on Theory of computing …	97	1994
+Balancing sets of vectors
+N Alon, EE Bergmann, D Coppersmith, AM Odlyzko
+IEEE Transactions on Information Theory 34 (1), 128-130	97	1988
+Learning a hidden matching
+N Alon, R Beigel, S Kasif, S Rudich, B Sudakov
+SIAM Journal on Computing 33 (2), 487-501	96	2004
+Basic network creation games
+N Alon, ED Demaine, MT Hajiaghayi, T Leighton
+SIAM Journal on Discrete Mathematics 27 (2), 656-668	95	2013
+The number of edge colorings with no monochromatic cliques
+N Alon, J Balogh, P Keevash, B Sudakov
+Journal of the London Mathematical Society 70 (2), 273-288	95	2004
+Partitioning into graphs with only small components
+N Alon, G Ding, B Oporowski, D Vertigan
+Journal of Combinatorial Theory, Series B 87 (2), 231-243	95	2003
+Finding and counting given length cycles
+N Alon, R Yuster, U Zwick
+European Symposium on Algorithms, 354-364	95	1994
+On a conjecture of erdöus, simonovits, and sós concerning anti‐Ramsey theorems
+N Alon
+Journal of Graph Theory 7 (1), 91-94	92	1983
+A characterization of easily testable induced subgraphs
+N Alon, A Shapira
+Combinatorics, Probability and Computing 15 (6), 791-805	91	2006
+Choice numbers of graphs: a probabilistic approach
+N Alon
+Combinatorics, Probability and Computing 1 (2), 107-114	91	1992
+Covering multigraphs by simple circuits
+N Alon, M Tarsi
+SIAM Journal on Algebraic Discrete Methods 6 (3), 345-350	91	1985
+On the density of sets of vectors
+N Alon
+Discrete Mathematics 46 (2), 199-202	91	1983
+Graph products, Fourier analysis and spectral techniques
+N Alon, I Dinur, E Friedgut, B Sudakov
+Geometric & Functional Analysis GAFA 14 (5), 913-940	90	2004
+Better expanders and superconcentrators
+N Alon, Z Galil, VD Milman
+Journal of Algorithms 8 (3), 337-347	90	1987
+Witnesses for boolean matrix multiplication and for shortest paths
+N Alon, Z Galil, O Margalit, M Naor
+FOCS 92, 417-426	89	1992
+Linear time algorithms for finding a dominating set of fixed size in degenerated graphs
+N Alon, S Gutner
+Algorithmica 54 (4), 544-556	88	2009
+Graphs with integral spectrum
+O Ahmadi, N Alon, IF Blake, IE Shparlinski
+Linear Algebra and its Applications 430 (1), 547-552	88	2009
+Inapproximability of densest κ-subgraph from average case hardness
+N Alon, S Arora, R Manokaran, D Moshkovitz, O Weinstein
+Unpublished manuscript 1, 6	87	2011
+The strong chromatic number of a graph
+N Alon
+Random Structures & Algorithms 3 (1), 1-7	87	1992
+Optimizing budget allocation among channels and influencers
+N Alon, I Gamzu, M Tennenholtz
+Proceedings of the 21st international conference on World Wide Web, 381-388	85	2012
+Bipartite subgraphs and the smallest eigenvalue
+N Alon, B Sudakov
+Combinatorics, Probability and Computing 9 (1), 1-12	83	2000
+On sunflowers and matrix multiplication
+N Alon, A Shpilka, C Umans
+2012 IEEE 27th Conference on Computational Complexity, 214-223	82	2012
+From bandits to experts: A tale of domination and independence
+N Alon, N Cesa-Bianchi, C Gentile, Y Mansour
+Advances in Neural Information Processing Systems 26	81	2013
+Measures of pseudorandomness for finite sequences: typical values
+N Alon, Y Kohayakawa, C Mauduit, CG Moreira, V Rödl
+Proceedings of the London Mathematical Society 95 (3), 778-812	81	2007
+Can visibility graphs be represented compactly?
+PK Agarwal, N Alon, B Aronov, S Suri
+Discrete & Computational Geometry 12 (3), 347-365	81	1994
+A nowhere-zero point in linear mappings
+N Alon, M Tarsi
+Combinatorica 9 (4), 393-395	81	1989
+Covering graphs by the minimum number of equivalence relations
+N Alon
+Combinatorica 6 (3), 201-206	81	1986
+An extremal problem for sets with applications to graph theory
+N Alon
+Journal of Combinatorial Theory, Series A 40 (1), 82-89	81	1985
+The structure of almost all graphs in a hereditary property
+N Alon, J Balogh, B Bollobás, R Morris
+Journal of Combinatorial Theory, Series B 101 (2), 85-110	80	2011
+Properly colored subgraphs and rainbow subgraphs in edge‐colorings with local constraints
+N Alon, T Jiang, Z Miller, D Pritikin
+Random Structures & Algorithms 23 (4), 409-433	80	2003
+Spectral techniques in graph algorithms
+N Alon
+Latin American Symposium on Theoretical Informatics, 206-215	79	1998
+On disseminating information reliably without broadcasting
+N Alon, A Barak, U Manber
+University of Wisconsin-Madison Department of Computer Sciences	79	1985
+The chromatic number of graph powers
+N Alon, B Mohar
+Combinatorics, Probability and Computing 11 (1), 1-10	78	2002
+Additive latin transversals
+N Alon
+Israel Journal of Mathematics 117 (1), 125-130	78	2000
+Repeated communication and Ramsey graphs
+N Alon, A Orlitsky
+IEEE Transactions on Information Theory 41 (5), 1276-1289	78	1995
+Learning a hidden subgraph
+N Alon, V Asodi
+SIAM Journal on Discrete Mathematics 18 (4), 697-712	76	2005
+On the exponent of the all pairs shortest path problem
+N Alon, Z Galil, O Margalit
+Proceedings of the 32nd Annual Symposium on Foundations of Computer Science …	76	1991
+Generating pseudo-random permutations and maximum flow algorithms
+N Alon
+Information Processing Letters 35 (4), 201-204	76	1990
+The approximate rank of a matrix and its algorithmic applications: approximate rank
+N Alon, T Lee, A Shraibman, S Vempala
+Proceedings of the forty-fifth annual ACM symposium on Theory of computing …	75	2013
+Algorithmic aspects of acyclic edge colorings
+N Alon, A Zaks
+Algorithmica 32 (4), 611-614	74	2002
+Anti-Hadamard matrices, coin weighing, threshold gates, and indecomposable hypergraphs
+N Alon, VH Vũ
+Journal of Combinatorial Theory, Series A 79 (1), 133-160	74	1997
+Meanders and their applications in lower bounds arguments
+N Alon, W Maasst
+Journal of Computer and System Sciences 37 (2), 118-129	74	1988
+A simple algorithm for edge-coloring bipartite multigraphs
+N Alon
+Information Processing Letters 85 (6), 301-302	73	2003
+Unextendible product bases
+N Alon, L Lovász
+Journal of combinatorial theory. Series A 95 (1), 169-179	73	2001
+Properly colored Hamilton cycles in edge‐colored complete graphs
+N Alon, G Gutin
+Random Structures & Algorithms 11 (2), 179-186	73	1997
+Polynomial time randomized approximation schemes for Tutte–Gröthendieck invariants: the dense case
+N Alon, A Frieze, D Welsh
+Random Structures & Algorithms 6 (4), 459-478	73	1995
+Choosability and fractional chromatic numbers
+N Alon, Z Tuza, M Voigt
+Discrete Mathematics 165, 31-38	71	1997
+Maximum cuts and judicious partitions in graphs without short cycles
+N Alon, B Bollobás, M Krivelevich, B Sudakov
+Journal of Combinatorial Theory, Series B 88 (2), 329-346	70	2003
+Algorithms with large domination ratio
+N Alon, G Gutin, M Krivelevich
+Journal of Algorithms 50 (1), 118-131	69	2004
+Universality and tolerance
+N Alon, M Capalbo, Y Kohayakawa, V Rodl, A Rucinski, E Szemerédi
+Proceedings 41st Annual Symposium on Foundations of Computer Science, 14-21	69	2000
+A non-linear lower bound for planar epsilon-nets
+N Alon
+2010 IEEE 51st Annual Symposium on Foundations of Computer Science, 341-346	68	2010
+Random sampling and approximation of MAX-CSP problems
+N Alon, WF De La Vega, R Kannan, M Karpinski
+Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …	68	2002
+On the number of permutations avoiding a given pattern
+N Alon, E Friedgut
+J. Comb. Theory, Ser. A 89 (1), 133-140	68	2000
+Testing triangle-freeness in general graphs
+N Alon, T Kaufman, M Krivelevich, D Ron
+SIAM Journal on Discrete Mathematics 22 (2), 786-819	67	2008
+Private PAC learning implies finite Littlestone dimension
+N Alon, R Livni, M Malliaris, S Moran
+Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing …	66	2019
+On the edge-expansion of graphs
+N Alon
+Combinatorics, Probability and Computing 6 (2), 145-152	65	1997
+A lower bound on the expected length of one-to-one codes
+N Alon, A Orlitsky
+IEEE Transactions on Information Theory 40 (5), 1670-1672	65	1994
+On the complexity of radio communication
+N Alon, A Bar-Noy, N Linial, D Peleg
+Proceedings of the twenty-first annual ACM symposium on Theory of computing …	65	1989
+Nearly complete graphs decomposable into large induced matchings and their applications
+N Alon, A Moitra, B Sudakov
+Journal of the European Mathematical Society 15 (5), 1575-1596	64	2013
+Constructive bounds for a Ramsey-type problem
+N Alon, M Krivelevich
+Graphs and Combinatorics 13 (3), 217-225	64	1997
+Explicit constructions of depth-2 majority circuits for comparison and addition
+N Alon, J Bruck
+SIAM Journal on Discrete Mathematics 7 (1), 1-8	64	1994
+Subset sums
+N Alon
+Journal of Number Theory 27 (2), 196-205	64	1987
+Improved approximation for directed cut problems
+A Agarwal, N Alon, MS Charikar
+Proceedings of the thirty-ninth annual ACM symposium on Theory of computing …	63	2007
+Linear hash functions
+N Alon, M Dietzfelbinger, PB Miltersen, E Petrank, G Tardos
+Journal of the ACM (JACM) 46 (5), 667-683	63	1999
+The Shannon capacity of a graph and the independence numbers of its powers
+N Alon, E Lubetzky
+IEEE Transactions on Information Theory 52 (5), 2172-2176	62	2006
+Star arboricity
+N Alon, C McDiarmid, B Reed
+Combinatorica 12 (4), 375-380	62	1992
+Embedding nearly-spanning bounded degree trees
+N Alon, M Krivelevich, B Sudakov
+Combinatorica 27 (6), 629-644	61	2007
+Independent sets in tensor graph powers
+N Alon, E Lubetzky
+Journal of Graph Theory 54 (1), 73-87	61	2007
+Disjoint directed cycles
+N Alon
+journal of combinatorial theory, Series B 68 (2), 167-178	61	1996
+A note on the decomposition of graphs into isomorphic matchings
+N Alon
+Acta Mathematica Hungarica 42 (3-4), 221-223	61	1983
+On acyclic colorings of graphs on surfaces
+N Alon, B Mohar, DP Sanders
+Israel Journal of Mathematics 94 (1), 273-283	60	1996
+AlmostH-factors in dense graphs
+N Alon, R Yuster
+Graphs and Combinatorics 8 (2), 95-102	60	1992
+Disjoint simplices and geometric hypergraphs
+J Akiyama, N Alon
+Proceedings of the third international conference on Combinatorial …	60	1989
+Scalable secure storage when half the system is faulty
+N Alon, H Kaplan, M Krivelevich, D Malkhi, J Stern
+International Colloquium on Automata, Languages, and Programming, 576-587	59	2000
+Sharp bounds for some multicolor Ramsey numbers
+N Alon*, V Rödl
+Combinatorica 25, 125-141	58	2005
+Almost k-wise independence versus k-wise independence
+N Alon, O Goldreich, Y Mansour
+Information Processing Letters 88 (3), 107-110	58	2003
+Sparse universal graphs for bounded‐degree graphs
+N Alon, M Capalbo
+Random Structures & Algorithms 31 (2), 123-133	57	2007
+Spanning subgraphs of random graphs
+N Alon, Z Füredi
+Graphs and Combinatorics 8 (1), 91-94	57	1992
+The maximum number of Hamiltonian paths in tournaments
+N Alon
+Combinatorica 10 (4), 319-324	57	1990
+Large induced forests in sparse graphs
+N Alon, D Mubayi, R Thomas
+Journal of Graph Theory 38 (3), 113-123	56	2001
+An optimal procedure for gap closing in whole genome shotgun sequencing
+R Beigel, N Alon, S Kasif, MS Apaydin, L Fortnow
+Proceedings of the fifth annual international conference on Computational …	56	2001
+Nonnegative k-sums, fractional covers, and probability of small deviations
+N Alon, H Huang, B Sudakov
+Journal of Combinatorial Theory, Series B 102 (3), 784-796	55	2012
+An elementary construction of constant-degree expanders
+N Alon, O Schwartz, A Shapira
+Combinatorics, Probability and Computing 17 (3), 319-327	55	2008
+Turán’s theorem in the hypercube
+N Alon, A Krech, T Szabó
+SIAM Journal on Discrete Mathematics 21 (1), 66-72	55	2007
+Typechecking XML views of relational databases
+N Alon, T Milo, F Neven, D Suciu, V Vianu
+ACM Transactions on Computational Logic (TOCL) 4 (3), 315-354	55	2003
+List coloring of random and pseudo-random graphs
+N Alon, M Krivelevich, B Sudakov
+Combinatorica 19 (4), 453-472	55	1999
+2-factors in dense graphs
+N Alon, E Fischer
+Discrete Mathematics 152 (1-3), 13-23	55	1996
+Single round simulation on radio networks
+N Alon, A Bar-Noy, N Linial, D Peleg
+Journal of Algorithms 13 (2), 188-210	55	1992
+A counterexample to the rank‐coloring conjecture
+N Alon, PD Seymour
+Journal of Graph Theory 13 (4), 523-525	55	1989
+Every 8-uniform 8-regular hypergraph is 2-colorable
+N Alon, Z Bregman
+Graphs and Combinatorics 4 (1), 303-306	55	1988
+Spanning directed trees with many leaves
+N Alon, FV Fomin, G Gutin, M Krivelevich, S Saurabh
+SIAM Journal on Discrete Mathematics 23 (1), 466-476	54	2009
+Coin-flipping games immune against linear-sized coalitions
+N Alon, M Naor
+SIAM Journal on Computing 22 (2), 403-417	54	1993
+Combinatorial reconstruction problems
+N Alon, Y Caro, I Krasikov, Y Roditty
+Journal of Combinatorial Theory, Series B 47 (2), 153-161	54	1989
+Disjoint edges in geometric graphs
+N Alon, P Erdös
+Discrete & Computational Geometry 4 (4), 287-290	54	1989
+Large induced degenerate subgraphs
+N Alon, J Kahn, PD Seymour
+Graphs and Combinatorics 3 (1), 203-211	54	1987
+Lower bounds on the competitive ratio for mobile user tracking and distributed job scheduling
+N Alon, G Kalai, M Ricklin, L Stockmeyer
+Theoretical Computer Science 130 (1), 175-201	53	1994
+Degrees of freedom versus dimension for containment orders
+N Alon, ER Scheinerman
+Order 5 (1), 11-16	53	1988
+The maximum number of perfect matchings in graphs with a given degree sequence
+N Alon, S Friedland
+arXiv preprint arXiv:0803.2578	52	2008
+A simple proof of the upper bound theorem
+N Alon, G Kalai
+European Journal of Combinatorics 6 (3), 211-214	52	1985
+Conflict-free colorings of shallow discs
+N Alon, S Smorodinsky
+Proceedings of the twenty-second annual symposium on Computational geometry …	51	2006
+Tough Ramsey graphs without short cycles
+N Alon
+Journal of Algebraic Combinatorics 4 (3), 189-195	51	1995
+An algorithm for the detection and construction of Monge sequences
+N Alon, S Cosares, DS Hochbaum, R Shamir
+Linear Algebra and its Applications 114, 669-680	51	1989
+Dominating sets in k-majority tournaments
+N Alon, G Brightwell, HA Kierstead, AV Kostochka, P Winkler
+Journal of Combinatorial Theory, Series B 96 (3), 374-387	50	2006
+On sums of subsets of a set of integers
+N Alon, G Freiman
+Combinatorica 8 (4), 297-306	50	1988
+The inverse Banzhaf problem
+N Alon, PH Edelman
+Social Choice and Welfare 34 (3), 371-377	49	2010
+Efficient testing of bipartite graphs for forbidden induced subgraphs
+N Alon, E Fischer, I Newman
+SIAM Journal on Computing 37 (3), 959-976	49*	2007
+Testing satisfiability
+N Alon, A Shapira
+Journal of Algorithms 47 (2), 87-103	49	2003
+Decreasing the diameter of bounded degree graphs
+N Alon, A Gyárfás, M Ruszinkó
+Journal of Graph Theory 35 (3), 161-172	49	2000
+Linear extensions of a random partial order
+N Alon, B Bollobás, G Brightwell, S Janson
+The Annals of Applied Probability, 108-123	49	1994
+Long non-crossing configurations in the plane
+N Alon, S Rajagopalan, S Suri
+Proceedings of the ninth annual symposium on Computational geometry, 257-263	48	1993
+Lower bounds for approximations by low degree polynomials over Z/sub m
+N Alon, R Beigel
+Proceedings 16th Annual IEEE Conference on Computational Complexity, 184-187	47	2001
+Fault tolerant graphs, perfect hash functions and disjoint paths
+M Ajtai, N Alon, J Bruck, R Cypher, CT Ho, M Naor, E Szemerédi
+IEEE	47	1992
+Parent-identifying codes
+N Alon, E Fischer, M Szegedy
+Journal of Combinatorial Theory, Series A 95 (2), 349-359	46	2001
+Bounding the piercing number
+N Alon, G Kalai
+Discrete & Computational Geometry 13 (3), 245-256	46	1995
+Partitioning and geometric embedding of range spaces of finite Vapnik-Chervonenkis dimension
+N Alon, D Haussler, E Welzl
+Proceedings of the third annual symposium on computational geometry, 331-340	46	1987
+Additive approximation for edge-deletion problems
+N Alon, A Shapira, B Sudakov
+46th Annual IEEE Symposium on Foundations of Computer Science (FOCS'05), 419-428	45	2005
+Bipartite subgraphs of integer weighted graphs
+N Alon, E Halperin
+Discrete Mathematics 181 (1-3), 19-29	45	1998
+Additive bases of vector spaces over prime fields
+N Alon, N Linial, R Meshulam
+Journal of Combinatorial Theory, Series A 57 (2), 203-210	45	1991
+On an anti-Ramsey type result
+N Alon, H Lefmann, V Rödl
+Colloq. Math. Soc. János Bolyai 60, 9-22	45	1991
+Measures of pseudorandomness for finite sequences: minimal values
+N Alon, Y Kohayakawa, C Mauduit, CG Moreira, V Rödl
+Combinatorics, Probability and Computing 15 (1-2), 1-29	44	2006
+Estimating arbitrary subset sums with few probes
+N Alon, N Duffield, C Lund, M Thorup
+Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on …	44	2005
+The average complexity of deterministic and randomized parallel comparison sorting algorithms
+N Alon, Y Azar
+28th Annual Symposium on Foundations of Computer Science (sfcs 1987), 489-498	44	1987
+Meanders, Ramsey theory and lower bounds for branching programs
+N Alon, W Maass
+27th Annual Symposium on Foundations of Computer Science (sfcs 1986), 410-417	44	1986
+Embedding ofl∞ k in finite dimensional Banach spaces
+N Alon, VD Milman
+Israel Journal of Mathematics 45 (4), 265-280	44	1983
+Large sets in finite fields are sumsets
+N Alon
+Journal of Number Theory 126 (1), 110-118	43	2007
+A general approach to online network optimization problems
+N Alon, B Awerbuch, Y Azar, N Buchbinder, JS Naor
+Symposium on Discrete Algorithms: Proceedings of the fifteenth annual ACM …	43	2004
+Generalized hashing and parent-identifying codes
+N Alon, G Cohen, M Krivelevich, S Litsyn
+Journal of Combinatorial Theory, Series A 104 (1), 207-215	43	2003
+Equilateral sets in lpn
+N Alon, P Pudlák
+Geometric & Functional Analysis GAFA 13 (3), 467-482	43*	2003
+Efficient dynamic-resharing “verifiable secret sharing” against mobile adversary
+N Alon, Z Galil, M Yung
+European Symposium on Algorithms, 523-537	43	1995
+Parallel linear programming in fixed dimension almost surely in constant time
+N Alon, N Megiddo
+Proceedings [1990] 31st Annual Symposium on Foundations of Computer Science …	43	1990
+Polychromatic colorings of plane graphs
+N Alon, R Berke, K Buchin, M Buchin, P Csorba, S Shannigrahi, ...
+Discrete & Computational Geometry 42 (3), 421-442	42	2009
+On three zero‐sum Ramsey‐type problems
+N Alon, Y Caro
+Journal of graph theory 17 (2), 177-192	42	1993
+Sum-free subsets
+N Alon, DJ Kleitman
+A tribute to Paul Erdos, 13-26	42	1990
+Cutting disjoint disks by straight lines
+N Alon, M Katchalski, WR Pulleyblank
+Discrete & Computational Geometry 4 (3), 239-243	42	1989
+Reliable communication over highly connected noisy networks
+N Alon, M Braverman, K Efremenko, R Gelles, B Haeupler
+Distributed Computing 32 (6), 505-515	41	2019
+Deterministic approximation algorithms for the nearest codeword problem
+N Alon, R Panigrahy, S Yekhanin
+Approximation, Randomization, and Combinatorial Optimization. Algorithms and …	41	2009
+Cleaning regular graphs with brushes
+N Alon, PŁ PraŁat, N Wormald
+SIAM Journal on Discrete Mathematics 23 (1), 233-250	41	2009
+Problems and results in extremal combinatorics—II
+N Alon
+Discrete Mathematics 308 (19), 4460-4472	41	2008
+A note on network reliability
+N Alon
+Discrete Probability and Algorithms, 11-14	41	1995
+Counting sum-free sets in Abelian groups
+N Alon, J Balogh, R Morris, W Samotij
+Israel Journal of mathematics 199 (1), 309-344	40	2014
+What is the furthest graph from a hereditary property?
+N Alon, U Stav
+Random Structures & Algorithms 33 (1), 87-104	40	2008
+On a hypergraph matching problem
+N Alon, R Yuster
+Graphs and Combinatorics 21 (4), 377-384	40	2005
+Independence numbers of locally sparse graphs and a Ramsey type problem
+N Alon
+Random Structures & Algorithms 9 (3), 271-278	40	1996
+Threshold functions for H-factors
+N Alon, R Yuster
+Combinatorics, Probability and Computing 2 (2), 137-144	40	1993
+Hypergraphs with high chromatic number
+N Alon
+Graphs and Combinatorics 1 (1), 387-389	40	1985
+Quasi-randomness and algorithmic regularity for graphs with general degree distributions
+N Alon, A Coja-Oghlan, H Hàn, M Kang, V Rödl, M Schacht
+SIAM Journal on Computing 39 (6), 2336-2362	39	2010
+Strategyproof approximation mechanisms for location on networks
+N Alon, M Feldman, AD Procaccia, M Tennenholtz
+arXiv preprint arXiv:0907.2049	39	2009
+Ordinal embeddings of minimum relaxation: general properties, trees, and ultrametrics
+N Alon, M Bădoiu, ED Demaine, M Farach-Colton, MT Hajiaghayi, ...
+ACM Transactions on Algorithms (TALG) 4 (4), 1-21	39	2008
+Balanced families of perfect hash functions and their applications
+N Alon, S Gutner
+ACM Transactions on Algorithms (TALG) 6 (3), 1-12	38	2010
+Kernels for the dominating set problem on graphs with an excluded minor
+N Alon, S Gutner
+Electronic Colloquium on Computational Complexity (ECCC) 15, 066	38	2008
+New bounds on parent-identifying codes: The case of multiple parents
+N Alon, U Stav
+Combinatorics, Probability and Computing 13 (6), 795-807	38	2004
+Linear arboricity and linear k-arboricity of regular graphs
+N Alon, VJ Teague, NC Wormald
+Graphs and Combinatorics 17 (1), 11-16	38	2001
+Sign rank versus VC dimension
+N Alon, S Moran, A Yehudayoff
+Conference on Learning Theory, 47-80	37*	2016
+Testing boolean function isomorphism
+N Alon, E Blais
+Approximation, Randomization, and Combinatorial Optimization. Algorithms and …	37	2010
+Parameterized algorithms for directed maximum leaf problems
+N Alon, FV Fomin, G Gutin, M Krivelevich, S Saurabh
+International Colloquium on Automata, Languages, and Programming, 352-362	37	2007
+On an extremal hypergraph problem of Brown, Erdos and Sós
+N Alon, A Shapira
+Combinatorica 26 (6), 627-646	37	2006
+Maxcut in-free graphs
+N Alon, M Krivelevich, B Sudakov
+Combinatorics, Probability and Computing 14 (5-6), 629-647	37	2005
+On the complexity of arrangements of circles in the plane
+N Alon, H Last, R Pinchasi, M Sharir
+Discrete & Computational Geometry 26 (4), 465-492	37	2001
+An asymptotic isoperimetric inequality
+N Alon, R Boppana, J Spencer
+Geometric & Functional Analysis GAFA 8 (3), 411-436	37	1998
+Piercing d-intervals
+N Alon
+Discrete and Computational Geometry 19 (3), 333-334	37	1998
+Linear Circuits over GF(2)
+N Alon, M Karchmer, A Wigderson
+SIAM Journal on Computing 19 (6), 1064-1067	37	1990
+Tell me who I am: an interactive recommendation system
+N Alon, B Awerbuch, Y Azar, B Patt-Shamir
+Theory of Computing systems 45 (2), 261-279	36	2009
+On the power of two, three and four probes
+N Alon, U Feige
+Proceedings of the twentieth annual ACM-SIAM symposium on Discrete …	36	2009
+Optimal universal graphs with deterministic embedding.
+N Alon, MR Capalbo
+SODA, 373-378	36	2008
+Hardness of fully dense problems
+N Ailon, N Alon
+Information and Computation 205 (8), 1117-1129	36	2007
+Maximum directed cuts in acyclic digraphs
+N Alon, B Bollobás, A Gyárfás, J Lehel, A Scott
+Journal of Graph Theory 55 (1), 1-13	36	2007
+Smaller explicit superconcentrators
+N Alon, M Capalbo
+Internet Mathematics 1 (2), 151-163	36	2004
+Separable partitions
+N Alon, S Onn
+Discrete Applied Mathematics 91 (1-3), 39-51	36	1999
+Subdivided graphs have linear Ramsey numbers
+N Alon
+Journal of Graph Theory 18 (4), 343-347	36	1994
+Superconcentrators of depths 2 and 3; odd levels help (rarely)
+N Alon, P Pudlák
+Journal of Computer and System Sciences 48 (1), 194-202	36	1994
+Graphs with a small number of distinct induced subgraphs
+N Alon, B Bollobás
+Discrete Mathematics 75 (1-3), 23-30	36	1989
+Discrete mathematics: methods and challenges
+N Alon
+arXiv preprint math/0212390	35	2002
+On the capacity of digraphs
+N Alon
+European Journal of Combinatorics 19 (1), 1-5	35	1998
+The geometry of coin-weighing problems
+N Alon, DN Kozlov, VH Vu
+Proceedings of 37th Conference on Foundations of Computer Science, 524-532	35	1996
+Probabilistic methods in extremal finite set theory
+N Alon
+Extremal Problems for Finite Sets 3957	35	1991
+Expanders, sorting in rounds and superconcentrators of limited depth
+N Alon
+Proceedings of the seventeenth annual ACM symposium on Theory of computing …	35	1985
+Separating pairs of points by standard boxes
+N Alon, Z Füredi, M Katchalski
+European Journal of Combinatorics 6 (3), 205-210	35	1985
+Asymptotically optimal induced universal graphs
+N Alon
+Geometric and Functional Analysis 27 (1), 1-32	34	2017
+Weak ε-nets and interval chains
+N Alon, H Kaplan, G Nivasch, M Sharir, S Smorodinsky
+Journal of the ACM (JACM) 55 (6), 1-32	34	2008
+A separation theorem in property testing
+N Alon, A Shapira
+Combinatorica 28 (3), 261-282	34	2008
+Voting paradoxes and digraphs realizations
+N Alon
+Advances in Applied Mathematics 29 (1), 126-135	34	2002
+Neighborly families of boxes and bipartite coverings
+N Alon
+The Mathematics of Paul Erdös II, 27-31	34	1997
+ϵ-discrepancy sets and their application for interpolation of sparse polynomials
+N Alon, Y Mansour
+Information Processing Letters 54 (6), 337-342	34	1995
+Cycles of length 0 modulo k in directed graphs
+N Alon, N Linial
+Journal of Combinatorial Theory, Series B 47 (1), 114-119	34	1989
+Explicit unique-neighbor expanders
+N Alon, M Capalbo
+The 43rd Annual IEEE Symposium on Foundations of Computer Science, 2002 …	33	2002
+On-line and off-line approximation algorithms for vector covering problems
+N Alon, Y Azar, J Csirik, L Epstein, SV Sevastianov, APA Vestjens, ...
+Algorithmica 21 (1), 104-118	33	1998
+Universal sequences for complete graphs
+N Alon, Y Azar, Y Ravid
+Discrete Applied Mathematics 27 (1-2), 25-28	33	1990
+Optimal compression of approximate inner products and dimension reduction
+N Alon, B Klartag
+2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS …	32	2017
+Two notions of unit distance graphs
+N Alon, A Kupavskii
+Journal of Combinatorial Theory, Series A 125, 1-17	32	2014
+Additive approximation for edge-deletion problems
+N Alon, A Shapira, B Sudakov
+Annals of mathematics, 371-411	32	2009
+Stable Kneser hypergraphs and ideals in ℕ with the Nikodým property
+N Alon, L Drewnowski, T Łuczak
+Proceedings of the American mathematical society, 467-471	32	2009
+The maximum edit distance from hereditary graph properties
+N Alon, U Stav
+Journal of Combinatorial Theory, Series B 98 (4), 672-697	32	2008
+Game domination number
+N Alon, J Balogh, B Bollobás, T Szabó
+Discrete mathematics 256 (1-2), 23-33	32	2002
+Tight complexity bounds for parallel comparison sorting
+N Alon, Y Azar, U Vishkin
+27th Annual Symposium on Foundations of Computer Science (sfcs 1986), 502-510	32	1986
+Random subgraphs of properly edge-coloured complete graphs and long rainbow cycles
+N Alon, A Pokrovskiy, B Sudakov
+Israel Journal of Mathematics 222 (1), 317-331	31	2017
+Easily testable graph properties
+N Alon, J Fox
+Combinatorics, Probability and Computing 24 (4), 646-657	31	2015
+Balanced hashing, color coding and approximate counting
+N Alon, S Gutner
+International Workshop on Parameterized and Exact Computation, 1-16	31	2009
+Polynomial time randomised approximation schemes for the Tutte polynomial of dense graphs
+N Alon, A Frieze, D Welsh
+Proceedings 35th Annual Symposium on Foundations of Computer Science, 24-35	31	1994
+Matching nuts and bolts
+N Alon, M Blum, A Fiat, S Kannan, M Naor, R Ostrovsky
+SODA, 690-696	31	1994
+Multicolored forests in bipartite decompositions of graphs
+N Alon, RA Brualdi, BL Shader
+Journal of Combinatorial Theory, Series B 53 (1), 143-148	31	1991
+The number of spanning trees in regular graphs
+N Alon
+Random Structures & Algorithms 1 (2), 175-181	31	1990
+Sorting, approximate sorting, and searching in rounds
+N Alon, Y Azar
+SIAM Journal on Discrete Mathematics 1 (3), 269-280	31	1988
+Splitting digraphs
+N Alon
+Combinatorics, Probability and Computing 15 (6), 933-937	30	2006
+A Ramsey‐type result for the hypercube
+N Alon, R Radoičić, B Sudakov, J Vondrák
+Journal of Graph Theory 53 (3), 196-208	30	2006
+Homomorphisms in graph property testing
+N Alon, A Shapira
+Topics in discrete mathematics, 281-313	30	2006
+Guessing secrets efficiently via list decoding
+N Alon, V Guruswami, T Kaufman, M Sudan
+Symposium on Discrete Algorithms: Proceedings of the thirteenth annual ACM …	30	2002
+Near-optimum universal graphs for graphs with bounded degrees
+N Alon, M Capalbo, Y Kohayakawa, V Rödl, A Ruciński, E Szemerédi
+Approximation, Randomization, and Combinatorial Optimization: Algorithms and …	30	2001
+Every 4-regular graph plus an edge contains a 3-regular subgraph
+S Friedland, G Kalai
+Journal of Combinatorial Theory, Series B 37, 92-93	30	1984
+Coloring, sparseness and girth
+N Alon, A Kostochka, B Reiniger, DB West, X Zhu
+Israel Journal of Mathematics 214 (1), 315-331	29	2016
+Welfare maximization with limited interaction
+N Alon, N Nisan, R Raz, O Weinstein
+2015 IEEE 56th Annual Symposium on Foundations of Computer Science, 1499-1512	29	2015
+On a generalization of Meyniel's conjecture on the cops and robbers game
+N Alon, A Mehrabian
+the electronic journal of combinatorics 18 (1), P19	29	2011
+Linear time algorithms for finding a dominating set of fixed size in degenerated graphs
+N Alon, S Gutner
+International Computing and Combinatorics Conference, 394-405	29	2007
+Non-constructive proofs in combinatorics
+N Alon
+IBM Thomas J. Watson Research Division	29	1990
+Efficient global learning of entailment graphs
+J Berant, N Alon, I Dagan, J Goldberger
+Computational Linguistics 41 (2), 249-291	28	2015
+Practically stabilizing SWMR atomic memory in message-passing systems
+N Alon, H Attiya, S Dolev, S Dubois, M Potop-Butucaru, S Tixeuil
+Journal of Computer and System Sciences 81 (4), 692-701	28	2015
+Graph powers
+N Alon
+Contemporary combinatorics 10, 11-28	28	2002
+Perfect Matchings in -regular Graphs
+N Alon, V Rödl, A Ruciński
+the electronic journal of combinatorics, R13-R13	28	1998
+Parallel linear programming in fixed dimension almost surely in constant time
+N Alon, N Megiddo
+Journal of the ACM (JACM) 41 (2), 422-434	28	1994
+A note on coloring random k-sets
+N Alon, J Spencer
+Unpublished manuscript	28	1993
+BLASED COINS AND RANDONIZED ALGORITHMS
+N Alon, MO Rabin
+28	1989
+Decomposition of the completer-graph into completer-partiter-graphs
+N Alon
+Graphs and Combinatorics 2 (1), 95-100	28	1986
+Regular hypergraphs, Gordon's lemma, Steinitz'lemma and invariant theory
+N Alon, KA Berman
+Journal of Combinatorial Theory, Series A 43 (1), 91-97	28	1986
+Better algorithms and bounds for directed maximum leaf problems
+N Alon, FV Fomin, G Gutin, M Krivelevich, S Saurabh
+International Conference on Foundations of Software Technology and …	27	2007
+The number of orientations having no fixed tournament
+R Yuster
+Combinatorica 26 (1), 1-16	27	2006
+Sparse universal graphs
+N Alon, V Asodi
+Journal of Computational and Applied Mathematics 142 (1), 1-11	27	2002
+On two segmentation problems
+N Alon, B Sudakov
+Journal of Algorithms 33 (1), 173-184	27	1999
+On the number of certain subgraphs contained in graphs with a given number of edges
+N Alon
+Israel Journal of Mathematics 53 (1), 97-120	27	1986
+Covering a hypergraph of subgraphs
+N Alon
+Discrete Mathematics 257 (2-3), 249-254	26	2002
+Constructive lower bounds for off-diagonal Ramsey numbers
+N Alon, P Pudlák
+Israel Journal of Mathematics 122 (1), 243-251	26	2001
+Packings with large minimum kissing numbers
+N Alon
+Discrete Mathematics 175 (1-3), 249-251	26	1997
+A note on graph colorings and graph polynomials
+N Alon, M Tarsi
+journal of combinatorial theory, Series B 70 (1), 197-201	26	1997
+Adversarial laws of large numbers and optimal regret in online classification
+N Alon, O Ben-Eliezer, Y Dagan, S Moran, M Naor, E Yogev
+Proceedings of the 53rd Annual ACM SIGACT Symposium on Theory of Computing …	25	2021
+Sequential voting with externalities: herding in social networks.
+N Alon, M Babaioff, R Karidi, R Lavi, M Tennenholtz
+EC, 36	25	2012
+Approximate maximum parsimony and ancestral maximum likelihood
+N Alon, B Chor, F Pardi, A Rapoport
+IEEE/ACM Transactions on Computational Biology and Bioinformatics 7 (1), 183-187	25	2008
+The choice number of random bipartite graphs
+N Alon, M Krivelevich
+Annals of Combinatorics 2 (4), 291-297	25	1998
+Edge‐disjoint cycles in regular directed graphs
+N Alon, C McDiarmid, M Molloy
+Journal of Graph Theory 22 (3), 231-237	25	1996
+An application of graph theory to additive number theory
+N Alon, P Erdös
+European Journal of Combinatorics 6 (3), 201-203	25	1985
+Economical toric spines via Cheeger's inequality
+N Alon, B Klartag
+Journal of Topology and Analysis 1 (02), 101-111	24	2009
+Independent sets in hypergraphs with applications to routing via fixed paths
+N Alon, U Arad, Y Azar
+Randomization, Approximation, and Combinatorial Optimization. Algorithms and …	24	1999
+Improved parallel approximation of a class of integer programming problems
+N Alon, A Srinivasan
+Algorithmica 17 (4), 449-462	24	1997
+Some recent combinatorial applications of Borsuk-type theorems
+N Alon
+Algebraic, Extremal and Metric Combinatorics, MM Deza, P. Frankl and IG …	24	1988
+Unbalancing sets and an almost quadratic lower bound for syntactically multilinear arithmetic circuits
+N Alon, M Kumar, BL Volk
+Combinatorica 40 (2), 149-178	23	2020
+Chasing a fast robber on planar graphs and random graphs
+N Alon, A Mehrabian
+Journal of Graph Theory 78 (2), 81-96	23	2015
+Uniform dilations
+N Alon, Y Peres
+Geometric & Functional Analysis GAFA 2 (1), 1-28	23	1992
+A refinement of the Cameron–Erdős conjecture
+N Alon, J Balogh, R Morris, W Samotij
+Proceedings of the London Mathematical Society 108 (1), 44-72	22	2014
+Almost k-wise vs. k-wise independent permutations, and uniformity for general group actions
+N Alon, S Lovett
+Approximation, Randomization, and Combinatorial Optimization. Algorithms and …	22	2012
+Breaking the rhythm on graphs
+N Alon, J Grytczuk
+Discrete Mathematics 308 (8), 1375-1380	22	2008
+Induced subgraphs of prescribed size
+N Alon, M Krivelevich, B Sudakov
+Journal of Graph Theory 43 (4), 239-251	22	2003
+Constructing worst case instances for semidefinite programming based approximation algorithms
+N Alon, B Sudakov, U Zwick
+SIAM Journal on Discrete Mathematics 15 (1), 58-72	22	2001
+Large sets of nearly orthogonal vectors
+N Alon, M Szegedy
+Graphs and Combinatorics 15 (1), 1-4	22	1999
+The acyclic orientation game on random graphs
+N Alon, Z Tuza
+Random Structures & Algorithms 6 (2‐3), 261-268	22	1995
+Coin-flipping games immune against linear-sized coalitions
+N Alon, M Naor
+Proceedings [1990] 31st Annual Symposium on Foundations of Computer Science …	22	1990
+Asynchronous threshold networks
+N Alon
+Graphs and Combinatorics 1 (1), 305-310	22	1985
+On the number of subgraphs of prescribed type of planar graphs with a given number of vertices
+N Alon, Y Caro
+North-Holland Mathematics Studies 87, 25-36	22	1984
+Redesigning the israeli medical internship match
+S Bronfman, N Alon, A Hassidim, A Romm
+ACM Transactions on Economics and Computation (TEAC) 6 (3-4), 1-18	21	2018
+How Robust is the Wisdom of the Crowds?
+N Alon, M Feldman, O Lev, M Tennenholtz
+Twenty-Fourth International Joint Conference on Artificial Intelligence	21	2015
+Solving linear systems through nested dissection
+N Alon, R Yuster
+2010 IEEE 51st Annual Symposium on Foundations of Computer Science, 225-234	21	2010
+Locally thin set families
+N Alon, E Fachini, J Körner
+Combinatorics, Probability and Computing 9 (6), 481-488	21	2000
+Apparatus and method for approximating frequency moments
+N Alon, Y Matias, M Szegedy
+US Patent 5,950,185	21	1999
+Non-averaging subsets and non-vanishing transversals
+N Alon, IZ Ruzsa
+Journal of Combinatorial Theory, Series A 86 (1), 1-13	21	1999
+On k‐saturated graphs with restrictions on the degrees
+N Alon, P Erdös, R Holzman, M Krivelevich
+Journal of Graph Theory 23 (1), 1-20	21	1996
+The longest cycle of a graph with a large minimal degree
+N Alon
+Journal of graph theory 10 (1), 123-127	21	1986
+The hat guessing number of graphs
+N Alon, O Ben-Eliezer, C Shangguan, I Tamo
+Journal of Combinatorial Theory, Series B 144, 119-149	20	2020
+Palette Sparsification Beyond  Vertex Coloring
+N Alon, S Assadi
+arXiv preprint arXiv:2006.10456	20	2020
+List-decodable zero-rate codes
+N Alon, B Bukh, Y Polyanskiy
+IEEE Transactions on Information Theory 65 (3), 1657-1667	20	2018
+Economical graph discovery
+N Alon, Y Emek, M Feldman, M Tennenholtz
+Operations Research 62 (6), 1236-1246	20	2014
+Additive patterns in multiplicative subgroups
+N Alon, J Bourgain
+Geometric and Functional Analysis 24 (3), 721-739	20	2014
+A note on regular Ramsey graphs
+N Alon, S Ben‐Shimon, M Krivelevich
+Journal of Graph Theory 64 (3), 244-249	20	2010
+Linear equations, arithmetic progressions and hypergraph property testing
+N Alon, A Shapira
+Theory of Computing 1 (1), 177-216	20	2005
+Ascending waves
+N Alon, J Spencer
+Journal of Combinatorial Theory, Series A 52 (2), 275-287	20	1989
+Explicit expanders of every degree and size
+N Alon
+Combinatorica 41 (4), 447-463	19	2021
+Limits of private learning with access to public data
+N Alon, R Bassily, S Moran
+Advances in neural information processing systems 32	19	2019
+Nearly tight bounds for testing function isomorphism
+N Alon, E Blais, S Chakraborty, D García-Soriano, A Matsliah
+SIAM Journal on Computing 42 (2), 459-493	19	2013
+Hypergraph list coloring and Euclidean Ramsey theory
+N Alon, A Kostochka
+Random Structures & Algorithms 39 (3), 377-390	19	2011
+Balanced families of perfect hash functions and their applications
+N Alon, S Gutner
+International Colloquium on Automata, Languages, and Programming, 435-446	19	2007
+Addendum to “Scalable secure storage when half the system is faulty”[Inform. Comput. 174 (2)(2002) 203–213]
+N Alon, H Kaplan, M Krivelevich, D Malkhi, J Stern
+Information and Computation 205 (7), 1114-1116	19	2007
+On partitions of discrete boxes
+N Alon, T Bohman, R Holzman, DJ Kleitman
+Discrete mathematics 257 (2-3), 255-258	19	2002
+On the maximum number of Hamiltonian paths in tournaments
+I Adler, N Alon, SM Ross
+Random Structures & Algorithms 18 (3), 291-296	19	2001
+T-choosability in graphs
+N Alon, A Zaks
+Discrete applied mathematics 82 (1-3), 1-13	19	1998
+The maximum size of a convex polygon in a restricted set of points in the plane
+N Alon, M Katchalski, WR Pulleyblank
+Discrete & computational geometry 4 (3), 245-251	19	1989
+Differential pricing with inequity aversion in social networks
+N Alon, Y Mansour, M Tenneholtz
+Proceedings of the fourteenth ACM conference on Electronic commerce, 9-24	18	2013
+Pragmatic self-stabilization of atomic memory in message-passing systems
+N Alon, H Attiya, S Dolev, S Dubois, M Potop-Butucaru, S Tixeuil
+Symposium on Self-Stabilizing Systems, 19-31	18	2011
+High degree graphs contain large-star factors
+N Alon, N Wormald
+Fete of Combinatorics and Computer Science, 9-21	18	2010
+Hardness of edge-modification problems
+N Alon, U Stav
+Theoretical computer science 410 (47-49), 4920-4927	18	2009
+Induced subgraphs with distinct sizes
+N Alon, AV Kostochka
+Random Structures & Algorithms 34 (1), 45-53	18	2009
+Discrepancy games
+N Alon, M Krivelevich, J Spencer, T Szabó
+the electronic journal of combinatorics 12 (1), R51	18	2005
+Scalable secure storage when half the system is faulty
+N Alon, H Kaplan, M Krivelevich, D Malkhi, J Stern
+Information and Computation 174 (2), 203-213	18	2002
+Refining the graph density condition for the existence of almost K-factors
+N Alon, E Fischer
+Ars Combinatoria 52, 296-308	18	1999
+The maximum number of disjoint pairs in a family of subsets
+N Alon, P Frankl
+Graphs and Combinatorics 1 (1), 13-21	18	1985
+Optimal induced universal graphs for bounded-degree graphs
+N Alon, R Nenadov
+Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …	17	2017
+The chromatic number of random Cayley graphs
+N Alon
+European Journal of Combinatorics 34 (8), 1232-1243	17	2013
+Sums and products along sparse graphs
+N Alon, O Angel, I Benjamini, E Lubetzky
+Israel Journal of Mathematics 188 (1), 353-384	17	2012
+Poker, chance and skill
+N Alon
+Noga Alon’s home page, Tel Aviv University: http://www. tau. ac. il/~ nogaa …	17	2007
+Packing and covering dense graphs
+N Alon, Y Caro, R Yuster
+Journal of Combinatorial Designs 6 (6), 451-472	17	1998
+A Purely Combinatorial Proof of the Hadwiger Debrunner  Conjecture
+N Alon, DJ Kleitman
+the electronic journal of combinatorics, R1-R1	17	1997
+Approximate Hypergraph Coloring.
+N Alon, P Kelsen, S Mahajan, R Hariharan
+Nord. J. Comput. 3 (4), 425-439	17	1996
+Covering with Latin transversals
+N Alon, J Spencer, P Tetali
+Discrete applied mathematics 57 (1), 1-10	17	1995
+Approximating the independence number via the-function
+N Alon, N Kahale
+Unpublished manuscript, Nov	17	1994
+Hierarchical clustering: A 0.585 revenue approximation
+N Alon, Y Azar, D Vainstein
+Conference on Learning Theory, 153-162	16	2020
+Sign rank, VC dimension and spectral gaps.
+N Alon, S Moran, A Yehudayoff
+Electron. Colloquium Comput. Complex. 21, 135	16	2014
+Adversarial leakage in games
+N Alon, Y Emek, M Feldman, M Tennenholtz
+SIAM Journal on Discrete Mathematics 27 (1), 363-385	16	2013
+The number of sumsets in a finite field
+N Alon, A Granville, A Ubis
+Bull. London Math. Soc 42 (5), 784-794	16	2010
+Approximating the maximum clique minor and some subgraph homeomorphism problems
+N Alon, A Lingas, M Wahlen
+Theoretical Computer Science 374 (1-3), 149-158	16	2007
+On the degree, size, and chromatic index of a uniform hypergraph
+N Alon, JH Kim
+journal of combinatorial theory, Series A 77 (1), 165-170	16	1997
+Probabilistic methods in coloring and decomposition problems
+N Alon
+Discrete Mathematics 127 (1-3), 31-46	16	1994
+Addendum to “simple constructions of almost k‐wise independent random variables”
+N Alon, O Goldreich, J Håstad, R Peralta
+Random Structures & Algorithms 4 (1), 119-120	16	1993
+The probabilistic method, John Willy and sons
+N Alon, JH Spencer
+Inc., Chichester	16	1992
+Covering a square by small perimeter rectangles
+N Alon, DJ Kleitman
+Discrete & computational geometry 1 (1), 1-7	16	1986
+Deterministic combinatorial replacement paths and distance sensitivity oracles
+N Alon, S Chechik, S Cohen
+arXiv preprint arXiv:1905.07483	15	2019
+Testing hereditary properties of ordered graphs and matrices
+N Alon, O Ben-Eliezer, E Fischer
+2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS …	15	2017
+Duplication distance to the root for binary sequences
+N Alon, J Bruck, FF Hassanzadeh, S Jain
+IEEE Transactions on Information Theory 63 (12), 7793-7803	15	2017
+A graph-theoretic approach to multitasking
+N Alon, D Reichman, I Shinkar, T Wagner, S Musslick, JD Cohen, ...
+Advances in neural information processing systems 30	15	2017
+Broadcast throughput in radio networks: routing vs. network coding
+N Alon, M Ghaffari, B Haeupler, M Khabbazian
+Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …	15	2014
+Choice-memory tradeoff in allocations
+N Alon, E Lubetzky, O Gurel-Gurevich
+2009 50th Annual IEEE Symposium on Foundations of Computer Science, 230-238	15	2009
+Optimal monotone encodings
+N Alon, R Hod
+IEEE transactions on information theory 55 (3), 1343-1353	15	2009
+Can a graph have distinct regular partitions?
+N Alon, A Shapira, U Stav
+SIAM Journal on Discrete Mathematics 23 (1), 278-287	15	2009
+Finding disjoint paths in expanders deterministically and online
+N Alon, M Capalbo
+48th Annual IEEE Symposium on Foundations of Computer Science (FOCS'07), 518-524	15	2007
+Tight bounds for shared memory systems accessed by Byzantine processes
+N Alon, M Merritt, O Reingold, G Taubenfeld, RN Wright
+Distributed Computing 18 (2), 99-109	15	2005
+Set systems with no union of cardinality 0 modulom
+N Alon, D Kleitman, R Lipton, R Meshulam, M Rabin, J Spencer
+Graphs and Combinatorics 7 (2), 97-99	15	1991
+Parallel comparison algorithms for approximation problems
+N Alon, Y Azar
+Combinatorica 11 (2), 97-122	15	1991
+Reflection sequences
+N Alon, I Krasikov, Y Peres
+The American Mathematical Monthly 96 (9), 820-823	15	1989
+Subgraphs of large connectivity and chromatic number in graphs of large chromatic number
+N Alon, D Kleitman, C Thomassen, M Saks, P Seymour
+Journal of graph theory 11 (3), 367-371	15	1987
+The smallestn-uniform hypergraph with positive discrepancy
+N Alon, DJ Kleitman, C Pomerance, M Saks, P Seymour
+Combinatorica 7 (2), 151-160	15	1987
+Correction: Basic network creation games
+N Alon, ED Demaine, MT Hajiaghayi, P Kanellopoulos, T Leighton
+SIAM Journal on Discrete Mathematics 28 (3), 1638-1640	14	2014
+Walking in circles
+N Alon, M Feldman, AD Procaccia, M Tennenholtz
+Discrete Mathematics 310 (23), 3432-3435	14	2010
+On constant time approximation of parameters of bounded degree graphs
+N Alon
+Property Testing, 234-239	14	2010
+Poisson approximation for non-backtracking random walks
+N Alon, E Lubetzky
+Israel Journal of Mathematics 174 (1), 227-252	14	2009
+Fast algorithms for maximum subset matching and all-pairs shortest paths in graphs with a (not so) small vertex cover
+N Alon, R Yuster
+European Symposium on Algorithms, 175-186	14	2007
+Explicit construction of linear sized tolerant networks
+N Alon, FRK Chung
+Discrete Mathematics 306 (10-11), 1068-1071	14	2006
+-Free Graphs of Large Minimum Degree
+N Alon, B Sudakov
+the electronic journal of combinatorics, R19-R19	14	2006
+Equireplicate balanced binary codes for oligo arrays
+N Alon, CJ Colbourn, ACH Ling, M Tompa
+SIAM Journal on Discrete Mathematics 14 (4), 481-497	14	2001
+String quartets in binary
+N Alon, J Körner, A Monti
+Combinatorics, Probability and Computing 9 (5), 381-390	14	2000
+How to color shift hypergraphs
+N Alon, I Kriz, J Nesetril
+Studia Scientiarum Mathematicarum Hungarica 30 (1), 1-12	14	1995
+Closure properties for private classification and online prediction
+N Alon, A Beimel, S Moran, U Stemmer
+Conference on Learning Theory, 119-152	13	2020
+Edge-statistics on large graphs
+N Alon, D Hefetz, M Krivelevich, M Tyomkyn
+Combinatorics, Probability and Computing 29 (2), 163-189	13	2020
+Problems and results in extremal combinatorics–III
+N Alon
+Journal of Combinatorics 7 (2), 233-256	13	2016
+Separation dimension of bounded degree graphs
+N Alon, M Basavaraju, LS Chandran, R Mathew, D Rajendraprasad
+SIAM Journal on Discrete Mathematics 29 (1), 59-64	13	2015
+Matrix sparsification and nested dissection over arbitrary fields
+N Alon, R Yuster
+Journal of the ACM (JACM) 60 (4), 1-18	13	2013
+Bundling attacks in judgment aggregation
+N Alon, D Falik, R Meir, M Tennenholtz
+Twenty-Seventh AAAI Conference on Artificial Intelligence	13	2013
+Typical peak sidelobe level of binary sequences
+N Alon, S Litsyn, A Shpunt
+IEEE transactions on information theory 56 (1), 545-554	13	2009
+Sizes of induced subgraphs of Ramsey graphs
+N Alon, J Balogh, A Kostochka, W Samotij
+Combinatorics, Probability and Computing 18 (4), 459-476	13	2009
+The Grothendieck constant of random and pseudo-random graphs
+N Alon, E Berger
+Discrete Optimization 5 (2), 323-327	13	2008
+Partitioning multi-dimensional sets in a small number of “uniform” parts
+N Alon, I Newman, A Shen, G Tardos, N Vereshchagin
+European Journal of Combinatorics 28 (1), 134-144	13	2007
+Coins with arbitrary weights
+N Alon, DN Kozlov
+Journal of Algorithms 25 (1), 162-176	13	1997
+Coloring 2-colorable hypergraphs with a sublinear number of colors
+N Alon, P Kelsen, S Mahajan, H Ramesh
+Nordic Journal of Computing 3, 425-439	13	1996
+Depth-2 threshold logic circuits for logic and arithmetic functions
+N Alon, J Bruck
+US Patent 5,357,528	13	1994
+More on the bipartite decomposition of random graphs
+N Alon, T Bohman, H Huang
+Journal of Graph Theory 84 (1), 45-52	12	2017
+Bayesian ignorance
+N Alon, Y Emek, M Feldman, M Tennenholtz
+Theoretical Computer Science 452, 1-11	12	2012
+Increasing the chromatic number of a random graph
+N Alon, B Sudakov
+arXiv preprint arXiv:1002.1748	12	2010
+Admission control to minimize rejections and online set cover with repetitions
+N Alon, Y Azar, S Gutner
+Proceedings of the seventeenth annual ACM symposium on Parallelism in …	12	2005
+Subgraphs with a large cochromatic number
+N Alon, M Krivelevich, B Sundakov
+Journal of Graph Theory 25 (4), 295-297	12	1997
+On the edge-expansion of graphs
+N Alon
+Combinatorics, Probability and Computing 11, 1-10	12	1993
+Transmitting in the n-dimensional cube
+N Alon
+Discrete applied mathematics 37, 9-11	12	1992
+Efficient arithmetic regularity and removal lemmas for induced bipartite patterns
+N Alon, J Fox, Y Zhao
+arXiv preprint arXiv:1801.04675	11	2018
+On the maximum quartet distance between phylogenetic trees
+N Alon, H Naves, B Sudakov
+SIAM Journal on Discrete Mathematics 30 (2), 718-735	11	2016
+Multicolored matchings in hypergraphs
+N Alon
+Moscow Journal of Combinatorics and Number Theory 1, 3-10	11	2011
+Tracing many users with almost no rate penalty
+N Alon, V Asodi
+IEEE transactions on information theory 53 (1), 437-439	11	2006
+Tracing a single user
+N Alon, V Asodi
+European Journal of Combinatorics 27 (8), 1227-1234	11	2006
+Learning a hidden subgraph
+N Alon, V Asodi
+International Colloquium on Automata, Languages, and Programming, 110-121	11	2004
+Is linear hashing good?
+N Alon, M Dietzfelbinger, PB Miltersen, E Petrank, G Tardos
+Proceedings of the twenty-ninth annual ACM symposium on Theory of computing …	11	1997
+Acyclic matchings
+N Alon, CK Fan, D Kleitman, J Losonczy
+advances in mathematics 122 (2), 234-236	11	1996
+The 123 theorem and its extensions
+N Alon, R Yuster
+Journal of Combinatorial Theory, Series A 72 (2), 322-331	11	1995
+Ramsey graphs cannot be defined by real polynomials
+N Alon
+Journal of Graph Theory 14 (6), 651-661	11	1990
+Finding an approximate maximum
+N Alon, Y Azar
+SIAM Journal on Computing 18 (2), 258-267	11	1989
+High-girth near-Ramanujan graphs with localized eigenvectors
+N Alon, S Ganguly, N Srivastava
+Israel Journal of Mathematics 246 (1), 1-20	10	2021
+Many cliques in -free subgraphs of random graphs
+N Alon, A Kostochka, C Shikhelman
+arXiv preprint arXiv:1612.09143	10	2016
+Eigenvalues of‐Free Graphs and the Connectivity of Their Independence Complexes
+R Aharoni, N Alon, E Berger
+Journal of Graph Theory 83 (4), 384-391	10	2016
+Linear boolean classification, coding and the critical problem
+E Abbe, N Alon, AS Bandeira, C Sandon
+IEEE Transactions on Information Theory 62 (4), 1667-1673	10	2016
+How to put through your agenda in collective binary decisions
+N Alon, R Bredereck, J Chen, S Kratsch, R Niedermeier, GJ Woeginger
+ACM Transactions on Economics and Computation (TEAC) 4 (1), 1-28	10	2016
+On the compatibility of quartet trees
+N Alon, S Snir, R Yuster
+SIAM Journal on Discrete Mathematics 28 (3), 1493-1507	10	2014
+The Turán number of sparse spanning graphs
+N Alon, R Yuster
+Journal of Combinatorial Theory, Series B 103 (3), 337-343	10	2013
+Modular orientations of random and quasi-random regular graphs
+N Alon, P Prałat
+Combinatorics, Probability and Computing 20 (3), 321-329	10	2011
+Playing to retain the advantage
+N Alon, D Hefetz, M Krivelevich
+Combinatorics, Probability and Computing 19 (4), 481-491	10	2010
+The number of F-matchings in almost every tree is a zero residue
+N Alon, S Haber, M Krivelevich
+arXiv preprint arXiv:1006.5427	10	2010
+Uniformly cross intersecting families
+N Alon, E Lubetzky
+Combinatorica 29 (4), 389-431	10	2009
+Large nearly regular induced subgraphs
+N Alon, M Krivelevich, B Sudakov
+SIAM Journal on Discrete Mathematics 22 (4), 1325-1337	10	2008
+Guessing secrets efficiently via list decoding
+N Alon, V Guruswami, T Kaufman, M Sudan
+ACM Transactions on Algorithms (TALG) 3 (4), 42-es	10	2007
+On the discrepancy of combinatorial rectangles
+N Alon, B Doerr, T Łuczak, T Schoen
+Random Structures & Algorithms 21 (3‐4), 205-215	10	2002
+Bisection of trees and sequences
+N Alon, Y Caro, I Krasikov
+Discrete mathematics 114 (1-3), 3-7	10	1993
+Probabilistic proofs of existence of rare events
+N Alon
+Geometric Aspects of Functional Analysis, 186-201	10	1989
+Mixing properties of colourings of the ℤd lattice
+N Alon, R Briceño, N Chandgotia, A Magazinov, Y Spinka
+Combinatorics, Probability and Computing 30 (3), 360-373	9	2021
+Submultiplicative Glivenko-Cantelli and uniform convergence of revenues
+N Alon, M Babaioff, YA Gonczarowski, Y Mansour, S Moran, A Yehudayoff
+Advances in Neural Information Processing Systems 30	9	2017
+On active and passive testing
+N Alon, R Hod, A Weinstein
+Combinatorics, Probability and Computing 25 (1), 1-20	9	2016
+Bipartite decomposition of random graphs
+N Alon
+Journal of Combinatorial Theory, Series B 113, 220-235	9	2015
+Corruption detection on networks
+N Alon, E Mossel, R Pemantle
+arXiv preprint arXiv:1505.05637	9	2015
+The de Bruijn–Erdős theorem for hypergraphs
+N Alon, KE Mellinger, D Mubayi, J Verstraëte
+Designs, Codes and Cryptography 65 (3), 233-245	9	2012
+IV. 19 Extremal and Probabilistic Combinatorics
+N Alon, M Krivelevich
+The Princeton companion to mathematics, 562-575	9	2010
+Admission control to minimize rejections and online set cover with repetitions
+N Alon, Y Azar, S Gutner
+ACM Transactions on Algorithms (TALG) 6 (1), 1-13	9	2009
+Stability‐type results for hereditary properties
+N Alon, U Stav
+Journal of Graph Theory 62 (1), 65-83	9	2009
+Splitting necklaces and measurable colorings of the real line
+N Alon, J Grytczuk, M Lasoń, M Michałek
+Proceedings of the American Mathematical Society 137 (5), 1593-1599	9	2009
+Vertex transversals that dominate
+N Alon, MR Fellows, DR Hare
+Journal of Graph Theory 21 (1), 21-31	9	1996
+Generalized sum graphs
+N Alon, ER Scheinerman
+Graphs and Combinatorics 8 (1), 23-29	9	1992
+Sums, products, and ratios along the edges of a graph
+N Alon, I Ruzsa, J Solymosi
+Publicacions Matemàtiques 64 (1), 143-155	8	2020
+Additive Approximation of Generalized Tur\'an Questions
+N Alon, C Shikhelman
+arXiv preprint arXiv:1811.08750	8	2018
+Fair representation by independent sets
+R Aharoni, N Alon, E Berger, M Chudnovsky, D Kotlar, M Loebl, R Ziv
+A journey through discrete mathematics, 31-58	8	2017
+Sparse balanced partitions and the complexity of subgraph problems
+N Alon, D Marx
+SIAM Journal on Discrete Mathematics 25 (2), 631-644	8	2011
+K-wise independent random graphs
+N Alon, A Nussboim
+2008 49th Annual IEEE Symposium on Foundations of Computer Science, 813-822	8	2008
+Quasi-randomness and algorithmic regularity for graphs with general degree distributions
+N Alon, A Coja-Oghlan, H Hàn, M Kang, V Rödl, M Schacht
+International Colloquium on Automata, Languages, and Programming, 789-800	8	2007
+Multi-node graphs: a framework for multiplexed biological assays
+N Alon, V Asodi, C Cantor, S Kasif, J Rachlin
+Journal of Computational Biology 13 (10), 1659-1672	8	2006
+Economical covers with geometric applications
+N Alon, B Bollobás, JH Kim, VH Vu
+Proceedings of the London Mathematical Society 86 (2), 273-301	8	2003
+J. Spencer and P. Erdós
+N Alon
+The Probabilistic Method	8	1992
+Ramsey graphs contain many distinct induced subgraphs
+N Alon, A Hajnal
+Graphs and combinatorics 7 (1), 1-6	8	1991
+Sub-Ramsey numbers for arithmetic progressions
+N Alon, Y Caro, Z Tuza
+Graphs and Combinatorics 5 (1), 307-314	8	1989
+On the kernel of intersecting families
+N Alon, Z Füredi
+Graphs and Combinatorics 3 (1), 91-94	8	1987
+Eigenvalues and expanders, Combinatorica 6 (1986), 83–96
+N Alon
+Theory of computing (Singer Island, Fla., 1984)	8	1984
+Erd} os, P.(1992) The Probabilistic Method
+N Alon, J Spencer
+John Wiley & Sons, New York	8	
+Asymmetric list sizes in bipartite graphs
+N Alon, S Cambie, RJ Kang
+Annals of Combinatorics 25 (4), 913-933	7	2021
+Boosting simple learners
+N Alon, A Gonen, E Hazan, S Moran
+Proceedings of the 53rd Annual ACM SIGACT Symposium on Theory of Computing …	7	2021
+Inverse problems for minimal complements and maximal supplements
+N Alon, N Kravitz, M Larson
+Journal of Number Theory 223, 307-324	7	2021
+List ramsey numbers
+N Alon, M Bucić, T Kalvari, E Kuperwasser, T Szabó
+Journal of Graph Theory 96 (1), 109-128	7	2021
+Out‐colourings of digraphs
+N Alon, J Bang‐Jensen, S Bessy
+Journal of Graph Theory 93 (1), 88-112	7	2020
+Testing equality in communication graphs
+N Alon, K Efremenko, B Sudakov
+IEEE Transactions on Information Theory 63 (11), 7569-7574	7	2017
+Removal lemmas for matrices
+N Alon, O Ben-Eliezer
+arXiv preprint arXiv:1609.04235	7*	2016
+On rigid matrices and U-polynomials
+N Alon, G Cohen
+computational complexity 24 (4), 851-879	7	2015
+A note on general sliding window processes
+N Alon, ON Feldheim
+Electronic Communications in Probability 19, 1-7	7	2014
+Maximizing the number of nonnegative subsets
+N Alon, H Aydinian, H Huang
+SIAM Journal on Discrete Mathematics 28 (2), 811-816	7	2014
+Paul Erdős and probabilistic reasoning
+N Alon
+Erdős Centennial, 11-33	7	2013
+Minimizing the number of carries in addition
+N Alon
+SIAM Journal on Discrete Mathematics 27 (1), 562-566	7	2013
+Local correction of juntas
+N Alon, A Weinstein
+Information Processing Letters 112 (6), 223-226	7	2012
+Small sample spaces cannot fool low degree polynomials
+N Alon, I Ben-Eliezer, M Krivelevich
+Approximation, Randomization and Combinatorial Optimization. Algorithms and …	7	2008
+The complexity of the outer face in arrangements of random segments
+N Alon, D Halperin, O Nechushtan, M Sharir
+Proceedings of the twenty-fourth annual symposium on Computational geometry …	7	2008
+Privileged users in zero-error transmission over a noisy channel
+N Alon, E Lubetzky
+Combinatorica 27 (6), 737-743	7	2007
+Graph Powers, Delsarte, Hoffman, Ramsey, and Shannon
+N Alon, E Lubetzky
+SIAM Journal on Discrete Mathematics 21 (2), 329-348	7	2007
+Factor d-domatic colorings of graphs
+N Alon, G Fertin, AL Liestman, TC Shermer, L Stacho
+Discrete Mathematics 262 (1-3), 17-25	7	2003
+A Ramsey‐type problem and the Turán numbers
+N Alon, P Erdős, DS Gunderson, M Molloy
+Journal of Graph Theory 40 (2), 120-129	7	2002
+EveryH-decomposition ofKnhas a Nearly Resolvable Alternative
+N Alon, R Yuster
+European Journal of Combinatorics 21 (7), 839-845	7	2000
+Algebraic and probabilistic methods in discrete mathematics
+N Alon
+Visions in Mathematics, 455-470	7	2000
+Intersecting systems
+R Ahlswede, N Alon, PL Erdős, M Ruszinkó, LA Székely
+Combinatorics, Probability and Computing 6 (2), 127-137	7	1997
+Packing of partial designs
+N Alon
+Graphs and Combinatorics 10 (1), 11-18	7	1994
+A note on Euclidean Ramsey theory and a construction of Bourgain
+N Alon, Y Peres
+Acta Mathematica Hungarica 57 (1-2), 61-64	7	1991
+The CW-Inequalities for Vectors in l1
+N Alon
+European Journal of Combinatorics 11 (1), 1-5	7	1990
+Legitimate colorings of projective planes
+N Alon, Z Füredi
+Graphs and Combinatorics 5 (1), 95-106	7	1989
+Monochromatic directed walks in arc-colored directed graphs
+N Alon
+Acta Mathematica Hungarica 49 (1-2), 163-167	7	1987
+On the intersection of edges of a geometric graph by straight lines
+N Alon, MA Perles
+Discrete mathematics 60, 75-90	7	1986
+A fully polynomial simultaneous broadcast in the presence of faults
+N Alon, Z Galil, M Yung
+preprint	7	1985
+The Probabilistic Method, 1992
+N Alon, J Spencer, P Erdös
+John Wiley and Sons	7	
+A theory of PAC learnability of partial concept classes
+N Alon, S Hanneke, R Holzman, S Moran
+2021 IEEE 62nd Annual Symposium on Foundations of Computer Science (FOCS …	6	2022
+Efficient splitting of measures and necklaces
+N Alon, A Graur
+arXiv preprint arXiv:2006.16613	6	2020
+Unitary Signings and Induced Subgraphs of Cayley Graphs of 
+N Alon, K Zheng
+arXiv preprint arXiv:2003.04926	6	2020
+Dynamics of evolving social groups
+N Alon, M Feldman, Y Mansour, S Oren, M Tennenholtz
+ACM Transactions on Economics and Computation (TEAC) 7 (3), 1-27	6	2019
+Clique coloring of dense random graphs
+N Alon, M Krivelevich
+Journal of Graph Theory 88 (3), 428-433	6	2018
+Uniformly discrete forests with poor visibility
+N Alon
+Combinatorics, Probability and Computing 27 (4), 442-448	6	2018
+The cover number of a matrix and its algorithmic applications
+N Alon, T Lee, A Shraibman
+Approximation, Randomization, and Combinatorial Optimization. Algorithms and …	6	2014
+Restricted integer partition functions
+N Alon
+INTEGERS 13, 2	6	2013
+Discrete Kakeya-type problems and small bases
+N Alon, B Bukh, B Sudakov
+Israel Journal of Mathematics 174 (1), 285-301	6	2009
+Combinatorial reasoning in information theory
+N Alon
+IEEE Information Theory Society Newsletter 59, 10-13	6	2009
+Codes and Xor graph products
+N Alon*, E Lubetzky
+Combinatorica 27 (1), 13-33	6	2007
+Regular graphs whose subgraphs tend to be acyclic
+N Alon, E Bachmat
+Random Structures & Algorithms 29 (3), 324-337	6	2006
+Partitioning a rectangle into small perimeter rectangles
+N Alon, DJ Kleitman
+Discrete mathematics 103 (2), 111-119	6	1992
+Economical coverings of sets of lattice points
+N Alon
+Geom. Funct. Anal 1, 224-230	6	1991
+Even edge colorings of a graph
+N Alon, Y Egawa
+Journal of Combinatorial Theory, Series B 38 (1), 93-94	6	1985
+Typical and extremal aspects of friends-and-strangers graphs
+N Alon, C Defant, N Kravitz
+Journal of Combinatorial Theory, Series B	5	2022
+Divisible subdivisions
+N Alon, M Krivelevich
+Journal of Graph Theory 98 (4), 623-629	5	2021
+Problems and results in Extremal Combinatorics--IV
+N Alon
+arXiv preprint arXiv:2009.12692	5	2020
+Isoperimetry, stability, and irredundance in direct products
+N Alon, C Defant
+Discrete Mathematics 343 (7), 111902	5	2020
+Separation dimension and sparsity
+N Alon, M Basavaraju, LS Chandran, R Mathew, D Rajendraprasad
+Journal of Graph Theory 89 (1), 14-25	5	2018
+Many T copies in H-free graphs
+N Alon, C Shikhelman
+Electronic Notes in Discrete Mathematics 49, 683-689	5	2015
+Comparable pairs in families of sets
+N Alon, S Das, R Glebov, B Sudakov
+Journal of Combinatorial Theory, Series B 115, 164-185	5	2015
+Redesigning the israeli medical internship match
+N Alon, S Bronfman, A Hassidim, A Romm
+Available at SSRN 2603546	5	2015
+Drawing outerplanar graphs using three edge lengths
+N Alon, ON Feldheim
+Computational Geometry 48 (3), 260-267	5	2015
+A note on degenerate and spectrally degenerate graphs
+N Alon
+Journal of Graph Theory 72 (1), 1-6	5	2013
+Dense uniform hypergraphs have high list chromatic number
+N Alon, A Kostochka
+Discrete Mathematics 312 (14), 2119-2125	5	2012
+Brief announcement: Sharing memory in a self-stabilizing manner
+N Alon, H Attiya, S Dolev, S Dubois, M Gradinariu, S Tixeuil
+International Symposium on Distributed Computing, 525-527	5	2010
+On graphs with subgraphs having large independence numbers
+N Alon, B Sudakov
+Journal of Graph Theory 56 (2), 149-157	5	2007
+Progressions in sequences of nearly consecutive integers
+N Alon, A Zaks
+Journal of Combinatorial Theory, Series A 84 (1), 99-109	5	1998
+Short certificates for tournaments.
+N Alon, M Ruszinkó
+The Electronic Journal of Combinatorics [electronic only] 4 (1), v4i1r12. pdf	5	1997
+Sure monochromatic subset sums
+N Alon, P Erdős
+Acta Arithmetica 74 (3), 269-272	5	1996
+Disjoint systems
+N Alon, B Sudakov
+Random Structures & Algorithms 6 (1), 13-20	5	1995
+Comparison-sorting and selecting in totally monotone matrices
+N Alon, Y Azar
+Symposium on Discrete Algorithms: Proceedings of the third annual ACM-SIAM …	5	1992
+JH SPENCER,"
+N Alon
+The probabilistic Method," Wiley, New York	5	1991
+Extremal problems concerning transformations of the set of edges of the complete graph
+N Alon, Y Caro
+European Journal of Combinatorics 7 (2), 93-104	5	1986
+Eigenvalues and expanders. Combinatorica 6 83–96
+N Alon
+Theory of computing (Singer Island, Fla., 1984). MR0875835	5	1986
+Families in which disjoint sets have large union
+N Alon, P Frankl
+Combinatorial Mathematics; Proceedings of the Third International Conference …	5	1985
+A note on the decomposition of trees into isomorphic subtrees
+N Alon, Y Caro
+Ars Combinat 12, 117-121	5	1981
+Scale-sensitive dimensions, uniform convergence
+N Alon, S Ben-David, N Cesa-Bianchi, D Haussler
+and learnability. Technical Report 143-95, DSI, University of Milan, Italy …	5	
+Dominance solvability in random games
+N Alon, K Rudov, L Yariv
+arXiv preprint arXiv:2105.10743	4	2021
+Efficient splitting of necklaces
+N Alon, A Graur
+48th International Colloquium on Automata, Languages, and Programming (ICALP …	4	2021
+Multitasking capacity: Hardness results and improved constructions
+N Alon, JD Cohen, TL Griffiths, P Manurangsi, D Reichman, I Shinkar, ...
+SIAM Journal on Discrete Mathematics 34 (1), 885-903	4	2020
+Distributed corruption detection in networks
+N Alon, E Mossel, R Pemantle
+Theory of Computing Exchange	4*	2020
+H-free subgraphs of dense graphs maximizing the number of cliques and their blow-ups
+N Alon, C Shikhelman
+Discrete Mathematics 342 (4), 988-996	4	2019
+Lovász, vectors, graphs and codes
+N Alon
+Building Bridges II, 1-16	4	2019
+Local correction with constant error rate
+N Alon, A Weinstein
+Algorithmica 71 (2), 496-516	4	2015
+Chasing robbers on random geometric graphs—an alternative approach
+N Alon, P Prałat
+Discrete Applied Mathematics 178, 149-152	4	2014
+Triangles in H-free graphs
+N Alon, C Shikhelman
+arXiv preprint arXiv:1409.4192	4	2014
+The value of ignorance about the number of players
+N Alon, R Meir, M Tennenholtz
+Workshops at the Twenty-Seventh AAAI Conference on Artificial Intelligence	4	2013
+Universality, tolerance, chaos and order
+N Alon
+An Irregular Mind, 21-37	4	2010
+Edge colouring with delays
+N Alon, V Asodi
+Combinatorics, Probability and Computing 16 (2), 173-191	4	2007
+Homomorphisms in graph property testing-a survey
+A Shapira, N Alon
+Electronic Colloquium on Computational Complexity (ECCC)	4	2005
+Long cycles in critical graphs
+N Alon, M Krivelevich, P Seymour
+Journal of Graph Theory 35 (3), 193-196	4	2000
+Homomorphisms of edge-coloured graphs and Coxeter groups
+N Alon, TH Marshall
+University of Auckland. School of Mathematical and Information Sciences	4	1996
+On A Problem of Erdős and Turán and Some Related Results
+N Alon, MN Kolountzakis
+Journal of number theory 55 (1), 82-93	4	1995
+Testing Low-Degree Polynomials over
+N Alon, T Kaufman, M Krivelevich, S Litsyn, D Ron
+Proc. RANDOM 2003, 188-199	4	1992
+Not All Graphs are Segment T-graphs.
+N Alon, M Katchalski, ER Scheinerman
+Eur. J. Comb. 11 (1), 7-13	4	1990
+An application of set theory to coding theory
+N Alon, A Liu
+Mathematics Magazine 62 (4), 233-237	4	1989
+A Turanlike neighborhood condition and cliques in graphs
+N Alon, R Faudree, Z Füredi
+Annals of the New York Academy of Sciences 555 (1), 4-8	4	1989
+Number on the forehead protocols yielding dense ruzsa–szemerédi graphs and hypergraphs
+N Alon, A Shraibman
+Acta Mathematica Hungarica 161 (2), 488-506	3	2020
+On the product dimension of clique factors
+N Alon, R Alweiss
+European Journal of Combinatorics 86, 103097	3	2020
+The minrank of random graphs over arbitrary fields
+N Alon, I Balla, L Gishboliner, A Mond, F Mousset
+Israel Journal of Mathematics 235 (1), 63-77	3	2020
+Traces of hypergraphs
+N Alon, G Moshkovitz, N Solomon
+Journal of the London Mathematical Society 100 (2), 498-517	3	2019
+Ramsey-nice families of graphs
+R Aharoni, N Alon, M Amir, P Haxell, D Hefetz, Z Jiang, G Kronenberg, ...
+European Journal of Combinatorics 72, 29-44	3	2018
+High girth augmented trees are huge
+N Alon
+Journal of Combinatorial Theory, Series A 144, 7-15	3	2016
+Approximating sparse binary matrices in the cut-norm
+N Alon
+Linear Algebra and its Applications 486, 409-418	3	2015
+Size and degree anti-Ramsey numbers
+N Alon
+Graphs and Combinatorics 31 (6), 1833-1839	3	2015
+The asymmetric matrix partition problem
+N Alon, M Feldman, I Gamzu, M Tennenholtz
+International Conference on Web and Internet Economics, 1-14	3	2013
+Beeping an MIS
+Y Afek, N Alon, Z Bar-Joseph
+Manuscript	3	2011
+Generalized hashing and applications to digital fingerprinting
+N Alon, G Cohen, M Krivelevich, S Litsyn
+Proceedings IEEE International Symposium on Information Theory,, 436	3	2002
+Regular honest graphs, isoperimetric numbers, and bisection of weighted graphs
+N Alon, P Hamburger, AV Kostochka
+European Journal of Combinatorics 20 (6), 469-481	3	1999
+Covering the edges of a graph by a prescribed tree with minimum overlap
+N Alon, Y Caro, R Yuster
+journal of combinatorial theory, Series B 71 (2), 144-161	3	1997
+Matching nuts and bolts faster
+N Alon, PG Bradford, R Fleischer
+Information processing letters 59 (3), 123-127	3	1996
+On-line and off-line algorithms for vector covering
+N Alon, J Csirik, S Sevast'janov, APA Vestjens, GJ Woeginger, N Alon, ...
+Lecture Notes in Computer Science 1136, 406-418	3	1996
+The Probabilütic Method
+N Alon, J Speneer, P ErdÖl
+Wiley	3	1991
+Eigenvalues, geometric expanders and sorting in rounds
+N Alon
+Graph theory with applications to algorithms and computer science, 15-24	3	1985
+A note on subdigraphs of digraphs with large outdegrees
+N Alon
+Discrete mathematics 49 (3), 321-322	3	1984
+The runsort permuton
+N Alon, C Defant, N Kravitz
+Advances in Applied Mathematics 139, 102361	2	2022
+The diameter of the uniform spanning tree of dense graphs
+N Alon, A Nachmias, M Shalev
+Combinatorics, Probability and Computing, 1-21	2	2022
+Near-sunflowers and focal families
+N Alon, R Holzman
+arXiv preprint arXiv:2010.05992	2	2020
+Induced universal hypergraphs
+N Alon, N Sherman
+SIAM Journal on Discrete Mathematics 33 (2), 629-642	2	2019
+Counting contours on trees
+N Alon, R Bissacot, EO Endo
+Letters in Mathematical Physics 107 (5), 887-899	2	2017
+Optimal compression of approximate Euclidean distances
+N Alon, B Klartag
+arXiv preprint arXiv:1610.00239	2	2016
+On the duplication distance of binary strings
+N Alon, J Bruck, F Farnoud, S Jain
+2016 IEEE International Symposium on Information Theory (ISIT), 260-264	2	2016
+The probabilistic method 4th edition
+N Alon, JH Spencer
+John Wiley & Sons	2	2016
+Paul Erdős and the probabilistic method probabilistic beginnings
+N Alon
+Notices of the American Mathematical Society 62 (3), 226-230	2	2015
+Erratum: A Note on Competitive Diffusion Through Social Networks
+N Alon, M Feldman, AD Procaccia, M Tennenholtz
+2	2011
+Economical elimination of cycles in the torus
+N Alon
+Combinatorics, Probability and Computing 18 (5), 619-627	2	2009
+On (ε, k)‐min‐wise independent permutations
+N Alon, T Itoh, T Nagatani
+Random Structures & Algorithms 31 (3), 384-389	2	2007
+Nonrepetitive colorings of graphs
+N Alon, J Grytczuk
+Discrete Mathematics and Theoretical Computer Science, 133-134	2	2005
+Combinatorics, Probability & Computing
+N Alon, L Babai, JC Bermond, N Biggs, W Deuber, M Dyer, G Eagleson, ...
+Combinatorial nullstellensatz 8 (1), 7-30	2	1999
+Approximate max flow on small depth acyclic networks
+E Cohen, N Alon, Z Galil, O Margalit, M Naor, J Friedman, D Eppstein, ...
+Manuscript	2	1992
+On Nečiporuk's theorem for branching programs
+N Alon, U Zwick
+Theoretical computer science 64 (3), 331-342	2	1989
+E cient testing of large graphs
+N Alon, E Fischer, M Krivelevich, M Szegedy
+Proceedings of the 40th Annual Symposium on Foundations of Computer Science …	2	
+Solving MAX-r-SAT above a tight lower bound. Algorithmica, in press, doi: 10.1007/s00453-010-9428-7. A preliminary version in
+N Alon, G Gutin, EJ Kim, S Szeider, A Yeo
+Proc. SODA 2010, 511-517	2	
+On the hat guessing number of graphs
+N Alon, J Chizewer
+Discrete Mathematics 345 (4), 112785	1	2022
+Identifying the Deviator
+N Alon, B Gunby, X He, E Shmaya, E Solan
+arXiv preprint arXiv:2203.03744	1	2022
+Additive approximation of generalized Turán questions
+N Alon, C Shikhelman
+Algorithmica 84 (2), 464-481	1	2022
+Random necklaces require fewer cuts
+N Alon, D Elboim, J Pach, G Tardos
+arXiv preprint arXiv:2112.14488	1	2021
+Addressing Johnson graphs, complete multipartite graphs, odd cycles, and random graphs
+N Alon, SM Cioabă, BD Gilbert, JH Koolen, BD McKay
+Experimental Mathematics 30 (3), 372-382	1	2021
+On Sums of Monotone Random Integer Variables
+A Aamand, N Alon, JBT Knudsen, M Thorup
+arXiv preprint arXiv:2104.03721	1	2021
+The price of bounded preemption
+N Alon, Y Azar, M Berlin
+ACM Transactions on Parallel Computing (TOPC) 8 (1), 1-21	1	2021
+Hitting all maximum independent sets
+N Alon
+arXiv preprint arXiv:2103.05998	1	2021
+On sums and products along the edges, II
+N Alon, I Ruzsa, J Solymosi
+arXiv preprint arXiv:2007.12970	1	2020
+Algorithmic Number On the Forehead Protocols Yielding Dense Ruzsa-Szemer\'{e} di Graphs and Hypergraphs
+N Alon, A Shraibman
+arXiv preprint arXiv:2001.00387	1	2020
+Permutations resilient to deletions
+N Alon, S Butler, R Graham, UC Rajkumar
+Annals of Combinatorics 22 (4), 673-680	1	2018
+Neighborly Families of Boxes and Bipartite Coverings
+N Alon
+The Mathematics of Paul Erdős II, 15-20	1	2013
+Testing perfection is hard
+N Alon, J Fox
+arXiv preprint arXiv:1110.2828	1	2011
+MIS on the fly
+Y Afek, N Alon, Z Bar-Joseph
+arXiv preprint arXiv:1106.2126	1	2011
+The number of
+N Alon, S Haber, M Krivelevich
+The Electronic Journal of Combinatorics [electronic only] 18	1	2011
+Local rainbow colorings
+N Alon, I Ben-Eliezer
+Journal of Combinatorics 2 (2), 293-304	1	2011
+Another abstraction of the Erdős-Szekeres happy end theorem
+N Alon, E Chiniforooshan, V Chvátal, F Genest
+the electronic journal of combinatorics, N11-N11	1	2010
+Visions in Mathematics: Classical and modern topology; 2. Topological phenomena in real world physics
+N Alon, J Bourgain, A Connes, M Gromov, V Milman
+Birkhäuser Basel	1	2010
+The Brunn–Minkowski inequality and nontrivial cycles in the discrete torus
+N Alon, ON Feldheim
+SIAM Journal on Discrete Mathematics 24 (3), 892-894	1	2010
+An isoperimetric inequality in the universal cover of the punctured plane
+N Alon, A Pinchasi, R Pinchasi
+Discrete mathematics 308 (23), 5691-5701	1	2008
+Optimal monotone encodings
+N Alon, R Hod
+International Colloquium on Automata, Languages, and Programming, 258-270	1	2008
+Can a graph have distinct regular partitions?
+N Alon, A Shapira, U Stav
+International Computing and Combinatorics Conference, 428-438	1	2007
+Feasible schedules for rotating transmissions
+N Alon
+Combinatorics, Probability and Computing 15 (5), 783-787	1	2006
+Edge coloring with delays
+N Alon, V Asodi
+Approximation, Randomization, and Combinatorial Optimization. Algorithms and …	1	2004
+Dense graphs are antimagic
+N Alon, G Kaplan, A Lev, Y Roditty, R Yuster
+arXiv preprint math/0304198	1	2003
+Testing satisfiability
+N Alon, A Shapira
+Manuscript	1	2001
+On a problem in shuffling
+N Alon, K Berman, D Kleitman
+Journal of Combinatorial Theory, Series A 91 (1-2), 5-14	1	2000
+Addendum: Discussions at the Dead Sea
+N Alon, J Bourgain, A Connes, M Gromov, V Milman
+Visions in Mathematics, 881-977	1	2000
+Derandomization via small sample spaces
+N Alon
+Scandinavian Workshop on Algorithm Theory, 1-3	1	1996
+On short edges in straight-edge triangulations
+N Alon, M Katchalski, A Liu, B Zhou
+Mathematica Scandinavica, 184-188	1	1995
+Y Probability &'Computing
+N Alon, L Babai, JC Bermond, N Biggs, W Deuber, M Dyer, G Eagleson, ...
+1	1994
+Regressions and monotone chains II: The poset of integer intervals
+N Alon, WT Trotter, DB West
+Order 4 (2), 155-164	1	1987
+Combinatorial Optimization
+AA Ageev, RK Ahuja, N Alon, I Averbakh, MO Ball, P Baptiste, ...
+1	
+Counting Dope Matrices
+N Alon, N Kravitz, K O'Bryant
+arXiv preprint arXiv:2205.09302		2022
+Arithmetic progressions in sumsets of sparse sets
+N Alon, R Alweiss, YP Liu, A Martinsson, S Narayanan
+Number Theory and Combinatorics: A Collection in Honor of the Mathematics of …		2022
+The Runsort Permuton
+C Defant, N Alon, N Kravitz
+2022 Virtual Joint Mathematics Meetings (JMM 2022)		2022
+Intersection Array
+N Alon
+2022
+The  ε -t-Net Problem
+N Alon, B Jartoux, C Keller, S Smorodinsky, Y Yuditsky
+Discrete & Computational Geometry, 1-27		2022
+On a random model of forgetting
+N Alon, D Elboim, A Sly
+arXiv preprint arXiv:2203.02614		2022
+Complete minors and average degree--a short proof
+N Alon, M Krivelevich, B Sudakov
+arXiv preprint arXiv:2202.08530		2022
+Structured Codes of Graphs
+N Alon, A Gujgiczer, J Körner, A Milojevic, G Simonyi
+arXiv e-prints, arXiv: 2202.06810		2022
+Private and Online Learnability are Equivalent
+N Alon, M Bun, R Livni, M Malliaris, S Moran
+ACM Journal of the ACM (JACM)		2022
+Implicit representation of sparse hereditary families
+N Alon
+arXiv preprint arXiv:2201.00328		2022
+Sampling Theorem
+N Alon
+2021
+Linear Stability
+N Alon
+2021
+Rank of matrices with entries from a multiplicative group
+N Alon, J Solymosi
+arXiv preprint arXiv:2109.00618		2021
+Irregular subgraphs
+N Alon, F Wei
+arXiv preprint arXiv:2108.02685		2021
+Large cliques and independent sets all over the place
+N Alon, M Bucić, B Sudakov
+Proceedings of the American Mathematical Society 149 (08), 3145-3157		2021
+Partitioning all -subsets into -wise intersecting families
+N Alon
+arXiv preprint arXiv:2107.12741		2021
+Online Appendix for “Dominance Solvability in Random Games”
+N Alon, K Rudov, L Yariv
+2021
+Limitations on regularity lemmas for clustering graphs
+N Alon, G Moshkovitz
+Advances in Applied Mathematics 124, 102135		2021
+Unitary signings and induced subgraphs of cayley graphs of ℤn2
+N Alon, K Zheng
+Advances in Combinatorics 2021 (1)		2021
+2021 leroy p. Steele prizes
+N Alon, J Spencer, M Gerstenhaber, S Bloch
+Notices of the American Mathematical Society 68 (4), 629-633		2021
+A probabilistic variant of Sperner’s theorem and of maximal r-cover free families
+N Alon, S Gilboa, S Gueron
+Discrete Mathematics 343 (10), 112027		2020
+On Generalized Regularity
+N Alon, G Moshkovitz
+arXiv preprint arXiv:1911.02000		2019
+Booklet of Abstracts
+N Alon
+2019
+9.8 A Characterization of Stability-Preserving Linear Operators
+N Alon, A Shapira, B Sudakov
+Theorems of the 21st Century, 328		2019
+Gregory Gutin and Graph Optimization Problems
+N Alon
+Optimization Problems in Graph Theory, 1-2		2018
+Broadcast Transmission to Prioritizing Receivers
+N Alon, G Rutenberg
+SIAM Journal on Discrete Mathematics 31 (4), 2517-2529		2017
+Revenue and Reserve Prices in a Probabilistic Single Item Auction
+N Alon, M Feldman, M Tennenholtz
+Algorithmica 77 (1), 1-15		2017
+Priority Transmission
+N Alon, G Rutenberg
+2016
+Local and global colorability of graphs
+N Alon, O Ben-Eliezer
+Discrete Mathematics 339 (2), 428-442		2016
+Correction: Chasing a Fast Robber on Planar Graphs and Random Graphs
+N Alon, A Mehrabian
+2015
+Reflections on Paul Erdos on His Birth Centenary, Part II
+N Alon
+Notices of the AMS 62 (3)		2015
+Chapter Restricted integer partition functions
+N Alon
+Integers: Annual Volume 2013		2014
+BASIC NETWORK CREATION GAMES (vol 27, pg 656, 2013)
+N Alon, ED Demaine, M Hajiaghayi, P Kanellopoulos, T Leighton
+SIAM JOURNAL ON DISCRETE MATHEMATICS 28 (3), 1638-1640		2014
+On graphs and algebraic graphs that do not contain cycles of length 4
+N Alon, HT Hall, C Knauer, R Pinchasi, R Yuster
+Journal of Graph Theory 68 (2), 91-102		2011
+Visions in Mathematics: GAFA 2000 Special Volume, Part II Pp. 455-983
+N Alon, J Bourgain, A Connes, M Gromov, VD Milman
+Springer Science & Business Media		2011
+Resolution enhancement in MRI (vol 24, pg 133, 2006)
+E Carmi, S Liu, N Alon, A Fiat, D Fiat
+MAGNETIC RESONANCE IMAGING 29 (2), 304-304		2011
+Almost k-wise vs. k-wise independent permutations, and uniformity for...
+N Alon, S Lovett
+2011
+List coloring and Euclidean Ramsey Theory.
+N Alon, A Kostochka
+CCCG		2011
+Combinatorics Probability and Computing: Introduction
+N Alon, B Bollobás
+Combinatorics Probability and Computing 19 (5-6), 641		2010
+Quasi-Randomness and Algorithmic Regularity for Graphs
+N Alon, A Coja-Oghlan, H Hàn, M Kang
+policies. Please scroll down to view the document		2010
+Combinatorics and Probability
+B Bollobás, N Alon, I Wegener
+Oberwolfach Reports 6 (2), 1225-1302		2009
+Playing to retain the advantage
+D Hefetz, N Alon, M Krivelevich
+Electronic Notes in Discrete Mathematics 34, 423-427		2009
+Combinatorics Probability and Computing: Introduction
+N Alon, B Bollobas
+Combinatorics Probability and Computing 18 (1-2), 1		2009
+Polynomial Kernels and Faster Algorithms for the Dominating Set Problem on Graphs with an Excluded Minor
+N Alon, S Gutner
+2008
+Combinatorics, Probability and Computing
+B Bollobás, N Alon, I Wegener
+Oberwolfach Reports 3 (4), 2875-2952		2007
+On graphs with subgraphs of large independence numbers
+N Alon, B Sudakov
+arXiv preprint arXiv:0706.4099		2007
+On Some Isoperimetric Inequality In The Universal Covering Space Of The Punctured Plane
+N Alon, A Pinchasi, R Pinchasi
+2007
+Independent sets in weak graph powers
+N Alon, E Lubetzky
+2006
+Invited Lectures-Additive Approximation for Edge-Deletion Problems
+N Alon, A Shapira, B Sudakov
+Lecture Notes in Computer Science 4051, 1-2		2006
+Linear equations, arithmetic progressions arid hypergraph property testing
+NM Alon, A Shapira
+Sixteenth Annual ACM-SIAM Symposium on Discrete Algorithms		2005
+Also available on
+WH Liu, MR Murty, R Dietmann, C Elsholtz, K Gyarmati, M Simonovits
+Journal of Combinatorial Theory, Series A 111 (1)		2005
+List C. Recent and forthcoming publications.
+DJ Abraham, RW Irving, DF Manlove, K Mehlhorn, K Telikepalli, M Abreu, ...
+2003
+A coding theory bound and zero-sum square matrices
+N Alon, S Litsyn, R Yuster
+Graphs and Combinatorics 19 (4), 449-457		2003
+Graph Colouring and the Probabilistic Method
+N Alon
+SIAM Review 45 (1), 131-132		2003
+Alexander, DLJ, 78
+N Alon, HM Bahig, P Berman, DW Bulger, B DasGupta, X Deng, ...
+Journal of Algorithms 47, 136		2003
+output in Sx. Shannon [57] initiated the study of the amount of information
+N Alon
+Contemporary Combinatorics 10, 11		2002
+Packing Ferrers Shapes
+N Alon, M Bóna, J Spencer
+Combinatorics, Probability and Computing 9 (3), 205-211		2000
+Perfect matchings in
+N Alon, V Rödl, A Ruciński
+The Electronic Journal of Combinatorics [electronic only] 5		1998
+Randomness and pseudo-randomness in discrete mathematics
+N Alon
+PROGRESS IN MATHEMATICS-BOSTON- 168, 1-14		1998
+THE ANNALS
+D BERTSIMAS, ICH PASCHALIDIS, JN TSITSIKLIS, N ALON, ...
+The Annals of Applied Probability (ISSN 1050-5164) 4 (1)		1994
+On-line Steiner trees in the Euclidean plane,” Discrete Comput
+N Alon, Y Azar
+Stanford University and Ohio State University. He		1993
+Constructions of depth-2 majority circuits for comparison and addition using linear block codes
+N Alon, J Bruck
+Proceedings of the 1993 IEEE International Symposium on Information Theory		1993
+Spanning subgraphs of Random Graphs (A research problem)
+N Alon, Z Füredi
+1991
+Simple
+N Alon, O Goldreich, J Hastad, R Peralta
+Computer Science Department, Technion		1991
+Parallel Linear Programming in Fixed Dimension
+N Alon, N Megiddo
+31st Annual Symposium on Foundations of Computer Science: Proceedings …		1990
+Sums of subsequences modulo prime powers
+N Alon
+Discrete mathematics 71 (1), 87-88		1988
+BORSUK-TYPE THEOREMS
+N Alon
+Algebraic, Extremal and Metric Combinatorics 1986 131, 1		1988
+Department of Mathematics, Tel Aviv University, Tel Aviv, Israel and
+N ALON
+1987
+A Note on Neciporuk's Theorem for Branching Programs
+N Alon, U Zwick
+Tel-Aviv University. The Moise and Frida Eskenasy Institute of Computer Sciences		1987
+Bell Communications Research, Morristown, New Jersey 07960 USA** AT&T Bell Labs, Murray Hill, New Jersey, 07974 USA
+N Alon, P Frankl, V Rödl
+26th Annual Symposium on Foundations of Computer Science: October 21-23 …		1985
+Small sample spaces cannot fool low degree
+N Alon, I Ben-eliezer, M Krivelevich
+FOUNDING EDITORS
+M Karoński, J Spencer, N Alon, A Ruciński, M Bednarska, B Bollobás, ...
+2021 IEEE 62nd Annual Symposium on Foundations of Computer Science (FOCS)| 978-1-6654-2055-6/22/$31.00© 2022 IEEE| DOI: 10.1109/FOCS52979. 2021.00128
+E Abbe, D Abdolazimi, M Abrahamsen, Z Allen-Zhu, N Alon, ...
+تصفح اقسام الموقع‎
+N Alon
+A look at mathematics through the lens of computation
+M Rabin, N Alon
+olume 3, Number 4
+GM Del Corso, S Leonardi, RA Horn, S Serra-Capizzano, F Geraci, ...
+olume 4, Number 4
+CP Lee, GH Golub, SA Zenios, N Fountoulakis, F Bassetti, ...
+Special Issue on Algorithms and Models for the Web-Graph 129
+J Janssen, AD Flaxman, RM Richardson, N Litvak, WRW Scheinhardt, ...
+JOURNAL OF ALGEBRAIC COMBINATORICS
+N Alon, TH Marshall
+Spanning trees with few non-leaves
+N Alon
+EXPLICIT CONSTRUCTION OF LINEAR SIZED
+N ALON, FRK CHUNG
+Fair Partitions
+N Alon
+Friends and strangers walking on graphs
+N Alon, C Defant, N Kravitz
+Vol. 4 February 1994 No
+N ALON, B BOLLOBÁS, G BRIGHTWELL, S JANSON
+The ϵ-t-Net Problem
+N Alon, B Jartoux, C Keller, S Smorodinsky, Y Yuditsky
+Sortieren von Schrauben und Muttern
+N Alon, PG Bradford, R Fleischer
+29. Workshop Komplexit atstheorie, Datenstrukturen und E ziente Algorithmen, 11		
+Of making many books there is no end, and much study wearies the body. Now all has been heard; here is the conclusion of the matter: Fear God and keep his commandments, for …
+I Abraham, R Ahlswede, N Alon, RJ Anderson, S Arora, BI Aspvall, ...
+Testing Boolean Function Isomorphism
+S Chakraborty, N Alon, E Blais, E Fischer, DG Soriano, A Matsliah
+Refining the Graph Density Condition for the Existence of Almost
+N Alon, E Fischer
+olume 5, Number 4
+F Chung, X Deng, H Ackermann, A Skopalik, H Tsaknakis, PG Spirakis, ...
+PROBLEM SECTION Splitting digraphs
+N Alon
+DIMACS/DIMATIA/Renyi Combinatorial Challenges Meeting
+V Asodi
+Fall Semester 2013
+N Alon, M Krivelevich
+List of referees: volumes 91-100
+M Aigner, H Ait-Kaci, Y Alavi, N Alon, MO Ball, HJ Bandelt, A Barlotti, ...
+Mitsugu Hirasaka and Paul-Hermann Zieschang. Sufficient conditions for
+D Maclagan, RR Thomas, F Ardila, J Bonin, A de Mier, M Noy, E Rivals, ...
+List of Referees: Volumes 41-50
+R Aharoni, M Aigner, MO Albertson, N Alon, EJ Anderson, I Anderson, ...
+Series B
+N Alon, GR Grimmett, V Riidl, DSAB Griinbaum, PD Seymour, NLBL Lo&z, ...
+BOARD OF ED
+N Alon, R Aviv, RL Graham, M Hill-NJ, P Hansen, PHB BC, ...
+List of Referees: Volumes 9 l-100
+AA Ageev, F Aguilo-Gost, R Ahlswede, A Ainouche, SG Akl, VB Alekseev, ...
+List of referees: volumes 81-90
+HL Abbott, JV Abrham, A Adam, M Aigner, N Alon, B Alspach, D Amar, ...
+List of Referees: Volumes 3 l-40
+EHL Aarts, J Abello, R Aharoni, R Ahlswede, M Aigner, M Akgul, N Alon, ...
+List of Referees: Volumes 101} 110
+KI Aardal, AA Ageev, F Aguilo-Gost, R Ahlswede, M Aigner, A Ainouche, ...
+Jin Akiyama,(Tokai University) Recent Results on Polyhedra Studies on polyhedra have a very long history of more than 2000 years. However, there are still many interesting …
+N Alon
+GEOMETRICAL REALIZATION OF SET SYSTEMS AND PROBABILISTIC C01vf1v1UNICATION COMPLEXITY
+N Alon, P Frankl, V Rodl
+CODING THEORY
+E Yaakobi, J Bruck, PH Siegel, A Tasdighi, AH Banihashemi, MR Sadeghi, ...
+Le Bulletin du CRM
+N Alon, P Seymour
+October 29th–November 4th, 2006
+N Alon, B Bollobás, I Wegener
+Managing Editors
+M Adler, M Mitzenmacher, SM Muthukrishnan, X Yu, N Alon, E Berlekamp, ...
+Hypergraphs and Geometry
+N Alon
+A p-part Erdos-Ko-Rado theorem
+N Alon, GOH Katona
+Probabilistic Methods in Combinatorics: Homework Assignment Number 2
+N Alon
+Received 31 January 1985 Revised 10 September 1985
+N ALON
+Addendum to the paper
+N Alon, O Goldreich, J Hastad, R Peralta
+Lie Groups: Dynamics, Rigidity, Arithmetic
+H Abels, N Alon, M Burger, SG Dani, A Eskin, H Furstenberg, W Goldman, ...
+List of External Reviewers for FOCS 2015
+S Aaronson, A Abdi, J Abernathy, I Abraham, D Achlioptas, ...
+Even vs. odd latin squares
+N Alon, M Tarsi
+Open Problem Garden
+N Alon, M Tarsi
+A note on the Running Intersection Property
+N Alon
+Articles 1–809
+HelpPrivacyTerms

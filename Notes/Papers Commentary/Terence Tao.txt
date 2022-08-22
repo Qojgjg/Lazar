@@ -1,0 +1,1725 @@
+Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information
+EJ Candès, J Romberg, T Tao
+IEEE Transactions on information theory 52 (2), 489-509	18339	2006
+Stable signal recovery from incomplete and inaccurate measurements
+EJ Candes, JK Romberg, T Tao
+Communications on Pure and Applied Mathematics: A Journal Issued by the …	11505*	2006
+Decoding by linear programming
+EJ Candes, T Tao
+IEEE transactions on information theory 51 (12), 4203-4215	8213	2005
+Near-optimal signal recovery from random projections: Universal encoding strategies?
+EJ Candes, T Tao
+IEEE transactions on information theory 52 (12), 5406-5425	8183	2006
+The power of convex relaxation: Near-optimal matrix completion
+EJ Candès, T Tao
+IEEE Transactions on Information Theory 56 (5), 2053-2080	2317	2010
+Endpoint strichartz estimates
+M Keel, T Tao
+American Journal of Mathematics 120 (5), 955-980	1871	1998
+Additive combinatorics
+T Tao, VH Vu
+Cambridge University Press	1823	2006
+Nonlinear dispersive equations: local and global analysis
+T Tao
+American Mathematical Soc.	1553	2006
+Topics in random matrix theory
+T Tao
+American Mathematical Soc.	1124	2012
+The primes contain arbitrarily long arithmetic progressions
+B Green, T Tao
+Annals of mathematics, 481-547	984	2008
+Sharp global well-posedness for KdV and modified KdV on ℝ and 𝕋
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Journal of the American Mathematical Society 16 (3), 705-749	681	2003
+The honeycomb model of 𝐺𝐿_ {𝑛}(ℂ) tensor products I: Proof of the saturation conjecture
+A Knutson, T Tao
+Journal of the American Mathematical Society 12 (4), 1055-1090	567	1999
+A sum-product estimate in finite fields, and applications
+J Bourgain, N Katz, T Tao
+Geometric & Functional Analysis GAFA 14 (1), 27-57	551	2004
+An introduction to measure theory
+T Tao
+American Mathematical Society 126, 206	513	2011
+Global well-posedness and scattering for the energy-critical nonlinear Schrödinger equation in ℝ³
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Annals of Mathematics, 767-865	503*	2008
+Random matrices: universality of local eigenvalue statistics
+T Tao, V Vu
+Acta mathematica 206 (1), 127-204	448	2011
+Asymptotics, frequency modulation, and low regularity ill-posedness for canonical defocusing equations
+M Christ, J Colliander, T Tao
+American journal of mathematics 125 (6), 1235-1293	434	2003
+Random matrices: Universality of ESDs and the circular law
+T Tao, V Vu, M Krishnapur
+The Annals of Probability 38 (5), 2023-2065	426	2010
+Linear equations in primes
+B Green, T Tao
+Annals of mathematics, 1753-1850	392	2010
+Error correction via linear programming
+E Candes, M Rudelson, T Tao, R Vershynin
+46th Annual IEEE Symposium on Foundations of Computer Science (FOCS'05), 668-681	363	2005
+Multilinear weighted convolution of L2 functions, and applications to nonlinear dispersive equations
+T Tao
+American Journal of Mathematics 123 (5), 839-908	362	2001
+Fuglede's conjecture is false in 5 and higher dimensions
+T Tao
+arXiv preprint math/0306134	339	2003
+A sharp bilinear restriction estimate for paraboloids
+T Tao
+Geometric & Functional Analysis GAFA 13 (6), 1359-1384	317	2003
+The honeycomb model of 𝐺𝐿_ {𝑛}(ℂ) tensor products II: Puzzles determine facets of the Littlewood-Richardson cone
+A Knutson, T Tao, C Woodward
+Journal of the American Mathematical Society 17 (1), 19-48	286	2004
+On the multilinear restriction and Kakeya conjectures
+J Bennett, A Carbery, T Tao
+Acta mathematica 196 (2), 261-302	281	2006
+A bilinear approach to the restriction and Kakeya conjectures
+T Tao, A Vargas, L Vega
+Journal of the American Mathematical Society 11 (4), 967-1000	273	1998
+Random matrices: the circular law
+T Tao, V Vu
+Communications in Contemporary Mathematics 10 (02), 261-307	266	2008
+An inverse theorem for the Gowers U s+1 [N]-norm
+B Green, T Tao, T Ziegler
+Annals of Mathematics, 1231-1372	261	2012
+The nonlinear Schrödinger equation with combined power-type nonlinearities
+T Tao, M Visan, X Zhang
+Communications in Partial Differential Equations 32 (8), 1281-1343	255	2007
+Transfer of energy to high frequencies in the cubic defocusing nonlinear Schrödinger equation
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Inventiones mathematicae 181 (1), 39-113	252	2010
+Random matrices: Universality of local eigenvalue statistics up to the edge
+T Tao, V Vu
+Communications in Mathematical Physics 298 (2), 549-572	250	2010
+Puzzles and (equivariant) cohomology of Grassmannians
+A Knutson, T Tao
+Duke Mathematical Journal 119 (2), 221-260	250	2003
+Global Regularity of Wave Maps¶ II. Small Energy in Two Dimensions
+T Tao
+Communications in Mathematical Physics 224 (2), 443-544	242	2001
+The Möbius function is strongly orthogonal to nilsequences
+B Green, T Tao
+Annals of Mathematics, 541-566	239	2012
+The cubic nonlinear Schrödinger equation in two dimensions with radial data
+R Killip, T Tao, M Vișan
+Journal of the European Mathematical Society 11 (6), 1203-1258	239	2009
+Almost conservation laws and global rough solutions to a Nonlinear Schr\" odinger equation
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+arXiv preprint math/0203218	239	2002
+Product set estimates for non-commutative groups
+T Tao
+Combinatorica 28 (5), 547-594	235	2008
+An uncertainty principle for cyclic groups of prime order
+T Tao
+arXiv preprint math/0308286	233	2003
+An inverse theorem for the Gowers norm
+B Green, T Tao
+Proceedings of the Edinburgh Mathematical Society 51 (1), 73-153	227	2008
+Global existence and scattering for rough solutions of a nonlinear Schrödinger equation on ℝ3
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Communications on Pure and Applied Mathematics: A Journal Issued by the …	225	2004
+Global well-posedness of the Benjamin–Ono equation in H1 (R)
+T Tao
+Journal of Hyperbolic Differential Equations 1 (01), 27-49	223	2004
+Inverse Littlewood-Offord theorems and the condition number of random discrete matrices
+T Tao, VH Vu
+Annals of Mathematics, 595-632	222	2009
+The Brascamp–Lieb inequalities: finiteness, structure and extremals
+J Bennett, A Carbery, M Christ, T Tao
+Geometric and Functional Analysis 17 (5), 1343-1415	218	2008
+Norm convergence of multiple ergodic averages for commuting transformations
+T Tao
+Ergodic Theory and Dynamical Systems 28 (2), 657-688	216	2008
+Ill-posedness for nonlinear Schrodinger and wave equations
+M Christ, J Colliander, T Tao
+arXiv preprint math/0311048	216	2003
+A refined global well-posedness result for Schrödinger equations with derivative
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+SIAM Journal on Mathematical Analysis 34 (1), 64-86	213	2002
+Honeycombs and sums of Hermitian matrices
+A Knutson, T Tao
+Notices Amer. Math. Soc 48 (2)	212	2001
+Approximate subgroups of linear groups
+E Breuillard, B Green, T Tao
+Geometric and Functional Analysis 21 (4), 774-819	211	2011
+Sharp well-posedness and ill-posedness results for a quadratic non-linear Schrödinger equation
+I Bejenaru, T Tao
+Journal of functional analysis 233 (1), 228-259	209	2006
+Nonlinear dispersive equations, volume 106 of CBMS Regional Conference Series in Mathematics
+T Tao
+Published for the Conference Board of the Mathematical Sciences, Washington …	209	2006
+Global well-posedness for Schrödinger equations with derivative
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+SIAM Journal on Mathematical Analysis 33 (3), 649-669	206	2001
+Structure and randomness: pages from year one of a mathematical blog
+T Tao
+American Mathematical Society	201	2008
+The structure of approximate groups
+E Breuillard, B Green, T Tao
+Publications mathématiques de l'IHÉS 116, 115-221	199	2012
+Some recent progress on the restriction conjecture
+T Tao
+Fourier analysis and convexity, 217-243	199	2004
+Multi-linear operators given by singular multipliers
+C Muscalu, T Tao, C Thiele
+Journal of the American Mathematical Society 15 (2), 469-496	198	2002
+On the singularity probability of random Bernoulli matrices
+T Tao, V Vu
+Journal of the American Mathematical Society 20 (3), 603-628	197	2007
+A variant of the hypergraph removal lemma
+T Tao
+Journal of combinatorial theory, Series A 113 (7), 1257-1280	195	2006
+Finite time blowup for an averaged three-dimensional Navier-Stokes equation
+T Tao
+Journal of the American Mathematical Society 29 (3), 601-674	192	2016
+Multilinear estimates for periodic KdV equations, and applications
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Journal of Functional Analysis 211 (1), 173-218	189	2004
+The quantitative behaviour of polynomial orbits on nilmanifolds
+B Green, T Tao
+Annals of Mathematics, 465-540	185	2012
+Global regularity of wave maps, I: small critical Sobolev norm in high dimension
+T Tao
+International Mathematics Research Notices 2001 (6), 299-328	173	2001
+On random±1 matrices: singularity and determinant
+T Tao, V Vu
+Random Structures & Algorithms 28 (1), 1-23	168	2006
+Bi-parameter paraproducts
+C Muscalu, J Pipher, T Tao, C Thiele
+Acta Mathematica 193 (2), 269-296	168	2004
+The Bochner-Riesz conjecture implies the restriction conjecture
+T Tao
+Duke mathematical journal 96 (2), 363-375	162	1999
+Random matrices: The distribution of the smallest singular values
+T Tao, V Vu
+Geometric And Functional Analysis 20 (1), 260-297	160	2010
+Stable signal recovery from incomplete and inaccurate measurements
+C Emmanuel, J Romberg, T Tao
+158	2005
+A bilinear approach to cone multipliers II. Applications
+T Tao, A Vargas
+Geometric & Functional Analysis GAFA 10 (1), 216-258	156	2000
+An incidence theorem in higher dimensions
+J Solymosi, T Tao
+Discrete & Computational Geometry 48 (2), 255-280	154	2012
+Global well-posedness and scattering for the defocusing mass-critical nonlinear Schrödinger equation for radial data in high dimensions
+T Tao, M Visan, X Zhang
+Duke Mathematical Journal 140 (1), 165-202	153	2007
+The primes contain arbitrarily long polynomial progressions
+T Tao, T Ziegler
+Acta Mathematica 201 (2), 213-305	150	2008
+Minimal-mass blowup solutions of the mass-critical NLS
+T Tao, M Visan, X Zhang
+Walter de Gruyter GmbH & Co. KG 20 (5), 881-919	148	2008
+A bilinear approach to cone multipliers I. Restriction estimates
+T Tao, A Vargas
+Geometric & Functional Analysis GAFA 10 (1), 185-215	148	2000
+On sets defining few ordinary lines
+B Green, T Tao
+Discrete & Computational Geometry 50 (2), 409-468	143	2013
+Why are solitons stable?
+T Tao
+Bulletin of the American Mathematical Society 46 (1), 1-33	143	2009
+Global well-posedness and scattering for the higher-dimensional energy-critical non-linear Schrodinger equation for radial data
+T Tao
+arXiv preprint math/0402130	142	2004
+From the Littlewood-Offord problem to the circular law: universality of the spectral distribution of random matrices
+T Tao, V Vu
+Bulletin of the American Mathematical Society 46 (3), 377-396	141	2009
+Global well-posedness for KdV in Sobolev spaces of negative index
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+arXiv preprint math/0101261	141	2001
+Hilbert's fifth problem and related topics
+T Tao
+American Mathematical Soc.	140	2014
+Stability of energy-critical nonlinear Schr\" odinger equations in high dimensions
+T Tao, M Visan
+arXiv preprint math/0507005	140	2005
+Random covariance matrices: Universality of local statistics of eigenvalues
+T Tao, V Vu
+The Annals of Probability 40 (3), 1285-1315	139	2012
+Carleson measures, trees, extrapolation, and T (b) theorems
+P Auscher, S Hofmann, C Muscalu, T Tao, C Thiele
+Publicacions matematiques, 257-325	131	2002
+Restriction and Kakeya phenomena for finite fields
+G Mockenhaupt, T Tao
+Duke Mathematical Journal 121 (1), 35-74	129	2004
+Higher order Fourier analysis
+T Tao
+American Mathematical Soc.	128	2012
+A quantitative ergodic theory proof of Szemer\'edi's theorem
+T Tao
+arXiv preprint math/0405251	128	2004
+Local and global well-posedness of wave maps on $\R^{1+ 1} $ for rough data
+M Keel, T Tao
+arXiv preprint math/9807171	128	1998
+Random matrices: universality of local spectral statistics of non-Hermitian matrices
+T Tao, V Vu
+The Annals of Probability 43 (2), 782-874	127	2015
+Analysis
+T Tao
+Hindustan Book Agency	127	2009
+Global regularity for a logarithmically supercritical hyperdissipative Navier–Stokes equation
+T Tao
+Analysis & PDE 2 (3), 361-366	125	2010
+The distribution of polynomials over finite fields, with applications to the Gowers norms
+B Green, T Tao
+arXiv preprint arXiv:0711.3191	125	2007
+Bulk universality for Wigner Hermitian matrices with subexponential decay
+L Erdos, J Ramírez, B Schlein, T Tao, V Vu, HT Yau
+arXiv preprint arXiv:0906.4400	124	2009
+Outliers in the spectrum of iid matrices with bounded rank perturbations
+T Tao
+Probability Theory and Related Fields 155 (1), 231-263	123	2013
+The Fuglede spectral conjecture holds for convex planar domains
+A Iosevich, N Katz, T Tao
+Mathematical Research Letters 10 (5), 559-569	123	2003
+Spherically averaged endpoint Strichartz estimates for the twodimensional Schrödinger equation
+T Tao
+Communications in Partial Differential Equations 25 (7-8), 1471-1485	123	2000
+Some connections between Falconer's distance set conjecture, and sets of Furstenburg type
+NH Katz, T Tao
+arXiv preprint math/0101195	122	2001
+Szemer\'edi's regularity lemma revisited
+T Tao
+arXiv preprint math/0504472	117	2005
+From rotating needles to stability of waves: emerging connections between combinatorics, analysis, and PDE
+T Tao
+Notices Amer. Math. Soc. 48 (3), 294-303	117	2001
+𝐿^{𝑝} improving bounds for averages along curves
+T Tao, J Wright
+Journal of the American Mathematical Society 16 (3), 605-638	115	2003
+Topics in random matrix theory, volume 132 of Graduate Studies in Mathematics
+T Tao
+American Mathematical Society, Providence, RI 3 (1), 3.5	113	2012
+New equidistribution estimates of Zhang type
+W Castryck, É Fouvry, G Harcos, E Kowalski, P Michel, P Nelson, E Paldi, ...
+Algebra & Number Theory 8 (9), 2067-2199	112	2014
+A variation norm Carleson theorem
+T Tao, R Oberlin, A Seeger, C Thiele, J Wright
+Journal of the European Mathematical Society 14 (2), 421-464	112	2012
+An averaged form of Chowla’s conjecture
+K Matomäki, M Radziwiłł, T Tao
+Algebra Number Theory 9 (9), 2167-2196	105	2015
+Random symmetric matrices are almost surely nonsingular
+KP Costello, T Tao, V Vu
+Duke Mathematical Journal 135 (2), 395-413	101	2006
+Endpoint bilinear restriction theorems for the cone, and some sharp null form estimates
+T Tao
+Mathematische Zeitschrift 238 (2), 215-268	101	2001
+What is good mathematics?
+T Tao
+Bulletin of the American Mathematical Society 44 (4), 623-634	99	2007
+Local universality of zeroes of random polynomials
+T Tao, V Vu
+International Mathematics Research Notices 2015 (13), 5053-5139	97	2015
+Smooth analysis of the condition number and the least singular value
+T Tao, V Vu
+Mathematics of computation 79 (272), 2333-2352	97	2010
+The inverse conjecture for the Gowers norm over finite fields via the correspondence principle
+T Tao, T Ziegler
+Analysis & PDE 3 (1), 1-20	97	2010
+Multi-parameter paraproducts
+C Muscalu, J Pipher, T Tao, C Thiele
+Revista Matemática Iberoamericana 22 (3), 963-976	97	2006
+The dichotomy between structure and randomness, arithmetic progressions, and the primes
+T Tao
+arXiv preprint math/0512114	97	2005
+The logarithmically averaged Chowla and Elliott conjectures for two-point correlations
+T Tao
+Forum of Mathematics, Pi 4	95	2016
+An Improved Bound on the Minkowski Dimension of Besicovitch Sets in R3
+NH Katz, I Laba, T Tao
+Annals of Mathematics, 383-446	94	2000
+Testability and repair of hereditary hypergraph properties
+T Austin, T Tao
+Random Structures & Algorithms 36 (4), 373-463	93	2010
+Eigenvectors from eigenvalues: a survey of a basic identity in linear algebra
+P Denton, S Parke, T Tao, X Zhang
+Bulletin of the American Mathematical Society 59 (1), 31-58	92*	2022
+Long gaps between primes
+K Ford, B Green, S Konyagin, J Maynard, T Tao
+Journal of the American Mathematical Society 31 (1), 65-105	92	2018
+A finitary version of Gromov’s polynomial growth theorem
+Y Shalom, T Tao
+Geometric and Functional Analysis 20 (6), 1502-1547	92	2010
+An Inverse Theorem for the Uniformity Seminorms Associated with the Action of 
+V Bergelson, T Tao, T Ziegler
+Geometric and Functional Analysis 19 (6), 1539-1596	92	2010
+Random matrices: universal properties of eigenvectors
+T Tao, V Vu
+Random Matrices: Theory and Applications 1 (01), 1150001	91	2012
+On the asymptotic behavior of large radial data for a focusing non-linear Schr\" odinger equation
+T Tao
+arXiv preprint math/0309428	90	2003
+Poincaré's Legacies, Part II: Pages from Year Two of a Mathematical Blog
+T Tao
+American Mathematical Soc.	89	2009
+L p estimates for the biest II. The Fourier case
+C Muscalu, T Tao, C Thiele
+Mathematische Annalen 329 (3), 427-461	89	2004
+An arithmetic regularity lemma, an associated counting lemma, and applications
+B Green, T Tao
+An irregular mind, 261-334	88	2010
+A singularity removal theorem for Yang-Mills fields in higher dimensions
+T Tao, G Tian
+Journal of the American Mathematical Society 17 (3), 557-593	87	2004
+Resonant decompositions and the I-method for cubic nonlinear Schrodinger on R^ 2
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+arXiv preprint arXiv:0704.2730	86	2007
+Restriction theory of the Selberg sieve, with applications
+B Green, T Tao
+Journal de théorie des nombres de Bordeaux 18 (1), 147-182	86	2006
+Sharp Strichartz estimates on nontrapping asymptotically conic manifolds
+A Hassell, T Tao, J Wunsch
+American Journal of Mathematics 128 (4), 963-1024	86	2006
+New bounds on Kakeya problems
+N Katz, T Tao
+arXiv preprint math/0102135	84	2001
+Van Vu
+T Tao
+Additive combinatorics 105	83	2012
+Operator splitting for the KdV equation
+H Holden, K Karlsen, N Risebro, T Tao
+Mathematics of Computation 80 (274), 821-846	83	2011
+Global regularity of wave maps IV. Absence of stationary or self-similar solutions in the energy class
+T Tao
+arXiv preprint arXiv:0806.3592	83	2008
+Convex bodies with a point of curvature do not have Fourier bases
+A Iosevich, NH Katz, T Tao
+American Journal of Mathematics 123 (1), 115-120	82	2001
+Sumset and inverse sumset theory for Shannon entropy
+T Tao
+Combinatorics, Probability and Computing 19 (4), 603-639	80	2010
+Effective limiting absorption principles, and applications
+I Rodnianski, T Tao
+Communications in Mathematical Physics 333 (1), 1-95	79	2015
+Scattering for the quartic generalised Korteweg–de Vries equation
+T Tao
+Journal of Differential Equations 232 (2), 623-651	79	2007
+Solving mathematical problems: A personal perspective
+T Tao
+OUP Oxford	79	2006
+The inverse conjecture for the Gowers norm over finite fields in low characteristic
+T Tao, T Ziegler
+Annals of Combinatorics 16 (1), 121-188	77	2012
+An epsilon of room, I: real analysis
+T Tao
+American Mathematical Soc.	77	2010
+Quadratic uniformity of the Möbius function
+B Green, T Tao
+Annales de l'Institut Fourier 58 (6), 1863-1935	77	2008
+Bounds on arithmetic projections, and applications to the Kakeya conjecture
+NH Katz, T Tao
+Mathematical Research Letters 6 (6), 625-630	77	1999
+Finite bounds for Hölder-Brascamp-Lieb multilinear inequalities
+J Bennett, A Carbery, M Christ, T Tao
+Mathematical Research Letters 17 (4), 647-666	76	2010
+Random matrices: the universality phenomenon for Wigner ensembles
+T Tao, V Vu
+Modern aspects of random matrix theory 72, 121-172	74	2014
+Global regularity for a logarithmically supercritical defocusing nonlinear wave equation for spherically symmetric data
+T Tao
+Journal of Hyperbolic Differential Equations 4 (02), 259-265	74	2007
+A positive proof of the Littlewood-Richardson rule using the octahedron recurrence
+A Knutson, T Tao, CT Woodward
+arXiv preprint math/0306274	74	2003
+Algebraic combinatorial geometry: the polynomial method in arithmetic combinatorics, incidence combinatorics, and number theory
+T Tao
+EMS Surveys in Mathematical Sciences 1 (1), 1-46	72	2014
+Almost all orbits of the Collatz map attain almost bounded values
+T Tao
+Forum of Mathematics, Pi 10	71	2022
+On the almost everywhere convergence of wavelet summation methods
+T Tao
+Applied and Computational Harmonic Analysis 3 (4), 384-387	71	1996
+Velocity averaging, kinetic formulations, and regularizing effects in quasi‐linear PDEs
+E Tadmor, T Tao
+Communications on Pure and Applied Mathematics: A Journal Issued by the …	68	2007
+Soft analysis, hard analysis, and the finite convergence principle
+T Tao
+Essay posted May 23	68	2007
+A pseudoconformal compactification of the nonlinear Schr\" odinger equation and applications
+T Tao
+arXiv preprint math/0606254	68	2006
+Large gaps between consecutive prime numbers
+K Ford, B Green, S Konyagin, T Tao
+annals of Mathematics, 935-974	67	2016
+Spacetime bounds for the energy-critical nonlinear wave equation in three spatial dimensions
+T Tao
+arXiv preprint math/0601164	66	2006
+A correspondence principle between (hyper) graph theory and probability theory, and the (hyper) graph removal lemma
+T Tao
+Journal d'Analyse Mathématique 103 (1), 1-45	65	2007
+A (concentration-) compact attractor for high-dimensional non-linear Schr\" odinger equations
+T Tao
+arXiv preprint math/0611402	65	2006
+Low regularity semi—linear wave equations
+T Tao
+Communications in partial differential equations 24 (3-4), 599-629	65	1999
+The sum-product phenomenon in arbitrary rings
+T Tao
+arXiv preprint arXiv:0806.2497	64	2008
+Random matrices have simple spectrum
+T Tao, V Vu
+Combinatorica 37 (3), 539-553	63	2017
+Upper and lower bounds for normal derivatives of Dirichlet eigenfunctions
+A Hassell, T Tao
+arXiv preprint math/0202140	63	2002
+The Erdos discrepancy problem
+T Tao
+arXiv preprint arXiv:1509.05363	62	2015
+Every odd number greater than 1 is the sum of at most five primes
+T Tao
+Mathematics of Computation 83 (286), 997-1038	62	2014
+Random martingales and localization of maximal inequalities
+A Naor, T Tao
+Journal of Functional Analysis 259 (3), 731-779	62	2010
+On multilinear oscillatory integrals, nonsingular and singular
+M Christ, X Li, T Tao, C Thiele
+Duke Mathematical Journal 130 (2), 321-351	62	2005
+New bounds for Szemeredi's theorem, II: A new bound for r_4 (N)
+B Green, T Tao
+arXiv preprint math/0610604	61	2006
+The Gaussian primes contain arbitrarily shaped constellations
+T Tao
+Journal d’Analyse Mathématique 99 (1), 109-176	60	2006
+Low-regularity global solutions to nonlinear dispersive equations
+T Tao
+Surveys in analysis and operator theory 40, 19-48	60	2002
+Recent progress on the Kakeya conjecture
+N Katz, T Tao
+arXiv preprint math/0010069	60	2000
+The weak-type (1, 1) of L log L homogeneous convolution operator
+T Tao
+Indiana University Mathematics Journal, 1547-1584	60	1999
+Expansion in finite simple groups of Lie type
+E Breuillard, BJ Green, RM Guralnick, T Tao
+Journal of the European Mathematical Society 17 (6), 1367-1434	59	2015
+The Kakeya set and maximal conjectures for algebraic varieties over finite fields
+JS Ellenberg, R Oberlin, T Tao
+Mathematika 56 (1), 1-25	59	2010
+The condition number of a randomly perturbed matrix
+VH Vu, T Tao
+Proceedings of the thirty-ninth annual ACM symposium on Theory of computing …	59	2007
+Expanding polynomials over finite fields of large characteristic, and a regularity lemma for definable sets
+T Tao
+arXiv preprint arXiv:1211.2894	58	2012
+A sharp inverse Littlewood‐Offord theorem
+T Tao, V Vu
+Random Structures & Algorithms 37 (4), 525-539	58	2010
+Global regularity of wave maps III. Large energy from $\R^{1+ 2} $ to hyperbolic spaces
+T Tao
+arXiv preprint arXiv:0805.4666	58	2008
+The weak-type endpoint Bochner-Riesz conjecture and related topics
+T Tao
+Indiana University mathematics journal, 1097-1124	58	1998
+The structure of logarithmically averaged correlations of multiplicative functions, with applications to the Chowla and Elliott conjectures
+T Tao, J Teräväinen
+Duke Mathematical Journal 168 (11), 1977-2027	57	2019
+A priori bounds and weak solutions for the nonlinear Schrödinger equation in Sobolev spaces of negative order
+M Christ, J Colliander, T Tao
+Journal of Functional Analysis 254 (2), 368-395	57	2008
+Insights from SMPY's greatest former child prodigies: Drs. Terence (“Terry”) Tao and Lenhard (“Lenny”) Ng reflect on their talent development
+MC Muratori, JC Stanley, L Ng, J Ng, MUM Gross, T Tao, B Tao
+Gifted Child Quarterly 50 (4), 307-324	57	2006
+A central limit theorem for the determinant of a Wigner matrix
+T Tao, V Vu
+Advances in Mathematics 231 (1), 74-101	56	2012
+An Epsilon of Room, II: pages from year three of a mathematical blog
+T Tao
+American Mathematical Society	56	2010
+Breaking the duality in the return times theorem
+C Demeter, MT Lacey, T Tao, C Thiele
+Duke Mathematical Journal 143 (2), 281-355	56	2008
+Local well-posedness of the Yang–Mills equation in the temporal gauge below the energy norm
+T Tao
+Journal of Differential Equations 189 (2), 366-382	56	2003
+Global regularity for the Maxwell-Klein-Gordon equation with small critical Sobolev norm in high dimensions
+I Rodnianski, T Tao
+Communications in mathematical physics 251 (2), 377-426	55	2004
+Endpoint Strichartz inequalities
+M Keel, T Tao
+Amer. J. Math 120, 955-980	55	1998
+L p estimates for the biest I. The Walsh case
+C Muscalu, T Tao, C Thiele
+Mathematische Annalen 329 (3), 401-426	54	2004
+Small data blow-up for semilinear Klein-Gordon equations
+M Keel, T Tao
+American journal of Mathematics 121 (3), 629-669	54	1999
+Maximal multilinear operators
+C Demeter, T Tao, C Thiele
+Transactions of the American Mathematical Society 360 (9), 4989-5042	53	2008
+On the maximal Bochner-Riesz conjecture in the plane for 𝑝< 2
+T Tao
+Transactions of the American Mathematical Society 354 (5), 1947-1959	53	2002
+A counterexample to a multilinear endpoint question of Christ and Kiselev
+C Muscalu, T Tao, C Thiele
+arXiv preprint math/0108156	53	2001
+An inverse theorem for the Gowers U4-norm
+B Green, T Tao, T Ziegler
+Glasgow Mathematical Journal 53 (1), 1-50	52	2011
+A Strichartz inequality for the Schrödinger equation on nontrapping asymptotically conic manifolds
+A Hassell, T Tao, J Wunsch
+Communications in Partial Difference Equations 30 (1-2), 157-205	52	2005
+Geometric renormalization of large energy wave maps
+T Tao
+Journées équations aux dérivées partielles, 1-32	52	2004
+Counting the number of solutions to the Erdős–Straus equation on unit fractions
+C Elsholtz, T Tao
+Journal of the Australian Mathematical Society 94 (1), 50-105	51	2013
+Freiman's theorem in finite fields via extremal set theory
+B Green, T Tao
+Combinatorics, Probability and Computing 18 (3), 335-355	51	2009
+Structure and randomness in combinatorics
+T Tao
+48th Annual IEEE Symposium on Foundations of Computer Science (FOCS'07), 3-15	50	2007
+Freiman's theorem for solvable groups
+T Tao
+arXiv preprint arXiv:0906.3535	49	2009
+Sharp Lorentz space estimates for rough operators
+A Seeger, T Tao
+Mathematische Annalen 320 (2), 381-415	49	2001
+Expansion in finite simple groups of Lie type
+T Tao
+American Mathematical Soc.	48	2015
+Localisation and compactness properties of the Navier–Stokes global regularity problem
+T Tao
+Analysis & PDE 6 (1), 25-107	47	2013
+Compactness and contradiction
+T Tao
+American Mathematical Society	47	2013
+Equivalence of the logarithmically averaged Chowla and Sarnak conjectures
+T Tao
+Number theory–Diophantine problems, uniform distribution and applications …	46	2017
+Suzuki groups as expanders
+E Breuillard, BJ Green, T Tao
+Groups, Geometry, and Dynamics 5 (2), 281-299	46	2011
+Nonlinear Fourier analysis
+T Tao, C Thiele
+arXiv preprint arXiv:1201.5129	44	2012
+The Wigner-Dyson-Mehta bulk universality conjecture for Wigner matrices
+T Tao, V Vu
+Electronic Journal of Probability 16, 2104-2121	44	2011
+Instability of the periodic nonlinear Schrodinger equation
+M Christ, J Colliander, T Tao
+arXiv preprint math/0311227	44	2003
+Strongly dense free subgroups of semisimple algebraic groups
+E Breuillard, B Green, R Guralnick, T Tao
+Israel Journal of Mathematics 192 (1), 347-379	43	2012
+Random matrices: tail bounds for gaps between eigenvalues
+H Nguyen, T Tao, V Vu
+Probability Theory and Related Fields 167 (3), 777-816	42	2017
+Compressions, convex geometry and the Freiman–Bilu theorem
+B Green, T Tao
+Quarterly Journal of Mathematics 57 (4), 495-504	42	2006
+A Carleson type theorem for a Cantor group model of the scattering transform
+C Muscalu, T Tao, C Thiele
+Nonlinearity 16 (1), 219	42	2002
+Gas-kinetic schemes for the compressible Euler equations: positivity-preserving analysis
+T Tao, K Xu
+Zeitschrift für angewandte Mathematik und Physik ZAMP 50 (2), 258-281	42	1999
+Multiple recurrence in quasirandom groups
+V Bergelson, T Tao
+Geometric and Functional Analysis 24 (1), 1-48	41	2014
+Deterministic methods to find primes
+T Tao, E Croot III, H Helfgott
+Mathematics of Computation 81 (278), 1233-1246	41	2012
+Global regularity of wave maps VII. Control of delocalised or dispersed solutions
+T Tao
+arXiv preprint arXiv:0908.0776	41	2009
+Classification of almost quarter-pinched manifolds
+P Petersen, T Tao
+Proceedings of the American Mathematical Society, 2437-2440	41	2009
+John-type theorems for generalized arithmetic progressions and iterated sumsets
+T Tao, V Vu
+Advances in Mathematics 219 (2), 428-449	40	2008
+Longtime decay estimates for the Schrödinger equation on manifolds
+I Rodnianski, T Tao
+Mathematical aspects of nonlinear dispersive equations 163, 223-253	40	2007
+Multilinear interpolation between adjoint operators
+L Grafakos, T Tao
+Journal of Functional Analysis 199 (2), 379-385	40	2003
+Endpoint multiplier theorems of Marcinkiewicz type
+T Tao, J Wright
+Revista Matemática Iberoamericana 17 (3), 521-558	40	2001
+The ergodic and combinatorial approaches to Szemer\'edi's theorem
+T Tao
+arXiv preprint math/0604456	39	2006
+The bi-Carleson operator
+C Muscalu, T Tao, C Thiele
+Geometric & Functional Analysis GAFA 16 (1), 230-277	39	2006
+L p bounds for a maximal dyadic sum operator
+L Grafakos, T Tao, E Terwilleger
+Mathematische Zeitschrift 246 (1), 321-337	39	2004
+Polynomial upper bounds for the orbital instability of the 1D cubic NLS below the energy norm
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+arXiv preprint math/0206218	38	2002
+Sign patterns of the Liouville and Möbius functions
+K Matomäki, M Radziwiłł, T Tao
+Forum of Mathematics, Sigma 4	37	2016
+Random matrices: Sharp concentration of eigenvalues
+T Tao, V Vu
+Random Matrices: Theory and Applications 2 (03), 1350007	37	2013
+Large values of the Gowers-Host-Kra seminorms
+T Eisner, T Tao
+Journal d'analyse mathématique 117 (1), 133-186	37	2012
+Local and global analysis of nonlinear dispersive and wave equations
+T Tao
+American Mathematical Society	37	2006
+Endpoint mapping properties of spherical maximal operators
+A Seeger, T Tao, J Wright
+Journal of the Institute of Mathematics of Jussieu 2 (1), 109-144	37	2003
+The de Bruijn–Newman constant is non-negative
+B Rodgers, T Tao
+Forum of Mathematics, Pi 8	36	2020
+New bounds for Szemerédi's theorem, I: progressions of length 4 in finite field geometries
+B Green, T Tao
+Proceedings of the London Mathematical Society 98 (2), 365-392	36	2009
+Symplectic nonsqueezing of the Korteweg-de Vries flow
+J Colliander, G Staffilani, M Keel, H Takaoka, T Tao
+Acta Mathematica 195 (2), 197-252	36	2005
+Singular maximal functions and Radon transforms near L1
+A Seeger, T Tao, J Wright
+American Journal of Mathematics 126 (3), 607-647	35	2004
+Uniform estimates on multi-linear operators with modulation symmetry
+C Muscalu, T Tao, C Thiele
+Journal d’Analyse Mathématique 88 (1), 255-309	35	2002
+An equivalence between inverse sumset theorems and inverse conjectures for the U3 norm
+B Green, T Tao
+Mathematical Proceedings of the Cambridge Philosophical Society 149 (1), 1-19	34	2010
+An improved bound for the Minkowski dimension of Besicovitch sets in medium dimension
+I Laba, T Tao
+Geometric & Functional Analysis GAFA 11 (4), 773-806	34	2001
+A quantitative version of the Besicovitch projection theorem via multiscale analysis
+T Tao
+Proceedings of the London Mathematical Society 98 (3), 559-584	33	2009
+On the permanent of random Bernoulli matrices
+T Tao, V Vu
+Advances in Mathematics 220 (3), 657-669	33	2009
+Weak-type endpoint bounds for Riesz means
+T Tao
+Proceedings of the American Mathematical Society 124 (9), 2797-2805	31	1996
+Correlations of the von Mangoldt and higher divisor functions I. Long shift ranges
+K Matomäki, M Radziwiłł, T Tao
+Proceedings of the London Mathematical Society 118 (2), 284-350	30	2019
+A global compact attractor for high-dimensional defocusing non-linear Schr\" odinger equations with potential
+T Tao
+arXiv preprint arXiv:0805.1544	30	2008
+The weak-type (1,1) of Fourier integral operators of order –(n–1)/2
+T Tao
+Journal of the Australian Mathematical Society 76 (1), 1-22	30	2004
+Ill-posedness for one-dimensional wave maps at the critical regularity
+T Tao
+American Journal of Mathematics 122 (3), 451-463	30	2000
+Finite time blowup for Lagrangian modifications of the three-dimensional Euler equation
+T Tao
+Annals of PDE 2 (2), 1-79	29	2016
+A converse extrapolation theorem for translation invariant operators
+T Tao
+arXiv preprint math/9912001	29	1999
+Odd order cases of the logarithmically averaged Chowla conjecture
+T Tao, J Teräväinen
+Journal de Théorie des Nombres de Bordeaux 30 (3), 997-1015	28	2018
+Global well-posedness of the Maxwell-Klein-Gordon equation below the energy norm
+M Keel, T Roy, T Tao
+Discrete & Continuous Dynamical Systems 30 (3), 573	28	2011
+Arithmetic progressions and the primes
+T Tao
+Collectanea Mathematica, 37-88	28	2006
+Pointwise convergence of spherical means
+A Seeger, S Wainger, J Wright
+Mathematical Proceedings of the Cambridge Philosophical Society 118 (1), 115-124	28	1995
+On the universality of the incompressible Euler equation on compact manifolds
+T Tao
+arXiv preprint arXiv:1707.07807	27	2017
+An integration approach to the Toeplitz square peg problem
+T Tao
+Forum of Mathematics, Sigma 5	27	2017
+The asymptotic distribution of a single eigenvalue gap of a Wigner matrix
+T Tao
+Probability Theory and Related Fields 157 (1), 81-106	27	2013
+An introduction to measure theory, volume 126 of Graduate Studies in Mathematics
+T Tao
+American Mathematical Society, Providence, RI 6	27	2011
+Global regularity of wave maps V. Large data local wellposedness and perturbation theory in the energy class
+T Tao
+arXiv preprint arXiv:0808.0368	27*	2008
+Perelman's proof of the Poincar\'e conjecture: a nonlinear PDE perspective
+T Tao
+arXiv preprint math/0610903	27	2006
+Two remarks on the generalised Korteweg de-Vries equation
+T Tao
+arXiv preprint math/0606236	27	2006
+Almost everywhere behavior of general wavelet shrinkage operators
+T Tao, B Vidakovic
+Applied and Computational Harmonic Analysis 9 (1), 72-82	27	2000
+Quantitative bounds for critically bounded solutions to the Navier-Stokes equations
+T Tao
+arXiv preprint arXiv:1908.04958	26	2019
+A note on the Freiman and Balog–Szemerédi–Gowers theorems in finite fields
+B Green, T Tao
+Journal of the Australian Mathematical Society 86 (1), 61-74	26	2009
+Near-optimal signal recovery from random projections and universal encoding strategies. submitted to IEEE Trans
+EJ Candes, T Tao
+Inform. Theory, November	26	2004
+Sharp global well-posedness for periodic and nonperiodic KdV and mKdV
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+J. Amer. Math. Soc 16, 705-749	26	2003
+Linear approximate groups
+E Breuillard, B Green, T Tao
+arXiv preprint arXiv:1001.4570	25	2010
+Global regularity of wave maps VI. Abstract theory of minimal-energy blowup solutions
+T Tao
+arXiv preprint arXiv:0906.2833	25	2009
+Polynomial patterns in the primes
+T Tao, T Ziegler
+Forum of Mathematics, Pi 6	23	2018
+NEW BOUNDS FOR SZEMERÉDI'S THEOREM, III: A POLYLOGARITHMIC BOUND FOR
+B Green, T Tao
+Mathematika 63 (3), 944-1040	23	2017
+The Littlewood-Offord problem in high dimensions and a conjecture of Frankl and Füredi
+T Tao, V Vu
+Combinatorica 32 (3), 363-372	23	2012
+A remark on primality testing and decimal expansions
+T Tao
+Journal of the Australian Mathematical Society 91 (3), 405-413	23	2011
+A remark on partial sums involving the Möbius function
+T Tao
+Bulletin of the Australian Mathematical Society 81 (2), 343-349	23	2010
+Rejoinder: The Dantzig selector: Statistical estimation when  is much larger than 
+E Candes, T Tao
+arXiv preprint arXiv:0803.3136	23	2008
+The quantitative behaviour of polynomial orbits on nilmanifolds
+B Green, T Tao
+arXiv preprint arXiv:0709.3562	23	2007
+On the universality of potential well dynamics
+T Tao
+arXiv preprint arXiv:1707.02389	22	2017
+Concatenation theorems for anti-Gowers-uniform functions and Host-Kra characteristic factors
+T Tao, T Ziegler
+arXiv preprint arXiv:1603.07815	22	2016
+Asymptotic decay for a one-dimensional nonlinear wave equation
+H Lindblad, T Tao
+Analysis & PDE 5 (2), 411-422	22	2012
+Nonconventional ergodic averages and multiple recurrence for von Neumann dynamical systems
+T Austin, T Eisner, T Tao
+Pacific journal of mathematics 250 (1), 1-60	22	2011
+Stable signal recovery from imcomplete and inaccurate information
+E Candes, J Romberg, T Tao
+Commun. Pure Appl. Math 59, 1207-1233	22	2005
+A physical space approach to wave equation bilinear estimates
+S Klainerman, I Rodnianski, T Tao
+Journal d'Analyse Mathématique 87 (1), 299-336	22	2002
+Existence globale et diffusion pour l’équation de Schrödinger non linéaire répulsive cubique sur  en dessous l’espace d’énergie
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Journées équations aux dérivées partielles, 1-15	22	2002
+An x-ray transform estimate in Rn
+I Laba, T Tao, X An
+Revista matemática iberoamericana 17 (2), 375-408	22	2001
+Searching for singularities in the Navier–Stokes equations
+T Tao
+Nature Reviews Physics 1 (7), 418-419	21	2019
+Random matrices: Localization of the eigenvalues and the necessity of four moments
+T Tao, V Vu
+arXiv preprint arXiv:1005.2901	21	2010
+Correlations of the von Mangoldt and higher divisor functions II: divisor correlations in short ranges
+K Matomäki, M Radziwiłł, T Tao
+Mathematische Annalen 374 (1), 793-840	20	2019
+Small doubling in groups
+E Breuillard, B Green, T Tao
+Erdős Centennial, 129-151	19	2013
+Scale-oblivious metric fragmentation and the nonlinear Dvoretzky theorem
+A Naor, T Tao
+Israel Journal of Mathematics 192 (1), 489-504	19	2012
+Multi-linear multipliers associated to simplexes of arbitrary length
+C Muscalu, T Tao, C Thiele
+arXiv preprint arXiv:0712.2420	19	2007
+A counterexample to an endpoint bilinear Strichartz inequality
+T Tao
+arXiv preprint math/0609849	19	2006
+A new bound for finite field Besicovitch sets in four dimensions
+T Tao
+Pacific journal of mathematics 222 (2), 337-363	19	2005
+A discrete model for the bi-Carleson operator
+C Muscalu, T Tao, C Thiele
+Geometric & Functional Analysis GAFA 12 (6), 1324-1364	19	2002
+Cancellation for the multilinear Hilbert transform
+T Tao
+Collectanea mathematica 67 (2), 191-206	18	2016
+Global behaviour of nonlinear dispersive and wave equations
+T Tao
+Current developments in mathematics 2006, 255-340	18	2008
+Multiple recurrence and convergence results associated to  -actions
+V Bergelson, T Tao, T Ziegler
+Journal d'Analyse Mathématique 127 (1), 329-378	17	2015
+A multi-dimensional Szemerédi theorem for the primes via a correspondence principle
+T Tao, T Ziegler
+Israel Journal of mathematics 207 (1), 203-228	17	2015
+Structure and randomness in the prime numbers
+T Tao
+An Invitation to Mathematics, 1-7	17	2011
+Obstructions to uniformity, and arithmetic patterns in the primes
+T Tao
+arXiv preprint math/0505402	17	2005
+On the universality of the incompressible Euler equation on compact manifolds, II. Non-rigidity of Euler flows
+T Tao
+arXiv preprint arXiv:1902.06313	16	2019
+Some remarks on the lonely runner conjecture
+T Tao
+arXiv preprint arXiv:1701.02048	16	2017
+Random matrices: the four moment theorem for Wigner ensembles
+T Tao, V Vu
+arXiv preprint arXiv:1112.1976	16	2011
+Erratum for “Upper and lower bounds for normal derivatives of Dirichlet eigenfunctions”
+A Hassel, T Tao
+Math. Res. Lett 17 (4), 793-794	16	2010
+Global existence and uniqueness results for weak solutions of the focusing mass-critical nonlinear Schrödinger equation
+T Tao
+Analysis & PDE 2 (1), 61-81	16	2009
+Polynomial upper bounds for the instability of the Nonlinear Schr\" odinger equation below the energy norm
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+arXiv preprint math/0212113	16	2002
+Uniform estimates on paraproducts
+C Muscalu, T Tao, C Thiele
+arXiv preprint math/0106092	16	2001
+Convex bodies with a point of curvature do not admit exponential bases
+A Iosevich, N Katz, T Tao
+Amer. J. Math 123 (1), 115-120	16	2001
+Global well-posedness for large data for the Maxwell-Klein-Gordon equation below the energy norm
+M Keel, T Tao
+preprint	16	2000
+Finite-time blowup for a supercritical defocusing nonlinear wave system
+T Tao
+Analysis & PDE 9 (8), 1999-2030	15	2016
+Sumfree sets in groups: a survey
+T Tao, V Vu
+arXiv preprint arXiv:1603.03071	15	2016
+Yet another proof of Szemeredi's theorem
+B Green, T Tao
+An irregular mind, 335-342	15	2010
+University of California
+T Tao
+Santa Cruz, USA, tao@ soe. ucsc. edu	15	2009
+A quantitative formulation of the global regularity problem for the periodic Navier-Stokes equation
+T Tao
+arXiv preprint arXiv:0710.1604	15	2007
+Finite bounds for Holder-Brascamp-Lieb multilinear inequalities
+J Bennett, A Carbery, M Christ, T Tao
+arXiv preprint math/0505691	15	2005
+Relative efficiencies of kernel and local likelihood density estimators
+P Hall, T Tao
+Journal of the Royal Statistical Society: Series B (Statistical Methodology …	15	2002
+On the sign patterns of entrywise positivity preservers in fixed dimension
+A Khare, T Tao
+American Journal of Mathematics 143 (6), 1863-1929	14	2021
+The structure of correlations of multiplicative functions at almost all scales, with applications to the Chowla and Elliott conjectures
+T Tao, J Teräväinen
+Algebra & Number Theory 13 (9), 2103-2150	14	2019
+Analysis II, Texts and Readings in Mathematics
+T Tao
+Springer	14	2015
+An inverse theorem for the Gowers -norm
+B Green, T Tao, T Ziegler
+Electronic Research Announcements 18, 69	14	2011
+Global well-posedness of the Maxwell-Klein-Gordon equation below the energy norm
+M Keel, T Roy, T Tao
+arXiv preprint arXiv:0910.1850	14	2009
+Global well-posedness and scattering for the mass-critical nonlinear Schr\" odinger equation for radial data in high dimensions
+T Tao, M Visan, X Zhang
+arXiv preprint math/0609692	14	2006
+Lecture notes 4 for 247A
+T Tao
+URL http://www. math. ucla. edu/~ tao/247a 1	14	2004
+Global well-posedness and scattering in the energy space for the critical nonlinear Schrodinger equation in R3, to appear
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Annals Math	14	
+Fourier uniformity of bounded multiplicative functions in short intervals on average
+K Matomäki, M Radziwiłł, T Tao
+Inventiones mathematicae 220 (1), 1-58	13	2020
+Inverse theorems for sets and measures of polynomial growth
+T Tao
+The Quarterly Journal of Mathematics 68 (1), 13-57	13	2017
+Sum-avoiding sets in groups
+T Tao, V Vu
+arXiv preprint arXiv:1603.03068	13	2016
+The Elliott–Halberstam conjecture implies the Vinogradov least quadratic nonresidue conjecture
+T Tao
+Algebra & Number Theory 9 (4), 1005-1034	13	2015
+A nilpotent Freiman dimension lemma
+E Breuillard, B Green, T Tao
+European Journal of Combinatorics 34 (8), 1287-1292	13	2013
+Noncommutative sets of small doubling
+T Tao
+European Journal of Combinatorics 34 (8), 1459-1465	13	2013
+Mixing for progressions in nonabelian groups
+T Tao
+Forum of Mathematics, Sigma 1	13	2013
+E pluribus unum: From Complexity, Universality
+T Tao
+Daedalus 141 (3), 23-34	13	2012
+Ricci flow
+T Tao
+Technical report, Department of Mathematics, UCLA	13	2008
+Narrow progressions in the primes
+T Tao, T Ziegler
+Analytic Number Theory, 357-379	12	2015
+An inverse theorem for the bilinear  Strichartz estimate for the wave equation
+T Tao
+arXiv preprint arXiv:0904.2880	12	2009
+Weakly turbulent solutions for the cubic defocusing nonlinear Schr\" odinger equation
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+arXiv preprint arXiv:0808.1742	12	2008
+Stable Signal Recovery from Incomplete and Inaccurate Measurements arXiv: math/0503066v2 [math. NA] 7 Dec 2005
+E Candes, J Romberg, T Tao
+Science 40698, 1-15	12	2005
+Scattering for the 3D cubic NLS below the energy norm
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Comm. Pure Appl. Math 57, 987-1014	12	2004
+Sendov's conjecture for sufficiently high degree polynomials
+T Tao
+arXiv preprint arXiv:2012.04125	11	2020
+An inverse theorem for an inequality of Kneser
+T Tao
+Proceedings of the Steklov Institute of Mathematics 303 (1), 193-219	11	2018
+Failure of the pointwise and maximal ergodic theorems for the free group
+T Tao
+Forum of Mathematics, Sigma 3	11	2015
+Velocity averaging, kinetic formulations, and regularizing effects in quasi-linear partial differential equations
+T Tao, E Tadmor
+Comm. Pure Appl. Math 60, 1488-1521	11	2007
+Large prime gaps and probabilistic models
+W Banks, K Ford, T Tao
+arXiv preprint arXiv:1908.08613	10	2019
+On the sign patterns of entrywise positivity preservers in fixed dimension
+A Khare, T Tao
+arXiv preprint arXiv:1708.05197	10	2017
+A bound on partitioning clusters
+D Kane, T Tao
+arXiv preprint arXiv:1702.00912	10	2017
+On the quantitative distribution of polynomial nilsequences—erratum
+B Green, T Tao
+Annals of Mathematics, 1175-1183	10	2014
+Spending symmetry
+T Tao
+American Mathematical Society, Providence, RI	10	2012
+Multilinear estimates for periodic KdV equations, and applications, to appear
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+J. Funct. Anal	10	2002
+Some light on Littlewood–Paley theory
+M Cowling, T Tao
+Mathematische annalen 321 (4), 885-888	10	2001
+Fuglede conjecture holds for convex planar domains
+A Iosevich, N Katz, T Tao
+arXiv preprint math/0104087	10	2001
+Caltech
+E Cand‘es, J Romberg, T Tao
+L1-magic: http://www. acm. caltech. edu/l1magic/# links	9	2018
+Co je dobrá matematika?
+T Tao
+Pokroky matematiky, fyziky a astronomie 53 (1), 22-35	9	2008
+Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information, to appear
+EJ Candes, J Romberg, T Tao
+IEEE Inf. Theory	9	2004
+Viriel
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Morawetz, and interaction Morawetz inequalities	9	2004
+Sharp multi-linear periodic KdV estimates and applications
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+J. Funct. Anal 211, 173-218	9	2004
+Local and global well-posedness for non-linear dispersive and wave equations
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Web site, http://www. math. ucla. edu/∼ tao/Dispersive	9	
+Pointwise ergodic theorems for non-conventional bilinear polynomial averages
+B Krause, M Mirek, T Tao
+Annals of Mathematics 195 (3), 997-1109	8	2022
+Exploring the toolkit of Jean Bourgain
+T Tao
+Bulletin of the American Mathematical Society 58 (2), 155-171	8	2021
+Sharp bounds for multilinear curved Kakeya, restriction and oscillatory integral estimates away from the endpoint
+T Tao
+Mathematika 66 (2), 517-576	8	2020
+Homogeneous length functions on groups
+T Fritz, S Gadgil, A Khare, P Nielsen, L Silberman, T Tao
+Algebra & Number Theory 12 (7), 1773-1786	8	2018
+An inverse theorem for the Gowers U^{s+ 1}[N]-norm (announcement)
+B Green, T Tao, T Ziegler
+arXiv preprint arXiv:1006.0205	8	2010
+Random matrices: A general approach for the least singular value problem
+T Tao, V Vu
+preprint	8	2008
+Differential forms and integration
+T Tao
+Tech Rep Dep Math UCLA	8	2007
+Polynomial growth and orbital instability bounds for L^ 2-subcritical NLS below the energy norm
+J Colliander
+Commun. Pure Appl. Math. 2, 33-50	8	2003
+Convolution operators generated by right-monogenic and harmonic kernels
+TCS Tao
+Flinders University of S. Aust.	8	1992
+Finite field analogues of the Erdos, Falconer, and Furstenburg problems
+T Tao
+preprint	8	
+Global regularity of wave maps II. Small energy in two dimensions, submitted
+T Tao
+Comm. Math. Phys	8	
+The structure of translational tilings in 
+R Greenfeld, T Tao
+arXiv preprint arXiv:2010.03254	7	2020
+Chains of large gaps between primes
+K Ford, J Maynard, T Tao
+Irregularities in the Distribution of Prime Numbers, 1-21	7	2018
+Finite time blowup for a supercritical defocusing nonlinear Schrödinger system
+T Tao
+Analysis & PDE 11 (2), 383-438	7	2017
+New bounds for Szemeredi's theorem, Ia: Progressions of length 4 in finite field geometries revisited
+B Green, T Tao
+arXiv preprint arXiv:1205.1330	7	2012
+Smooth analysis of the condition number and the least singular value
+T Tao, V Vu
+Approximation, Randomization, and Combinatorial Optimization. Algorithms and …	7	2009
+The Walsh model for  Carleson
+C Demeter, MT Lacey, T Tao, C Thiele
+Revista Matemática Iberoamericana 24 (3), 721-744	7	2008
+When are eigenvalues stable
+T Tao
+blog post), https://terrytao. wordpress. com/2008/10/28/whenare-eigenvalues …	7	2008
+Concentration compactness and the profile decomposition
+T Tao
+What’s new (blog entry)	7	2008
+Phase space
+T Tao
+The Princeton Companion to Mathematics	7	2008
+Viriel, Morawetz, and interaction Morawetz inequalities
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Notes	7	2006
+Sharp global well-posedness for KdV and modified KdV on $\mathbfR $ and $\mathbfT$
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+J. Amer. Math. Soc 16, 705-749	7	2003
+Lp estimates for the biest I
+C Muscalu, T Tao, C Thiele
+The Walsh case	7	2001
+Apiary views of the Berenstein-Zelevinsky polytope, and Klyachko’s saturation conjecture
+A Knutson, T Tao
+preprint	7	1998
+Convolution operators on Lipschitz graphs with harmonic kernels
+TC Tao
+Advances in Applied Clifford Algebras 6, 207-218	7	1996
+themo
+G Green
+7	1945
+The Ionescu–Wainger multiplier theorem and the adeles
+T Tao
+Mathematika 67 (3), 647-677	6	2021
+Wave maps
+T Tao
+UCLA, Los Angeles, CA, USA	6	2012
+A note on approximate subgroups of GL_n (C) and uniformly nonamenable groups
+E Breuillard, B Green, T Tao
+arXiv preprint arXiv:1101.2552	6	2011
+A physical space proof of the bilinear Strichartz and local smoothing estimates for the Schrödinger equation
+T Tao
+UTN-FRA, Buenos Aires	6	2010
+Santalo’s inequality
+T Tao
+Department of Mathematics, University of Los Angeles. The article was …	6	2010
+Szemerédi's Theorem
+BJ Green, T Tao
+Scholarpedia 2 (7), 3446	6	2007
+Long arithmetic progressions in the primes
+T Tao
+Australian mathematical society meeting 26	6	2006
+Ill-posedness for nonlinear Schrödinger and wave equations, archived as
+M Christ, J Colliander, T Tao
+arXiv preprint math.AP/0311048	6	2003
+An ergodic transference theorem
+T Tao
+Unpublished notes. Available at http://www. math. ucla. edu/∼ tao/preprints …	6	
+Near optimal recovery from random projections: universal encoding strategies
+E Candes, T Tao
+preprint	6	
+On the singularity probability of random Bernoulli matrices, to appear in J
+T Tao, V Vu
+Amer. Math. Soc	6	
+Recent progress in additive prime number theory
+T Tao, ML Series
+6	
+An uncountable Moore–Schmidt theorem
+A Jamneshan, T Tao
+Ergodic Theory and Dynamical Systems, 1-28	5	2022
+Foundational aspects of uncountable measure theory: Gelfand duality, Riesz representation, canonical models, and canonical disintegration
+A Jamneshan, T Tao
+arXiv preprint arXiv:2010.00681	5	2020
+Szemerédi’s proof of Szemerédi’s theorem
+T Tao
+Acta Mathematica Hungarica 161 (2), 443-487	5	2020
+Analysis. I, volume 37 of Texts and Readings in Mathematics
+T Tao
+Hindustan Book Agency, New Delhi,	5	2014
+Computer-implemented method for correcting transmission errors using linear programming
+E Candes, T Tao
+US Patent 8,413,019	5	2013
+Erratum to “The primes contain arbitrarily long polynomial progressions”
+T Tao, T Ziegler
+Acta Mathematica 210 (2), 403-404	5	2013
+Lecture notes 1 for 254a
+T Tao
+Univ. Calif. Los Angeles, http://www. math. ucla. edu/∼ tao/254a 1	5	2010
+Compressed sensing
+T Tao, ML Series
+University of California	5	2009
+Compactness and compactification
+T Tao
+The Princeton Companion to Mathematics, 167-169	5	2008
+The T (b) theorem and its variants
+T Tao
+Proc. Centre Mathematics and Its Applications 41, 143-160	5	2003
+Bochner-Riesz summability for analytic functions on the m-complex unit sphere and for cylindrically symmetric functions on R^{n-1} times R
+A Sikora, T Tao
+arXiv preprint math/0207225	5	2002
+A sharp bilinear restriction estimate for elliptic surfaces
+T Tao
+5	2002
+Sharp global well-posedness for KdV and modified KdV on
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+R and T	5	2001
+Global well-posedness for nonlinear wave equations below the energy norm
+M Keel, T Tao
+preprint	5	2001
+Endpoint Strichartz estimates
+T Tao, MA Keel
+American journal of mathematics 120 (5), 955-980	5	1998
+Recent progress on the restriction conjecture (2003)
+T Tao
+URL: http://arxiv. org/abs/math/0311181 (дата обращения: 27.09. 2014)	5	
+A short proof of the coifman-meyer multilinear theorem
+C Muscalu, J Pipher, T Tao, C Thiele
+Non published	5	
+Quantitative bounds for Gowers uniformity of the M\" obius and von Mangoldt functions
+T Tao, J Teräväinen
+arXiv preprint arXiv:2107.02158	4	2021
+An uncountable Mackey-Zimmer theorem
+A Jamneshan, T Tao
+arXiv preprint arXiv:2010.00574	4	2020
+Value patterns of multiplicative functions and related sequences
+T Tao, J Teräväinen
+Forum of Mathematics, Sigma 7	4	2019
+Commutators close to the identity
+T Tao
+arXiv preprint arXiv:1805.11131	4	2018
+Schur polynomials, entrywise positivity preservers, and weak majorization
+A Khare, T Tao
+Sém. Lothar. Combin. 80	4	2018
+Fourier transform
+A Das
+Signal Conditioning, 51-76	4	2012
+Random matrices: universality of eigenvectors
+T Tao, V Vu
+4	2011
+The high exponent limit p→∞ for the one-dimensional nonlinear wave equation
+T Tao
+Analysis & PDE 2 (2), 235-259	4	2009
+The honeycomb model of Berenstein-Zelevensky polytope I. Klyachko saturation conjecture
+A Knutson, T Tao
+J. Amer. Math. Soc	4	2008
+SU(2) nonlinear Fourier transform
+YJ Tsai
+University of California, Los Angeles	4	2005
+Fuglede’s conjecture for convex bodies in the plane
+A Iosevich, N Katz, T Tao
+Amer. J. Math 123, 115-120	4	2001
+A short proof of the Coifman-Meyer paraproduct theorem
+C Muscalu, J Pipher, T Tao, C Thiele
+Preprint, available at http://www. math. brown. edu jpipher/trilogy1. pdf	4	
+Arrow’s theorem
+T Tao
+4	
+Perfectly packing a square by squares of nearly harmonic sidelength
+T Tao
+arXiv preprint arXiv:2202.03594	3	2022
+The Hardy--Littlewood--Chowla conjecture in the presence of a Siegel zero
+T Tao, J Teräväinen
+arXiv preprint arXiv:2109.06291	3	2021
+The effective potential of an M-matrix
+M Filoche, S Mayboroda, T Tao
+Journal of Mathematical Physics 62 (4), 041902	3	2021
+Zarankiewicz’s problem for semilinear hypergraphs
+A Basit, A Chernikov, S Starchenko, T Tao, CM Tran
+Forum of Mathematics, Sigma 9	3	2021
+Higher uniformity of bounded multiplicative functions in short intervals on average
+K Matomäki, M Radziwiłł, T Tao, J Teräväinen, T Ziegler
+arXiv preprint arXiv:2007.15644	3	2020
+Random matrices
+P Deift, V Vu, T Tao, P Wood, I Dumitriu, L Tran, J Silverstein, B Schlein
+American Mathematical Society	3	2019
+Least singular value, circular law, and Lindeberg exchange
+T Tao
+Preprint http://helper. ipam. ucla. edu/publications/qlatut/qlatut_15156. pdf	3	2017
+Finite time blowup for high dimensional nonlinear wave systems with bounded smooth nonlinearity
+T Tao
+Communications in Partial Differential Equations 41 (8), 1204-1229	3	2016
+The Mobius and Nilsequences Conjecture
+B Green, T Tao
+3	2008
+Generalized solutions
+T Tao, T Gowers, J Barrow-Green, I Leader
+by T. Gowers, J. Barrow-Green, and I. Leader. Princeton University Press …	3	2008
+Some notes on non classical polynomials in finite characteristic
+T Tao
+http://terrytao. wordpress. com/2008/11/13/some-notes-on-non-classical …	3	2008
+Function spaces
+T Tao
+The Princeton companion to mathematics, 210-213	3	2008
+The energy-critical nonlinear Schrodinger equation in R^ 3
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Contemporary Mathematics 439, 69	3	2007
+Quantitative limiting absorption principles on manifolds, and applications
+I Rodnianski, T Tao
+preprint	3	2005
+From Rotating Needles to Stability of Waves: Emerging Connections between
+T Tao
+Notices of the AMS 48 (3)	3	2001
+A new bound on partial sum-sets and difference-sets, and applications to the Kakeya conjecture
+NH Katz, T Tao
+arXiv preprint math/9906097	3	1999
+The honeycomb model of
+A Knutson, T Tao, C Woodward
+GL (n) tensor products II: Puzzles determine the facets of the Littlewood …	3	
+Global regularity of wave maps IV. Absence of stationary or self-similar solutions in the energy class, preprint (2008)
+T Tao
+arXiv preprint arXiv:0806.3592	3	
+Global regularity of wave maps III. Large energy from R1+ 2 to hyperbolic spaces, preprint (2008)
+T Tao
+arXiv preprint arXiv:0805.4666	3	
+Harmonic analysis
+T Tao
+Lecture notes at UCLA, http://www. math. ucla. edu/∼ tao/247a	3	
+A bound for progressions of length k in the primes
+B Green, T Tao
+Preprint	3	
+The structure of arbitrary Conze-Lesigne systems
+A Jamneshan, O Shalom, T Tao
+arXiv preprint arXiv:2112.02056	2	2021
+Additive energy of regular measures in one and higher dimensions, and the fractal uncertainty principle
+L Cladek, T Tao
+arXiv preprint arXiv:2012.02747	2	2020
+Embedding the Heisenberg group into a bounded-dimensional Euclidean space with optimal distortion
+T Tao
+Revista Matemática Iberoamericana 37 (1), 1-44	2	2020
+Erratum to: Outliers in the spectrum of iid matrices with bounded rank perturbations
+T Tao
+Probability Theory and Related Fields 157 (1), 511-514	2	2013
+The AKS primality test
+T Tao
+Blog post by Terence Tao	2	2009
+Long arithmetic progressions in the primes Australian Mathematical Society Meeting 26 September 2006
+T Tao
+Unfortunately, the twin prime and even Goldbach conjectures remain wide open	2	2006
+The Poincaré Conjecture
+R Hamilton
+Plenary Lecture 25th ICM Madrid	2	2006
+The bi-Carleson operator
+C Muscalu, T Tao, C Thiele
+2	2005
+Notes on symplectic non-squeezing of the KdV flow
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Journées équations aux dérivées partielles, 1-15	2	2005
+Symplectic nonsqueezing of the KdV flow
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+arXiv preprint math/0412381	2	2004
+Global regularity for the Maxwell-Klein-Gordon equation in high dimensions
+I Rodnianski, T Tao
+Comm. Math. Phys	2	
+Random matrices
+T Tao, V Vu
+The Circular Law	2	
+Higher uniformity of arithmetic functions in short intervals I. All intervals
+K Matomäki, X Shao, T Tao, J Teräväinen
+arXiv preprint arXiv:2204.03754	1	2022
+Optimal sine and sawtooth inequalities
+L Esser, T Tao, B Totaro, C Wang
+Journal of Fourier Analysis and Applications 28 (2), 1-21	1	2022
+The inverse theorem for the  Gowers uniformity norm on arbitrary finite abelian groups: Fourier-analytic and ergodic approaches
+A Jamneshan, T Tao
+arXiv preprint arXiv:2112.13759	1	2021
+Long gaps in sieved sets
+K Ford, S Konyagin, J Maynard, CB Pomerance, T Tao
+Journal of the European Mathematical Society 23 (2), 667-700	1	2020
+Analysis and applications: The mathematical work of Elias Stein
+C Fefferman, A Ionescu, T Tao, S Wainger
+Bulletin of the American Mathematical Society 57 (4), 523-594	1	2020
+Homogenization of iterated singular integrals with applications to random quasiconformal maps
+K Astala, S Rohde, E Saksman, T Tao
+arXiv preprint arXiv:2006.11602	1	2020
+Correction to: Fourier uniformity of bounded multiplicative functions in short intervals on average
+M Kaisa, R Maksym, T Tao
+Inventiones mathematicae 220 (1), 59-59	1	2020
+Continuous functions on metric spaces
+T Tao
+Analysis II, 28-44	1	2016
+Struktur und Zufälligkeit der Primzahlen
+T Tao
+Eine Einladung in die Mathematik, 1-8	1	2013
+On the number of solutions to 
+T Tao
+1	2011
+III. 27 The Fourier Transform
+T Tao
+The Princeton Companion to Mathematics, 204-208	1	2008
+A technical survey of harmonic analysis
+T TAO
+Technical report, University of California, Los Angeles, CA, USA	1	2007
+An X-ray transform estimate in 
+I Laba, T Tao
+Revista Matemática Iberoamericana 17 (2), 375-407	1	2001
+Three regularity results in harmonic analysis
+T Tao
+Topics In Analysis And Its Applications: Selected Theses, 61-97	1	2000
+Amer. J. Math
+M Keel, T Tao
+Endpoint Strichartz estimates. 120, 955–980	1	1998
+What’s new-2007
+T Tao
+1	
+Measurable tilings by abelian group actions
+J Grebík, R Greenfeld, V Rozhoň, T Tao
+arXiv preprint arXiv:2203.01511		2022
+Decidability and periodicity of translational tilings
+R Greenfeld, T Tao
+2021 Fall Western Sectional Meeting		2021
+Undecidable translational tilings with only two tiles, or one nonabelian tile
+R Greenfeld, T Tao
+arXiv preprint arXiv:2108.07902		2021
+Varieties of general type with many vanishing plurigenera, and optimal sine and sawtooth inequalities
+L Esser, T Tao, B Totaro, C Wang
+arXiv e-prints, arXiv: 2107.11058		2021
+Singmaster's conjecture in the interior of Pascal's triangle
+K Matomäki, M Radziwiłł, X Shao, T Tao, J Teräväinen
+arXiv preprint arXiv:2106.03335		2021
+1 The Fractional Biest Operator
+C Muscalu, T Tao
+2020
+On the Path to Becoming a Mathematician: Perspectives from Living Proof
+L Taalman, AP Langarica, R Wilson, T Tao, J Gallian
+Notices of the American Mathematical Society 67 (7), 1003-1009		2020
+Dynamical approach to random matrix theory
+T Tao
+BULLETIN OF THE AMERICAN MATHEMATICAL SOCIETY 57 (1), 161-169		2020
+Combinatorics and random matrix theory
+T Tao
+BULLETIN OF THE AMERICAN MATHEMATICAL SOCIETY 57 (1), 161-169		2020
+Jean Bourgain, problem solver
+TCS Tao
+Proceedings of the National Academy of Sciences 116 (28), 13717-13718		2019
+三维非匀质 Navier-Stokes 方程的部分正则性
+陶涛， 王文栋， 章志飞
+中国科学: 数学		2018
+Long gaps between primes
+J Maynard, K Ford, B Green, T Tao, S Konyagin
+Journal of the American Mathematical Society		2017
+Endpoint Strichartz Estimates
+G Brocchi, M Keel, T Tao
+2017
+Ad Honorem Charles Fefferman
+M Wein, LÁ Seco, AC Barba, J Fröhlich, B Klartag, D Córdoba, ...
+Notices of the American Mathematical Society 67 (11), 1154-1173		2017
+Selections Reprinted from Mathematical Reviews
+WT Gowers, DR Heath-Brown, B Host, B Kra, R McCutcheon, T Tao, V Vu, ...
+Bull. Amer. Math. Soc 54, 123-134		2017
+Annals of Mathematics. Second Series
+K Ford, B Green, S Konyagin, T Tao
+Ann. of Math.(2) 183 (3), 935-974		2016
+Integers and Rationals
+T Tao
+Analysis I, 74-93		2016
+The real numbers
+T Tao
+Analysis I, 94-125		2016
+Set theory
+T Tao
+Analysis I, 33-73		2016
+Starting at the beginning: The natural numbers
+T Tao
+Analysis I, 13-32		2016
+Infinite sets
+T Tao
+Analysis I, 181-210		2016
+The Riemann integral
+T Tao
+Analysis I, 267-304		2016
+Differentiation of functions
+T Tao
+Analysis I, 251-266		2016
+Limits of sequences
+T Tao
+Analysis I, 126-154		2016
+Continuous functions on R
+T Tao
+Analysis I, 211-250		2016
+Series
+T Tao
+Analysis I, 155-180		2016
+Metric spaces
+T Tao
+Analysis II, 1-27		2016
+Several Variable Differential Calculus
+T Tao
+Analysis II, 127-161		2016
+Uniform convergence
+T Tao
+Analysis II, 45-74		2016
+Fourier series
+T Tao
+Analysis II, 107-126		2016
+Power series
+T Tao
+Analysis II, 75-106		2016
+Lebesgue measure
+T Tao
+Analysis II, 162-186		2016
+Lebesgue integration
+T Tao
+Analysis II, 187-211		2016
+A review for this item is in process.
+I Rodnianski, T Tao
+Comm. Math. Phys 333 (1), 1-95		2015
+In this paper, the authors consider a random matrix, the entries of which are inde-pendent, exponentially decaying, have independent real and imaginary parts, and have moments …
+T Tao, V Vu
+Ann. Probab 43 (2), 782-874		2015
+Chapter Fourteen
+C Muscalu, T Tao, C Thiele
+Advances in Analysis: The Legacy of Elias M. Stein (PMS-50) 42, 346		2014
+MR3143702 (Review) 11P32
+T Tao
+Math. Comp 83 (286), 997-1038		2014
+MR3171762 (Review) 37A15
+B Green, T Tao
+Ann. of Math.(2) 179 (3), 1175-1183		2014
+MR3177376 (Review) 37A25 20P05
+V Bergelson, T Tao
+Geom. Funct. Anal 24 (1), 1-48		2014
+Arbeitsgemeinschaft: Ergodic Theory and Combinatorial Number Theory
+V Bergelson, N Frantzikinakis, T Tao, T Ziegler
+Oberwolfach Reports 9 (4), 2985-3059		2013
+Notes on Zhang’s Prime Gaps Paper
+T Tao
+2013
+MR3101841 (Review) 60B20
+T Tao
+Probab. Theory Related Fields 157 (1-2), 81-106		2013
+Forum Math. Sigma 1 (2013), e2, 40 pp.
+T Tao
+Forum Math 1, e2-40		2013
+AMS Subject Classification: 11B30, 11T06
+T Tao, T Ziegler
+Annals of Combinatorics 16 (1), 121-188		2012
+Quadratic uniformity of the Mobius function
+TC Tao, BJ Green
+2012
+SOURCE (OR PART OF THE FOLLOWING SOURCE): Type article Title Large values of the Gowers-Host-Kra seminorms
+T Eisner, T Tao
+2012
+Computer-implemented method for correcting transmission errors using linear programming
+E Candes, T Tao
+US Patent 7,890,842		2011
+III. 16 Differential Forms and Integration
+T Tao
+The Princeton Companion to Mathematics, 175-180		2010
+IV. 11 Harmonic Analysis
+T Tao
+The Princeton Companion to Mathematics, 448-455		2010
+III. 78 Ricci Flow
+T Tao
+The Princeton Companion to Mathematics, 279-281		2010
+III. 83 The Schrödinger Equation
+T Tao
+The Princeton Companion to Mathematics, 285-288		2010
+III. 35 Hamiltonians
+T Tao
+The Princeton Companion to Mathematics, 215-216		2010
+The Dantzig selector: Statistical estimation when P is much larger than n 512: Y
+E Candes, T Tao
+Quality Control and Applied Statistics 54 (1), 83		2009
+Published: June 22, 2009
+T Tao
+New York Journal of Mathematics 15, 265-282		2009
+Joseph D. Masters, William Menasco and Xingru Zhang Heegaard splittings and virtually Haken Dehn filling. II
+X Wang, HP Yu, K Benmeriem, C Bouzar, M Ganichev, NJ Kalton, ...
+New York Journal of Mathematics 15		2009
+III. 77 Representations
+T Tao
+The Princeton Companion to Mathematics, 279		2008
+RANDOM MATRICES: UNIVERSALITY OF ESDS AND THE CIRCULAR LAW
+M Krishnapur, T Tao, V Vu
+arXiv preprint arXiv:0807.4898		2008
+A remark on primality testing and the binary expansion
+T Tao
+arXiv preprint arXiv:0802.3361		2008
+ANZIAM 2008 6 February, 2008
+T Tao
+2008
+MR2415379 (2009e: 11181) 11N13 11A41 11B25 37A45
+B Green, T Tao
+Ann. of Math.(2) 167 (2), 481-547		2008
+なお, 本研究は James Colliander, Markus Keel, Gigliola Staffilani
+T Tao
+数理解析研究所講究録 1529, 110-122		2007
+INSIGHTS FROM SMPY" S GREATEST FORMER CHILD PRODIGIES: DRS. TERENCE (&LDQUO; TERRY&RDQUO;) TAO AND LENHARD (&LDQUO; LENNY&RDQUO;) NG REFLECT ON THEIR TALENT DEVELOPMENT
+MC Muratori, JC Stanley, L Ng, J Ng, MUM Gross, T Tao, B Tao
+Gifted Child Quarterly 50 (4), 307-324		2006
+MR2221256 (2007a: 42008) 42A20
+C Muscalu, T Tao, C Thiele
+Geom. Funct. Anal 16 (1), 230-277		2006
+THE AVERAGING LEMMA, KINETIC FORMULATIONS AND REGULARIZING EFFECTS IN NONLINEAR PDES
+E TADMOR, T TAO
+2005
+Information theory, relative versions of the hypergraph regularity and removal lemmas, the Szemer\'edi-Furstenberg-Katznelson theorem, and prime constellations in number fields
+T Tao
+math/0501314		2005
+MR2181092 (2006g: 42012) 42B10 (42B20)
+M Christ, X Li, T Tao, C Thiele
+Duke Math. J 130 (2), 321-351.1547		2005
+Published: February 28, 2005
+T Tao
+New York Journal of Mathematics 11, 57-80		2005
+The main result of this interesting paper is that there do not exist “approximate subrings” of Fp when p is prime. In fact, the authors prove that if δ> 0 and if A⊆ Fp has …
+J Bourgain, N Katz, T Tao
+Geom. Funct. Anal 14 (1), 27-57		2004
+Azizov, T. Ya., 324
+R Banuelos, AI Barsukov, J Colliander, JM Delort, A Dijksma, JF Escobar, ...
+Journal of Functional Analysis 211, 525		2004
+The honeycomb model of IMG WIDTH=" 76" HEIGHT=" 41" ALIGN=" MIDDLE" BORDER=" 0" SRC=" http://www. ams. org/jams/2004-17-01/S0894-0347-03-00441-7/gif-t-itle0/img1. gif" ALT …
+A Knutson, T Tao, C Woodward
+Journal of the American Mathematical Society 17 (1), 19-48		2004
+Endpoint mapping properties of spherical maximal operators
+T Tao, J Wright, A Seeger
+Cambridge University Press		2003
+Monthubert, Bertrand, 243
+S Muller, M Bordemann, E Colorado, DG De Figueiredo, R Exel, ...
+Journal of Functional Analysis 199, 557		2003
+L2 Bounds for Normal Derivatives of Dirichlet Eigenfunctions
+A Hassell, T Tao
+International Conference on Harmonic Analysis and Related Topics 41, 57-68		2003
+On a problem by Arens, Goldberg, and Luxemburg
+R Redheffer, T Tao
+arXiv preprint math/0212075		2002
+ORBITAL INSTABILITY BOUNDS FOR THE NON-LINEAR SCHRODINGER EQUATION BELOW THE ENERGY NORM
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+arXiv preprint math/0212113		2002
+On the bi-carleson operator I. The Walsh case
+C Muscalu, T Tao, C Thiele
+arXiv preprint math/0201060		2002
+MR1945287 (2003m: 35139) 35L05
+S Klainerman, I Rodnianski, T Tao
+J. Anal. Math 87, 299-336.1565		2002
+Colliander, J.(3-TRNT); Keel, M.(1-MN-SM); Staffilani, G.(1-STF)
+H Takaoka, T Tao
+Math. Res. Lett 9 (5-6), 659-682		2002
+MR1950826 (2004c: 35381) 35Q55 35B30 37K10
+H Takaoka, T Tao
+SIAM J. Math. Anal 34 (1), 64-86		2002
+THE HONEYCOMB MODEL OF ÄÒ µ TENSOR PRODUCTS II: PUZZLES DETERMINE FACETS OF THE LITTLEWOOD-RICHARDSON CONE
+A KNUTSON, T TAO, C WOODWARD
+arXiv preprint math.CO/0107011		2001
+Global well-posedness for KdV in Sobolev spaces of...
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+2001
+MR1869874 (2002h: 58052) 58J45 35B60 35B65 35L15 58J47
+T Tao
+Comm. Math. Phys 224 (2), 443-544		2001
+Colliander, J.(3-TRNT); Keel, M.(1-MN-SM); Staffilani, G.(1-BRN)
+H Takaoka, T Tao
+SIAM J. Math. Anal 33 (3), 649-669		2001
+MR1820329 (2001m: 35200) 35L15 35B60 35B65 58J47
+T Tao
+Internat. Math. Res. Notices, 299-328		2001
+Some light on Littlewood-Paley theory
+T Tao
+math/0011246		2000
+A remark on circular means of Fourier transforms of measures
+T Tao
+arXiv preprint math/0001030		2000
+MR1759884 (2001f: 58062) 58J45 35R25
+T Tao
+Amer. J. Math 122 (3), 451-463		2000
+A new bound on partial sum-sets and difference-sets, and applications to the Kakeya conjecture
+N Hawk Katz, T Tao
+arXiv Mathematics e-prints, math/9906097		1999
+An improved bound on the Minkowski dimension of Besicovitch sets in R^ 3
+N Hawk Katz, I Łaba, T Tao
+arXiv Mathematics e-prints, math/9903166		1999
+The weak-type (1, 1) of L log L homogeneous convolution operators, Indiana
+T Tao
+Department of Mathematics, University of Portland, USA		1999
+Additive combinatorics
+TC Tao, VH Vu
+Bull. Amer. Math. Soc		
+ÉQUATIONS AUX DÉRIVÉES PARTIELLES
+T Tao
+III. 33 Genus
+T Tao
+ANALYSIS & PDE
+H LINDBLAD, T TAO
+Nonstandard methods in combinatorial number theory
+D Ross, R Jin, J Moreira, T Tao, G Conant, A Chernikov
+LECTURE NOTES 10 FOR 247B
+T TAO
+MIKHAIL A. CHEBOTAR, WEN-FONG KE AND PJEK-HWEE LEE
+E CHETCUTI, JAN HAMHALTER, B GREEN, T TAO, JM ISIDRO, ...
+Expansion in finite simple groups of Lie type
+T Tao
+Bull. Amer. Math. Soc		
+SIGN PATTERNS OF THE LIOUVILLE AND MOBIUS FUNCTIONS
+KM AKI, M RADZIWIŁŁ, T TAO
+MR2127985 (2005k: 42054) 42B25 (42B30)
+C Muscalu, T Tao, C Thiele
+Dedicated to the memory of Tom Wolff
+S KLAINERMAN, I RODNIANSKI, T TAO
+Homogeneous Ricci Solitons in Low Dimensions Romina M. Arroyo and Ramiro Lafuente 4901 On the Classification of Discrete Hirota-Type Equations in 3D
+EV Ferapontov, VS Novikov, I Roustemoglou, A Bartels, CL Douglas, ...
+Review of1 Structure and Randomness: Pages from Year One of a Mathematical Blog by Terence Tao
+T Tao
+Dedicated with admiration to our late friend Tom Wolff
+C MUSCALU, T TAO, C THIELE
+Analysis and Applications
+JP Anker, P Auscher, J Bourgain, A Carbery, M Christ, J Dziubański, ...
+A PHYSICAL SPACE APPROACH TO WAVE EQUATION BILINEAR ESTIMATES
+SKI RODNIANSKI, T TAO
+Bochner-RieszSummabilityforAnalyticFunctions on them-complexUnitSphereandforCylindrically Sym m etric Functionson Rn−× R
+A Sikora, T Tao
+MR3101397 (Review) 11D68 11D45 11N37 11N56
+C Elsholtz, T Tao
+A review for this item is in process.
+DHJ Polymath, W Castryck, É Fouvry, G Harcos, E Kowalski, P Michel, ...
+Keel, Markus (1-MN); Roy, Tristan (1-UCLA)
+T Tao
+THE ANNALS
+M HAIRER, M HUTZENTHALER, A JENTZEN, F CAMIA, C GARBAN, ...
+A Conference in honor of the 70th birthday of Endre Szemerédi
+N Alon, J Beck, B Bollobás, MC Chang, B Green, J Kahn, J Matousek, ...
+MR2490160 (2010b: 42020) 42B25 (42B20)
+C Demeter, M Lacey, T Tao, C Thiele
+MR2127984 (2005k: 42053) 42B25 (42B30)
+C Muscalu, T Tao, C Thiele
+zemerédi’s theorem, ergodic theory, graph theory, hypergraph theory, arithmetic combinatorics, arithmetic progressions, prime numbers THE DICHOTOMY BETWEEN STRUCTURE AND …
+T TAO
+arXiv preprint math/0512114		
+THE THEORY OF NONLINEAR SCHRODINGER EQUATIONS: PART I
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+REVIEW of the book Structure and Randomness pages from year one of a mathematical blog
+T Tao
+Recent developments on the Kakeya and restriction problems
+T Tao
+ÉQUATIONS AUX DÉRIVÉES PARTIELLES
+J Colliander, M Keel, G Staffilani, H Takaoka, T Tao
+Matrix Completion
+EJ Candès, T Tao, T Abualrub, A Ghrayeb, N Aydin, I Siap, S Bouyuklieva, ...
+ON THE PERMANENT OF A RANDOM BERNOULLI MATRIX
+VU VAN, T TAO
+A Conference in honor of the 70th birthday of Endre Szemerédi
+M Ajtai, N Alon, J Beck, B Bollobás, MC Chang, H Furstenberg, T Gowers, ...
+Mathematics in Australia
+T Tao
+The Australian Mathematical Society, 235		
+Articles 1–584
+HelpPrivacyTerms
