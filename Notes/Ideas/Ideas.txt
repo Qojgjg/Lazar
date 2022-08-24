@@ -16,7 +16,7 @@ vector<int> av(a);
 
 	Housing Noise Factors
 
-How to design a neighbourhood streets structure given a geography and topology with the target goal of maximising aggregate housing prices or land lots values? Interesting to note optimal routes via primary feeder roads in the context of my own childhood home house perhaps having people to the Left driving up to the Left and people on the Right driving up to the Right thus implying that medians and cul de sacs are potentially very quiet lots with respect to passing traffic minimisation. Will add as an aside to Productivity.txt.
+How to design a neighbourhood streets structure given a geography and topology with the target goal of maximising aggregate housing prices or land lots values? Interesting to note optimal routes via primary feeder roads in the context of my own childhood home house perhaps having people to the Left driving up to the Left and people on the Right driving up to the Right thus implying that medians and cul de sacs are potentially very quiet lots with respect to passing traffic minimisation.
 
 	IO Completion Target 2024
 
