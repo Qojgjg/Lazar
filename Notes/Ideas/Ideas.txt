@@ -10,6 +10,22 @@ Coming soon perhaps by 2022-10-01.
 
 Maybe maybe cut it all to my Diary and only post up real projects on my GitHub.
 
+	Menage A Trois At The International Mathematics Olympiad
+
+Funny story.
+
+"
+See sometimes in life these mother fuckers take your kindness for weakness
+So sometimes in life you just got to blow their mother fucking faces off
+I wear Gucci, I wear Bally at the same damn time
+On the phone, cooking dope, at the same damn time
+Selling White, selling mid, at the same damn time
+Fucking two bad bitches at the same damn time
+At the same damn time, at the same damn time
+At the same damn time, at the same damn time
+I'm at Pluto, I'm at Mars at the same damn time
+"
+
 	Simpler Vector Declaration
 
 vector<int> av(a);
