@@ -2436,12 +2436,12 @@ void deleteLast(struct Node** head, int x)
 // given key 
 struct Node* newNode(int x)
 {
-	Node* node = new Node ;
+	Node* node = new Node;
 	node->data = x;
 	node->next = NULL;
 	return node;
 }
-  
+
 // This function prints contents of linked
 // list starting from the given Node
 void display(struct Node* head)
@@ -2459,7 +2459,7 @@ void display(struct Node* head)
 	}
 	cout << "NULL\n";
 }
-  
+
 // Driver code
 int main()
 {
@@ -2609,41 +2609,41 @@ int main(void)
 // after M nodes of a linked list 
 #include <bits/stdc++.h>
 using namespace std;
-  
+
 // A linked list node 
 class Node 
-{ 
+{
 	public:
-	int data; 
-	Node *next; 
-}; 
-  
+	int data;
+	Node *next;
+};
+
 /* Function to insert a node at the beginning */
-void push(Node ** head_ref, int new_data) 
-{ 
+void push(Node ** head_ref, int new_data)
+{
 	/* allocate node */
 	Node* new_node = new Node();
-  
+
 	/* put in the data */
-	new_node->data = new_data; 
-  
+	new_node->data = new_data;
+
 	/* link the old list off the new node */
-	new_node->next = (*head_ref); 
-  
+	new_node->next = (*head_ref);
+
 	/* move the head to point to the new node */
-	(*head_ref) = new_node; 
+	(*head_ref) = new_node;
 } 
   
 /* Function to print linked list */
-void printList(Node *head) 
-{ 
-	Node *temp = head; 
-	while (temp != NULL) 
-	{ 
-		cout<<temp->data<<" "; 
-		temp = temp->next; 
-	} 
-	cout<<endl; 
+void printList(Node *head)
+{
+	Node *temp = head;
+	while (temp != NULL)
+	{
+		cout<<temp->data<<" ";
+		temp = temp->next;
+	}
+	cout<<endl;
 } 
   
 // Function to skip M nodes and then
@@ -2954,3 +2954,16 @@ int main()
 	return 0;
 }
 
+// OA Uber And SIG Puzzles Round Semi Public
+
+long long solution(vector<string> queryType, vector<vector<int>> query) {
+	long long keyOffset = 0, valueOffset = 0, answer = 0;
+	unordered_map<long long, long long> amap;
+	for(int a = 0; a < int(queryType.size()); a++){
+		if(queryType[a][0] == 'i') amap.insert({query[a][0] - keyOffset , query[a][1] - valueOffset});
+		else if(queryType[a][0] == 'g') answer += amap[query[a][0] - keyOffset] + valueOffset;
+		else if(queryType[a][5] == 'K') keyOffset += query[a][0];
+		else valueOffset += query[a][0];
+	}
+	return answer;
+}
